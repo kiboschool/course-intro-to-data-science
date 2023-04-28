@@ -1,4 +1,4 @@
-# Course Overview
+# Introduction to Data Science
 
 This page should include:
 
