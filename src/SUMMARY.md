@@ -1,16 +1,60 @@
 # Overview
 
 [Course Overview](course-overview.md)
-[Assessments & Grading](assessments.md)
 [Live Classes](live-classes.md)
+[Weekly Project](weekly-project.md)
+[Final Project](final-project.md)
+
+<!--
 
 ## Lessons
 
 ### Week 1
 
-- [Week 1](lessons/week-1.md)
-    - [Example Lesson](lessons/week-1/example.md)
+- [Intro to data science](lessons/intro-to-data-science.md)
+    - [What is data science](lessons/intro-to-data/what-is-data-science.md)
+    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
+    - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
+    - [Data and Spreadsheet](lessons/intro-to-data/data-science-tools.md)
+    - [Notebooks and Colab](lessons/intro-to-data/python-notebooks.md)
+    - [Intro to pandas](lessons/intro-to-data/python-notebooks.md)
+    - [Practices]()
+    - [Assignment]()
+    - [BONUS: Careers in data science]()  -->
 
+<!--
 ### Week 2
 
+- [Data collection and cleaning](lessons/data-collection-cleaning.md)
+    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
+    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
+    - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
+    - [Descriptive statistics]()
+    - [Practices]()
+    - [Assignment]()
+    - [Bonus: GDPR and data privacy]() 
+
+### Week 3
+
+- [Data Visualization & Insight](lessons/data-visualization.md)
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
+    - [Visualization tools]()
+    - [Creating basic plots]()
+    - [Insight and reporting]()
+    - [Communicating your insight]()
+    - [Practices]()
+    - [Assignment]()
+    - [Bonus: Data story telling]()
+
+
+### Week 4
+
+- [Intro to Machine Learning](lessons/intro-to-ml.md)
+    - [Getting to know ML]()
+    - [Supervised and unsupervised]()
+    - [classification and regression]()
+    - [Applications of ML]()
+    - [Build your model]()
+    - [Practices]()
+-->
 ...
