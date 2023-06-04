@@ -2,10 +2,12 @@
 
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)
+
+<!--
 [Weekly Project](weekly-project.md)
 [Final Project](final-project.md)
 
-<!--
+
 
 ## Lessons
 
