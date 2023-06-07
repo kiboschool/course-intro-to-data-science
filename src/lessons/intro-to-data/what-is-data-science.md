@@ -1,6 +1,6 @@
 # Intro to Data Science
 
-**Data is the new electricity - Satya Nadella (CEO, Microsoft)**
+> **_"Data is the new electricity" - Satya Nadella_**
 
 We live in a time where huge amount of data are generated every second through website visit, social media likes and posts, online purchase, gaming, and online movie streaming among others. With an estimated 2.5 quintillion bytes of data generated each day, it is now inevitable for individuals and businesses to strategize on ways to derive valuable insight from this huge data lying around. 
 
@@ -12,9 +12,9 @@ Now that you have an idea about the data boom, let’s look at what data science
 
 **_Definition_**
 
-_Data science_ is a multidisciplinary field that involves using statistical and computational methods to extract insights from complex data sets. 
+_Data science_ is a multidisciplinary field that involves using statistical and computational methods to extract insights from complex dataset. 
 
-It encompasses various techniques and tools, including data preprocessing, analysis, visualization, and machine learning.
+It encompasses various techniques and tools, including data preprocessing, analysis, and visualization among others.
 
 </aside>
 
@@ -76,11 +76,23 @@ As an important part of every business, the role of a data scientist includes th
 
 - Staying up-to-date with the latest trends and tools in data science, and continuously improving skills and knowledge through ongoing learning and development.
 
-## 👩🏾‍🎨 Practice: Data and Businesses
+<aside>
+
+**_In summary..._**
+
+`Data science` is a rapidly evolving field that involves extracting insights and knowledge from data using statistical and computational methods. It plays a crucial role in today's businesses, where vast amounts of data are generated and collected. It enables organizations to analyze and interpret this data to make informed decisions, identify trends and patterns, and gain a competitive edge. `Data scientists`, as key players in this field, are responsible for collecting, cleaning, and analyzing data, applying machine learning techniques, and creating visualizations to communicate findings. They collaborate with domain experts and stakeholders to solve complex problems, optimize processes, improve customer experiences, and drive innovation. 
+
+</aside>
+
+> ### 👩🏾‍🎨 Practice: Data and Businesses
+
 - Why is data science important for businesses?
-- Highlight 2 things a data scientist doesn't do in an organization.
+- Highlight 2 things a data scientist **doesn't do** in an organization.
 
 Answer these questions in the padlett below.
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-> 👉🏾 In the next section, we'll see  the building blocks of data science, and what a typical data science project looks like.
+**[https://padlet.com/curriculumpad/data-and-businesses](https://padlet.com/curriculumpad/data-and-businesses-zigvzmudyxsfguot)**
+
+<!-- <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-and-businesses-zigvzmudyxsfguot" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div> -->
+
+> 👉🏾 In the next section, we'll explore the building blocks and typical workflow of data science.

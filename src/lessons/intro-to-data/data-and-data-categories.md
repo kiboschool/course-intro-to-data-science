@@ -10,7 +10,7 @@ Data is any information that is collected, stored, and analyzed to generate insi
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2X9pv7FUrOk" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2X9pv7FUrOk" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> -->
 
 Data is increasing rapidly due to several factors... 
 - rise of digital technologies 
@@ -21,15 +21,15 @@ In fact, it is estimated that the amount of data generated worldwide will reach 
 
 >👩🏾‍🎨  **_...Data is the new electricity in town..._**
 
-Just as electricity transformed industries such as manufacturing, transportation, and communications, _**data**_ is transforming modern-day businesses and organizations across various domains. Currently, it is being generated and consumed globally at an unprecedented rate, and it has become a valuable resource that drives innovation, growth, and competitiveness.
+Just as electricity transformed industries such as manufacturing, transportation, and communications, _**data**_ is transforming modern-day businesses and organizations across various domains. Currently, it is being generated and consumed globally at an unprecedented rate, and it has become a valuable resource that drives innovation, growth, and competitiveness. Consequently, we now live in the era of `big data`. 
 
 <aside>
 
-📺 Here's is Microsoft CEO's view on data as the new electricity 
+📺 Here's what you need to know about big data  
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/VIAFQ5p2dxU?start=39" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/bAyrObl7TYE" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- # ghjjd
 
@@ -37,11 +37,13 @@ Just as electricity transformed industries such as manufacturing, transportation
 
 
 ## Data Types
-The data we have today are in different forms such as social media likes and posts, online purchase, gaming, business transactions, and online movie streaming among others. Understanding the types of data that you are working with is essential in ensuring that you are using the appropriate methods to analyze and manipulate it.
+The data we have today are in different forms such as social media likes and posts, online purchase, gaming, business transactions, and online movie streaming among others. Understanding the types of data that you are working with is essential in ensuring that you are using the appropriate methods to analyze and manipulate it. _Data types_ refer to the classification or categorization of variables based on the nature of the data they represent. Common data types are represented in the image below.
 
-> **Note**: Sometimes, it is required to convert from one data type to another before analysis or visualization. This conversion is part of _data wrangling_.
+<br>
 
 <img src="intro-to-data/data-types.png" style="border: 2px solid yellow">
+
+These data types are essential for understanding the characteristics and properties of the data and determining appropriate analysis techniques. Let's take a look at each of this data tpes...
 
 - **Numerical Data**: This includes any data that can be represented by numbers, such as height, weight, temperature, or time.
 
@@ -60,7 +62,9 @@ The data we have today are in different forms such as social media likes and pos
 - **Sensor Data**: This includes data collected from sensors, such as pollution sensors, traffic sensors, temperature sensors, pressure sensors, or motion sensors.
 
 - **Transactional Data**: This includes data associated with business transactions, such as sales data, customer orders, or financial transactions.
- -->
+
+> **Note**: Sometimes, it is required to convert from one data type to another before analysis or visualization. This conversion is part of _data wrangling_ or _data preprocessing_.
+
 <!-- 
 ### Data categories
 Now that we understand some data types, let's look at data based on certain characteristics and attribute. 
