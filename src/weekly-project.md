@@ -6,8 +6,14 @@ teammates. The projects will bring together the skills you learn that week.
 This page will list all of the projects, so you have a convenient place to find them.
 
 * [Week 1: Student Performance Report]()
-* [Week 2: Presidential Election Result]()
-* [Week 3: Global Internet Usage]()
+* [Week 2: COVID-19 Analysis]()
+* [Week 3: Presidential Election]()
+* [Week 4: Global Internet Usage]()
+* [Week 5: N/A]()
+* [Week 6: N/A]()
+* [Week 7: N/A]()
+* [Week 8: N/A]()
+* [Week 9: No Project]()
 * [Final Project]()
 
 Note that there are no Weekly Projects in weeks 4 or 5, so that you have time to

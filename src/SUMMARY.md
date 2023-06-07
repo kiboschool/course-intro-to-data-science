@@ -2,12 +2,8 @@
 
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)
-
-<!--
 [Weekly Project](weekly-project.md)
 [Final Project](final-project.md)
-
-
 
 ## Lessons
 
@@ -18,11 +14,12 @@
     - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-science-tools.md)
-    - [Notebooks and Colab](lessons/intro-to-data/python-notebooks.md)
-    - [Intro to pandas](lessons/intro-to-data/python-notebooks.md)
+    - [Data cleaning using Sheet](lessons/intro-to-data/python-notebooks.md)
+    - [Data visualization]()
+    - [Data science tools]() 
     - [Practices]()
     - [Assignment]()
-    - [BONUS: Careers in data science]()  -->
+    - [BONUS: Careers in data science]()
 
 <!--
 ### Week 2

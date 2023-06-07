@@ -1,15 +1,17 @@
 # Live Classes
 
-<!-- 
-As the course progresses, this page should be used to share links to the recordings and resources from the live classes. -->
+Each week, you will have a live class. Live classes are held at the following times:
 
-Each week you will have a live class. Live classes are held at the following times:
-- 
-- 
+<aside>
+
+- **Class A**:
+- **Class B**:
+
+</aside>
 
 Video recordings and resources for the class will be posted after the classes each week.
 
-| Week | Topic                  |  Slides     | Class 1  | Class 2 |
+| Week | Topic                  |  Slides     | Class A  | Class B |
 |------|------------------------|-------------|-----------------|-----------------|
 | 1    | Intro to Data Science  |         |       |        |        
 | 2    | Data Collection and Cleaning|         |       |        |
