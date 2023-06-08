@@ -62,4 +62,4 @@ A smaller sample of the global COVID-19 dataset is provided **[here](https://doc
 </aside>
 
 
-> 👉🏾 Next week, we'll deep dive into using Python and Colab for data analysis.
+> 👉🏾 Next, we'll deep dive into creating cool visualization with Excel.

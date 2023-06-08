@@ -15,7 +15,7 @@
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-spreadsheet.md)
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
-    - [Data visualization]()
+    - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools]() 
     - [Practices]()
     - [Assignment]()
