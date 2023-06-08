@@ -12,7 +12,7 @@ Previously, we described data science as a multidisciplinary field. At the high 
 - **Domain Expertise** - refers to expertise in a specific field or industry, which is critical for understanding the context of the data being analyzed and generating insights that are relevant and useful.  Domain knowledge is particularly important in fields like healthcare, finance, and engineering, where specialized knowledge is required to make informed decisions based on data.
 
 
-In summary, data science building blocks are an intersection of statistical methods, computer science tools, and domain knowledge, which are used together to extract insights and generate value from data. Now, how does a typical data science project looks like while using this building blocks?
+Overall, data science building blocks are an intersection of statistical methods, computer science tools, and domain knowledge, which are used together to extract insights and generate value from data. Now, how does a typical data science project looks like while using this building blocks?
 
 ## Data science workflow
 
