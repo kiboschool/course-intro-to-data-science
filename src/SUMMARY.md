@@ -27,12 +27,11 @@
     - [Data sources and collection]()
     - [Data loading & exploration]()
     - [Data cleaning techniques]()
+    - [Data wrangling]()
     - [Descriptive statistics]()
-    - []()
-    - []()
+    - [GDPR and data privacy]() 
     - [Practices]()
     - [Assignment]()
-    - [Bonus: GDPR and data privacy]() 
 
 ### Week 3
 
