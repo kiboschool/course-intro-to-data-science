@@ -54,9 +54,9 @@ Throughout the entire data science workflow, data scientists need to collaborate
 
 <aside>
 
-**_In summary..._**
+**_In summary...✍🏾_**
 
-`Data science` is built upon a systematic workflow that encompasses several key building blocks. It starts with problem formulation, where the data scientist defines the objective and formulates the problem to be solved. Next comes data collection, where relevant data is gathered from various sources, such as databases, APIs, or web scraping. Once the data is collected, exploratory data analysis (EDA) is conducted to understand its characteristics, identify patterns, and detect outliers. This is followed by data preprocessing and cleaning to handle missing values, outliers, and inconsistencies. The data is then ready for analysis, where statistical and machine learning techniques are applied to derive insights, build predictive models, or uncover relationships. Finally, data visualization techniques are used to communicate the findings effectively, using visual representations such as charts, graphs, and dashboards. 
+_Data science_ is built upon a systematic workflow that encompasses several key building blocks. It starts with problem formulation, where the data scientist defines the objective and formulates the problem to be solved. Next comes data collection, where relevant data is gathered from various sources, such as databases, APIs, or web scraping. Once the data is collected, exploratory data analysis (EDA) is conducted to understand its characteristics, identify patterns, and detect outliers. This is followed by data preprocessing and cleaning to handle missing values, outliers, and inconsistencies. The data is then ready for analysis, where statistical and machine learning techniques are applied to derive insights, build predictive models, or uncover relationships. Finally, data visualization techniques are used to communicate the findings effectively, using visual representations such as charts, graphs, and dashboards. 
 
 </aside>
 

@@ -43,9 +43,9 @@ In the video above, we have covered the following techniques in data cleaning
 
 <aside>
 
-**_In summary..._**
+**_In summary...✍🏾_**
 
-`Data cleaning` in Excel involves the process of identifying and rectifying errors, inconsistencies, and missing values in a dataset. We can start by examining the data for any obvious mistakes or inconsistencies and then use Excel's functions and tools to clean the data. This may include removing duplicates, handling missing values by either deleting or filling them, correcting formatting issues, and ensuring data consistency and accuracy. Excel provides features such as filters, conditional formatting, find and replace, and formula-based operations that can assist in performing these cleaning tasks. **_It is important to approach data cleaning systematically and document the steps taken to maintain transparency and reproducibility_**.
+_Data cleaning_ in Excel involves the process of identifying and rectifying errors, inconsistencies, and missing values in a dataset. We can start by examining the data for any obvious mistakes or inconsistencies and then use Excel's functions and tools to clean the data. This may include removing duplicates, handling missing values by either deleting or filling them, correcting formatting issues, and ensuring data consistency and accuracy. Excel provides features such as filters, conditional formatting, find and replace, and formula-based operations that can assist in performing these cleaning tasks. **_It is important to approach data cleaning systematically and document the steps taken to maintain transparency and reproducibility_**.
 
 </aside>
 
