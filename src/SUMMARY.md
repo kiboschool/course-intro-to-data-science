@@ -16,37 +16,69 @@
     - [Data and Spreadsheet](lessons/intro-to-data/data-spreadsheet.md)
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
-    - [Data science tools]() 
+    - [Data science tools](lessons/intro-to-data/ds-tools.md)
     - [Practices]()
     - [Assignment]()
-    - [BONUS: Careers in data science]()
 
-<!--
+
 ### Week 2
 
 - [Data collection and cleaning](lessons/data-collection-cleaning.md)
-    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
-    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
-    - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
+    - [Data sources and collection]()
+    - [Data loading & exploration]()
+    - [Data cleaning techniques]()
     - [Descriptive statistics]()
+    - []()
+    - []()
     - [Practices]()
     - [Assignment]()
     - [Bonus: GDPR and data privacy]() 
 
 ### Week 3
 
+- [Exploratory Data Analysis](lessons/data-visualization.md)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
+
+### Week 4
+
 - [Data Visualization & Insight](lessons/data-visualization.md)
-    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
+    - [Data visualization]()
     - [Visualization tools]()
     - [Creating basic plots]()
     - [Insight and reporting]()
-    - [Communicating your insight]()
+    - [Communicating your insight]()    
+    - []()
+    - []()
     - [Practices]()
     - [Assignment]()
     - [Bonus: Data story telling]()
 
 
-### Week 4
+### Week 5
+
+- [Feature Engineering](lessons/data-visualization.md)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
+### Week 6
 
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML]()
@@ -54,6 +86,57 @@
     - [classification and regression]()
     - [Applications of ML]()
     - [Build your model]()
+    - []()
+    - []()
+    - []()
     - [Practices]()
--->
+    - [Assignment]()
+
+
+### Week 7
+
+- [Model Evaluation Techniques](lessons/intro-to-ml.md)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
+
+### Week 8
+
+- [Natural Language Processing](lessons/intro-to-ml.md)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
+
+### Week 9
+
+- [Deep Learning Fundamentals](lessons/intro-to-ml.md)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
+### Week 10
+
+- [Final Project]()
+
+
 ...

@@ -1,45 +1,56 @@
-# Python and Jupyter Notebooks
-As previous stated, data scientist use different combination of tools on a daily basis to capture, organize, manipulate, analyze, visualize,a and communicate their findings. In this section, we'll start by looking at the most popular programming language for data science - `Python`. Next, we'll explore `Jupyter Notebook` - an interactive web-based platform.
-
-## Basic intro to Python
-Just the same way we use natural languages like swahili, english, french, arabic, and spanish to communicate, we also need to communicate with computers using some predefined languages known as `programming languages` so that our instruction can be executed. In this course, we'll be learning Python as a programming language for data analysis. Before jumping into the syntax (rules) and semantics of Python, let first understand why the buzz around this programming language.
+# Data Science Tools
+As previously stated, data scientist use different combination of tools on a daily basis to capture, organize, manipulate, analyze, visualize,a and communicate their findings. In this section, we are going to explore the most popular popular tools used by data scienctist. In this lesson, we'll be focus on 3 tools as listed below, however, other tools will be explore as we progress with the course.
 
 <aside>
 
-📺 Why the buzz around Python? listen to Mosh 👨🏾‍💻 
+- `Python` - programming language.
+- `Jupyter Notebook` - an interactive platform.
+- `Google colab` - web-based notebook platform.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Y8Tko2YC5hA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+## Python
+Just the same way we use natural languages like swahili, english, french, arabic, and spanish to communicate, we also need to communicate with computers using some predefined languages known as **programming languages**, so that our instruction can be executed. As you've probably learnt in your `programming 1 & 2` courses, Python is a powerful programming language that is applicable to many areas. One of such area is data science. If you need a refresher on Python, you can use the interactive platform below.
 
-<aside>
+<details>
+    <summary> Quick intro to Python</summary>
 
-**_Python: Getting started..._**
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://futurecoder.io/course/#IntroducingTheShell" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div> 
+</details>
 
-</aside>
+In subsequent weeks, we'll be using Python and its libraries to gather, explore, clean, and manipulate our data. But before then, let us look at some popular libraries in Python which is common among data scientists.
 
-Now that you understand why Python is so popular, let get started by exploring some basic syntax (i.e. rules) and building blocks of the language. You'll use the interactive python shell below to learn about:
-- `The shell`
-- `Variables`
-- `For Loops`
-- `If statements`, and
-- `List`
+<!-- <aside>
 
-To get started, read the instructions on the left and write the codes in the shell (the black console)
+📺 Popular Python libraries for  👨🏾‍💻 
 
+</aside> -->
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Y8Tkoikj2YC5hA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://futurecoder.io/course/#IntroducingTheShell" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
-
-##
-Once you complete the lesson on `List`, then you should by now have a basic understanding of how python works. The question you might want to ask now is _How can i work with data using Python?_. To answer that, let's take a step back and identify what is missing.
 
 > **❓ How can i work with data using Python?**
 
-Previously, we've seen how it is possible to capture and manipulate data using Google Sheets. However, you're limited to only the features provided by Google sheets, even though there is more you can do as a data scientist. This is why you need python to programatically do everything you have in Google sheet and more. To do that, we'll be using Jupter Notebook.
+Previously, we've seen how it is possible to capture, clean, manipulate, and visualize data using Excel. However, you're limited to only the features provided by Excel, even though there is more you can do as a data scientist. This is why you need python to programatically do everything you have in Excel and many more. To do that, we'll be using Jupter Notebook.
 
 ## Jupyter Notebook
-Jupyter Notebook is a free and open standard software for interactive computing across all programming languages. It allows you create and share documents that contain live code, equations, visualizations, and text. For this course, we'll be using an **__online version__** of jupyter notebook known as `Google Colab!`, to avoid the need for installation and configuration for jupyter notebook. 
+
+<aside>
+
+**_Definition..._**
+
+_Jupyter Notebook_ is a user-friendly web application that allows you to create and share documents containing live code, visualizations, and explanatory text. Think of it as a digital notebook where you can write and run code, view the results, and document your thought process along the way.
+
+</aside>
+
+
+The unique feature of Jupyter Notebook is that it allows you to write code in small, manageable chunks called `cells`, which can be executed independently. This interactive nature makes it easy to experiment with code, test different ideas, and see immediate results. You can write code in languages like Python or R, and with the click of a button, execute the cell to see the output.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Y8Tkoikj2YC5hA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Jupyter Notebook also supports the inclusion of visualizations, images, and formatted text, making it an excellent tool for data analysis, data visualization, and presenting your findings.
+
+For this course, we'll be using an **__cloud version__** of jupyter notebook called as `Google Colab!`. With this, you can avoid the need for installation and configuration for jupyter notebook. Let's look at what Google Colab is all about.
 
 <aside>
 
@@ -59,6 +70,26 @@ With `Colab`, you can do everything you've done using the python shell and more.
 - **Code execution**: allows users to execute code in real-time and see the results immediately.
 - **Visualization**: provides support for data visualization tools such as Matplotlib and Seaborn.
 
-In summary, Google Colab is a powerful tool for data scientists, providing access to powerful computing resources, collaboration tools, and a range of features for data analysis and machine learning.
+Overall, Google Colab is a powerful tool for data scientists, providing access to powerful computing resources, collaboration tools, and a range of features for data analysis and machine learning.
 
-> 👉🏾 Next week, we'll deep dive into using Python and Colab for data analysis.
+<aside>
+
+ **👩🏾‍🎨 Practice: Group the libraries** 🎯
+
+</aside>
+
+From the list of Python libraries below, group each library as one of the following - `visualization`, `machine learning`, and `data manipulation`.
+1. Pandas
+2. Bokeh
+3. Numpy
+4. Maplotlib
+5. Pytorch
+6. Keras
+7. SciKit-Learn
+8. Polar
+9. Tensorflow
+10. OpenCV
+
+</aside>
+
+> 👉🏾 Next week, we'll deep dive into `data collection` and `cleanings`.
