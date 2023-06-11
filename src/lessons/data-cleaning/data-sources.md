@@ -1,4 +1,7 @@
 # Data Sources and Collection
+
+> **With data collection, 'the sooner the better' is always the best answer — Marissa Mayer**
+
 As a data scientist, you'll work with different types of data from different sources. It is important to understand not just these data sources but also how to collect the data therein. The process of data collection involves identifying the relevant data sources, collecting and extracting the data, and ensuring its quality and integrity. To achieve this, we'll be looking at 4 different data sources; _databases, APIs, web scraping_, and _data streams_.
 
 ![data-sources-image](./data-cleaning/data-sources.jpeg)
