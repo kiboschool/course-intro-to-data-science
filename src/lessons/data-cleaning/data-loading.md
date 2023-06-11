@@ -67,23 +67,25 @@ Once the data is loaded into a DataFrame, Pandas offers a wide range of methods 
 
 ![data-head](./data-cleaning/read_csv.png)
 
-> ✨ Awesome! You've successfully read your first CSV file using Python and Pandas.
+> ✨ Awesome! you've successfully read your first CSV file using Python and Pandas.
 
 ### Loading data from API
 In addition to loading data from static files like CSV, data scientists often work with real-time data obtained through APIs. To load data from an API, we typically make HTTP requests and retrieve the data in a structured format, such as JSON (JavaScript Object Notation). Pandas provides convenient functions to handle JSON data and convert it into a DataFrame.
 
 To fetch data from an API, we can use the `requests` library in Python to send HTTP requests, and then use Pandas to parse and structure the retrieved data. For this, we'll be using the previous API we used in  First, let's import both Pandas and the request libary.
 
-```
+<code>
 
+```
     import pandas as pd
     import requests 
-
 ```
+
+</code>
 
 Next, we send an HTTP GET request to the specified API and receive a response. The response is typically in JSON format, which can be directly converted into a DataFrame using Pandas.
 
-```
+<code>
 
     # Make a request to the API
     response = requests.get('https://api.unibit.ai/v2/stock/historical/?tickers=AAPL&accessKey=demo')
@@ -91,21 +93,17 @@ Next, we send an HTTP GET request to the specified API and receive a response. T
     # Convert JSON response to DataFrame
     data = pd.DataFrame(response.json())
 
-```
+</code>
 
+> **👩🏾‍🎨 Practice: Explore Pandas function 🎯**
 
-
-
-
-
-
-### 👩🏾‍🎨 Practice: Explore Pandas function 🎯
 In this lesson, we've seen how to read data from CSV and API, and how to get a view of our data using `head()` function. Now you need to explore other Pandas functions.
 1. Using the DataFrame you loaded from the CSV, what type of information do you get when you use `describe()` and `tail()` function?
 2. Share your answer using the padlet below.
     
-    **[https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
+    **[https://padlet.com/curriculumpad/explore-pandas-function](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
 
+<br>
 
 > ➡️ In the next section, you'll be introduced to `data cleaning` 🏙️.
 
