@@ -17,8 +17,8 @@
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools](lessons/intro-to-data/ds-tools.md)
-    - [Practices]()
-    - [Assignment]()
+    - [Practices](lessons/intro-to-data/practice.md)
+    - [Assignment](lessons/intro-to-data/assignment.md)
 
 
 ### Week 2
@@ -27,12 +27,12 @@
     - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
     - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
     - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
-    - [Inconsistency and outliers]()
-    - [Validation and documentation]()
-    - [Transformation & Normalization]()
-    - [GDPR and data privacy]() 
-    - [Practices]()
-    - [Assignment]()
+    - [Inconsistency and outliers](./lessons/data-cleaning/data-inconsistency.md)
+    - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
+    - [Transformation & Normalization](./lessons/data-cleaning/data-transformation.md)
+    - [GDPR and data privacy](./lessons/data-cleaning/data-privacy.md) 
+    - [Practices](./lessons/data-cleaning/practice.md)
+    - [Assignment](./lessons/data-cleaning/assignment.md)
 
 ### Week 3
 

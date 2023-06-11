@@ -50,7 +50,7 @@ The unique feature of Jupyter Notebook is that it allows you to write code in sm
 
 Jupyter Notebook also supports the inclusion of visualizations, images, and formatted text, making it an excellent tool for data analysis, data visualization, and presenting your findings.
 
-For this course, we'll be using an **__cloud version__** of jupyter notebook called as `Google Colab!`. With this, you can avoid the need for installation and configuration for jupyter notebook. Let's look at what Google Colab is all about.
+For this course, we'll be using a **__cloud version__** of jupyter notebook called `Google Colab!`. With this, you can avoid the need for installation and configuration for jupyter notebook. Let's look at what Google Colab is all about.
 
 <aside>
 
