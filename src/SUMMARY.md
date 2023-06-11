@@ -24,11 +24,12 @@
 ### Week 2
 
 - [Data collection and cleaning](lessons/data-collection-cleaning.md)
-    - [Data sources and collection]()
-    - [Data loading & exploration]()
-    - [Data cleaning techniques]()
-    - [Data wrangling]()
-    - [Descriptive statistics]()
+    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
+    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
+    - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
+    - [Inconsistency and outliers]()
+    - [Validation and documentation]()
+    - [Transformation & Normalization]()
     - [GDPR and data privacy]() 
     - [Practices]()
     - [Assignment]()

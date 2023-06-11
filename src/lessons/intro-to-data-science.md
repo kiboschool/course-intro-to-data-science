@@ -1,8 +1,8 @@
 # Intro to Data Science
 
-**Welcome to week 1 of the Intro to data science course** 🤝 
+![getting-started](./intro-to-data/intro-to-data/getting_started.png)
 
-> **_“The secret to getting ahead is getting started” ― Mark Twain_**
+**Welcome to week 1 of the Intro to data science course** 🤝 
 
 This week, we will explore the fundamental concepts and techniques used in data science. We will start by understanding what data science is and its importance in today's world. We will then dive into the data science building blocks and workflows. Next, we will learn about data types and spreadsheet softwares. . Furthermore, you'll explore how to use google sheet to explore, manipulate, clean, and visualize sample dataset. Finally, you'll be introduced to some data science tools.
 
