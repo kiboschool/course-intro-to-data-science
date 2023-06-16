@@ -14,7 +14,7 @@ This page will list all of the projects, so you have a convenient place to find 
 * [Week 7: N/A]()
 * [Week 8: N/A]()
 * [Week 9: No Project]()
-* [Final Project]()
+* [Final Project](final-project.md)
 
 Note that there are no Weekly Projects in weeks 4 or 5, so that you have time to
 work on your Final Project.

@@ -34,6 +34,7 @@
     - [Practices](./lessons/data-cleaning/practice.md)
     - [Assignment](./lessons/data-cleaning/assignment.md)
 
+<!-- 
 ### Week 3
 
 - [Exploratory Data Analysis](lessons/data-visualization.md)
@@ -138,5 +139,6 @@
 
 - [Final Project]()
 
+-->
 
 ...
