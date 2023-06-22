@@ -11,9 +11,9 @@ Try solving these practice challenges to check that you understand the concepts.
 ## Submission
 You are required to submit documentation for practice exercises over the course of the term. Each one will count for 1/10 of your practice grade, or 2% of your overall grade.
 
-To log your practice for credit:
+To log your practice for credit: 
 
-> [Submit a link using this form]()
+> **[Submit a link using this form]()**
 
 - Practice exercises will be graded for completion not correctness. 
 - You have to document that you did the work, but we **won't** be checking if you got it right.

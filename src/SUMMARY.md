@@ -27,7 +27,7 @@
     - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
     - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
     - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
-    - [Inconsistency and outliers](./lessons/data-cleaning/data-inconsistency.md)
+    - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
     - [Transformation & Normalization](./lessons/data-cleaning/data-transformation.md)
     - [GDPR and data privacy](./lessons/data-cleaning/data-privacy.md) 
