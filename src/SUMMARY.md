@@ -29,23 +29,20 @@
     - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
     - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
-    - [Transformation & Normalization](./lessons/data-cleaning/data-transformation.md)
-    - [GDPR and data privacy](./lessons/data-cleaning/data-privacy.md) 
+    - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
     - [Practices](./lessons/data-cleaning/practice.md)
     - [Assignment](./lessons/data-cleaning/assignment.md)
 
-<!-- 
+
 ### Week 3
 
-- [Exploratory Data Analysis](lessons/data-visualization.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+- [Exploratory Data Analysis](lessons/exploratory-analysis.md)
+    - [Intro to EDA]()
+    - [Visualization for EDA]()
+    - [Descriptive statistics]()
+    - [Correlation and covariance]()
+    - [Univariate and bivariate]()
+    - [Multivariate analysis]()
     - [Practice]()
     - [Assignment]()
 
@@ -53,18 +50,17 @@
 ### Week 4
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
-    - [Data visualization]()
+    - [Data visualization](./lessons/data-visualization/what-is-visualization.md)
     - [Visualization tools]()
     - [Creating basic plots]()
     - [Insight and reporting]()
     - [Communicating your insight]()    
-    - []()
-    - []()
+    - [Data story telling]()    
     - [Practices]()
     - [Assignment]()
-    - [Bonus: Data story telling]()
+   
 
-
+<!-- 
 ### Week 5
 
 - [Feature Engineering](lessons/data-visualization.md)
