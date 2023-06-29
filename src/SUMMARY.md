@@ -37,7 +37,7 @@
 ### Week 3
 
 - [Exploratory Data Analysis](lessons/exploratory-analysis.md)
-    - [Intro to EDA]()
+    - [Intro to EDA](./lessons/eda/what-is-eda.md)
     - [Visualization for EDA]()
     - [Descriptive statistics]()
     - [Correlation and covariance]()
@@ -51,11 +51,11 @@
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
     - [Data visualization](./lessons/data-visualization/what-is-visualization.md)
-    - [Visualization tools]()
-    - [Creating basic plots]()
-    - [Insight and reporting]()
-    - [Communicating your insight]()    
-    - [Data story telling]()    
+    - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
+    - [Creating basic plots](./lessons/data-visualization/basic-plots.md)
+    - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
+    - [Communicating your insight](./lessons/data-visualization/comm-insight.md)    
+    - [Data story telling](./lessons/data-visualization/story-telling.md)    
     - [Practices]()
     - [Assignment]()
    
