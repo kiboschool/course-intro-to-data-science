@@ -38,4 +38,4 @@ In summary, data visualization is essential because it enables us to explore and
 # Data visualization for businesses
 From decsion making to performance monitoring and customer insights, data visualization plays a crucial role in businesses across various industries. By leveraging visualizations, we can unlock the value of data, gain insights, and drive success in a competitive market landscape.  -->
 
-> ➡️ In the next section, you'll be learn different data visualization tools.
+> ➡️ In the next lesson, you'll learn different data visualization tools.

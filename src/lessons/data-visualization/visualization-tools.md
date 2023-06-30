@@ -37,13 +37,15 @@ In summary, Power BI allows you to...
 - Power BI offers a wide range of visualization options.
 - Create visually appealing and interactive charts, tables, and maps.
 
-To futher explore Power BI, you download it using the link below.
+To futher explore Power BI, you can download it using the link below.
+
+<strong>
 <details>
   <summary>Download Power BI for desktop!</summary>
 
   **[https://powerbi.microsoft.com/en-us/desktop/](https://powerbi.microsoft.com/en-us/desktop/)**
 </details>
-
+</strong>
 
 ### 2. Tableau
 
@@ -51,7 +53,7 @@ To futher explore Power BI, you download it using the link below.
 
 **_Definition..._**
 
-**_[Tableau](https://www.tableau.com/en-gb/academic/students)_** is a popular data visualization tool that allows novice data scientists to easily create interactive and visually compelling visualizations from raw data. It provides a user-friendly interface that enables users to explore and analyze data without the need for extensive programming skills.
+**_Tableau_** is a popular data visualization tool that allows novice data scientists to easily create interactive and visually compelling visualizations from raw data. It provides a user-friendly interface that enables users to explore and analyze data without the need for extensive programming skills.
 
 </aside>
 
@@ -63,13 +65,23 @@ In summary...
 - It provides a user-friendly interface, a wide range of visualization options, and ample learning resources to support your journey in data visualization and analysis.
 - It provides the ability to create dynamic dashboards, making it an ideal choice for data analysis and communication.
 
+To futher explore Tableau, you can download it using the link below.
+
+<strong>
+<details>
+  <summary> Download Tableau for student </summary>
+
+  **[https://www.tableau.com/en-gb/academic/students](https://www.tableau.com/en-gb/academic/students)**
+</details>
+</strong>
+
 ### 3. Matplotlib
 
 <aside>
 
 **_Definition..._** 
 
-**Matplotlib** is a data visualization library in Python that helps us create various types of static and interactive visualizations. It is widely used in data science and provides a flexible and customizable way to visualize data.
+**_Matplotlib_** is a data visualization library in Python that helps us create various types of static and interactive visualizations. It is widely used in data science and provides a flexible and customizable way to visualize data.
 
 </aside>
 

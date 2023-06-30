@@ -1,5 +1,5 @@
 # Intro to EDA
 
-What is EDA?
+### What is EDA?
 
-Bimi lekan si 😏😏
+<!-- Bimi lekan si 😏😏 -->

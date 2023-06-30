@@ -2,9 +2,9 @@
 
 <img src="./data-visualization/data-viz/Data-Visualization.jpeg" width="100%" height="300px">
 
-**Welcome to week 3 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to normalize and transform our data. 
+**Welcome to week 3 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to validate and document our data. Finally, we briefly explore data privacy and GDPR.
 
-This week, we'll begin our journey of data visulization 😍 by looking at what it is, and different ways of visualizing data. Next, we'll look at methods of creating different visualization plots. Finally, we'll explore different techniques of generating insight from data, and how to communicate insight to stakeholders.
+This week, we'll begin our journey of data visulization 😍 by looking at what it is, and different ways of visualizing data. Next, we'll look at methods of creating different visualization plots and graphs. Finally, we'll explore different techniques of generating insight from data, and how to communicate insight to stakeholders.
 
 
 ## Learning Outcomes

@@ -10,9 +10,9 @@ As previously discussed, visualizing data is a powerful way to understand patter
 
 </aside>
 
+> **NOTE**: We'll be using combination of `Seaborn` and `Matplotlib` in this lesson.
 
-Now, let's explore these plot types by taking a closer look at how we can create them using Seaborn. Kindly note, we'll be using combination of Seaborn and Matplotlib in this lesson.
-
+Now, let's explore these plot types by taking a closer look at how we can create them using Seaborn and Matplotlib. 
 
 ### 1. Bar Chart
 A bar plot is useful for comparing categories or groups and displaying their corresponding values. It allows us to visualize the distribution or relationship between categorical variables. Seaborn's `barplot()` function can be used to create bar plots. 
@@ -80,7 +80,7 @@ With these, we can observe the trend and changes in the student's performance ov
 
 
 ### 3. Box Plot:
-A box plot is used to display the distribution of numerical data and identify outliers. It provides information about the median, quartiles, and potential outliers in the data. Seaborn's boxplot function can be used to create box plots. Here's an example:
+A box plot is used to display the distribution of numerical data and identify outliers. It provides information about the median, quartiles, and potential outliers in the data. Seaborn's `boxplot` function can be used to create box plots. Here's an example:
 
 Let's consider an imaginary dataset of students' scores in different subjects. We'll create a box plot using Seaborn to visualize the distribution of scores.
 
@@ -157,6 +157,14 @@ plt.show()
 ```
 
 ![world-map.png](./data-viz/geo-map.png)
+
+<aside>
+
+**_In summary..._**
+
+The different plots we've explored in this lesson are just a few examples of the types of plots you can create using Seaborn. With different functions and customization options, Seaborn allows us to visualize data in various ways, making it easier to understand patterns, trends, and relationships.
+
+</aside>
 
 ### 👩🏾‍🎨 Practice: Plot your data... 🎯
 
