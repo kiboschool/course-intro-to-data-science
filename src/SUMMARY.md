@@ -53,6 +53,7 @@
     - [Data visualization](./lessons/data-visualization/what-is-visualization.md)
     - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
     - [Creating basic plots](./lessons/data-visualization/basic-plots.md)
+    - [Data distribution](./lessons/data-visualization/data-distribution.md)
     - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
     - [Communicating your insight](./lessons/data-visualization/comm-insight.md)    
     - [Data story telling](./lessons/data-visualization/story-telling.md)    
