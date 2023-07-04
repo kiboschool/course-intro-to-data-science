@@ -58,7 +58,7 @@ The goal of creating a dashboard is to inform a tagetted audience of insights de
 - **Appropriate Visualizations**: Select appropriate charts and graphs that best represent the data and support the dashboard's purpose. Avoid cluttering the dashboard with too many visualizations, as it can confuse users.
 
 
-### 👩🏾‍🎨 Practice: Get your insight... 🎯
+> **👩🏾‍🎨 Practice: Get your insight... 🎯**
 
 <!-- In this lesson, we've seen how to read data from CSV and API, and how to get a view of our data using `head()` function. Now you need to explore other Pandas functions.
 1. Using the DataFrame you loaded from the CSV, what type of information do you get when you use `describe()` and `tail()` function?
@@ -68,4 +68,4 @@ The goal of creating a dashboard is to inform a tagetted audience of insights de
 
  <br><br>
 
-> ➡️ In the next section, you'll learn about `data story telling` 🎯.
+> ➡️ Next, you'll take everything we've covered and apply it to your `Midterm Project` 🎯.

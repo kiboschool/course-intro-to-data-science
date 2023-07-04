@@ -56,7 +56,6 @@
     - [Data size and Bubble chart](./lessons/data-visualization/bubble-chart.md)
     - [Data distribution](./lessons/data-visualization/data-distribution.md)
     - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
-    - [Data story telling](./lessons/data-visualization/story-telling.md)    
     - [Practices]()
     - [Assignment]()
    
