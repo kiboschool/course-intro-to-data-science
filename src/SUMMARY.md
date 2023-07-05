@@ -38,11 +38,11 @@
 
 - [Exploratory Data Analysis](lessons/exploratory-analysis.md)
     - [Intro to EDA](./lessons/eda/what-is-eda.md)
-    - [Visualization for EDA]()
-    - [Descriptive statistics]()
-    - [Correlation and covariance]()
+    - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
     - [Univariate and bivariate]()
     - [Multivariate analysis]()
+    - [Correlation and covariance]()
+    - [Visualization for EDA]()
     - [Practice]()
     - [Assignment]()
 
