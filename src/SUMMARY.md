@@ -40,7 +40,7 @@
     - [Intro to EDA](./lessons/eda/what-is-eda.md)
     - [Fundamentals of statistics](./lessons/eda/fundamentals-of-statistics.md)
     - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
-    - [Measure of dispersion]()
+    - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
     - [Univariate & Multivariate]()
     - [Correlation and covariance]()
     - [Visualization for EDA]()

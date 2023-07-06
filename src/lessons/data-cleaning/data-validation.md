@@ -26,6 +26,8 @@ Format validation is a technique to check if the data follows a specific format 
 
 Anothher example might be for instance, you have a dataset of email addresses, you can validate that all email addresses have the format name@example.com. To achieve this, we can use a `regular expression` as shown in the code snippet below...
 
+<aside>
+
 ```python
 
 import pandas as pd
@@ -41,12 +43,14 @@ valid_data = data[email_format_valid]
 
 # Print the valid data
 print(valid_data)
-
-
 ```
+
+</aside>
 
 ### Range validation
 Range validation technique ensures that the data falls within an acceptable range or set of values. It helps identify any values that are outside the expected range and allows us to filter or handle them accordingly. Let's consider an example of validating ages using Python and the pandas library.
+
+<aside>
 
 ```python
 import pandas as pd
@@ -64,10 +68,14 @@ valid_data = data[age_range_valid]
 print(valid_data)
 ```
 
+</aside>
+
 Range validation in this example ensures that the ages in the dataset are reasonable and fall within a meaningful range (in this case, between 0 and 100 years). It helps identify and exclude any ages that are outside this range, which may be due to errors or outliers.
 
 ### Consistency validation
 Consistency Validation technique verifies the consistency of data across different fields or columns. It ensures data is consistent and conforms to predefined rules or expectations by identifying any inconsistencies or discrepancies in the data. Let's consider an example of validating customer dataset using Python and the pandas library.
+
+<aside>
 
 ```python
 import pandas as pd
@@ -86,11 +94,15 @@ valid_data = data[phone_format_valid & zipcode_format_valid]
 print(valid_data)
 ```
 
+</aside>
+
 Consistency validation in this example ensures that the phone numbers are in the format "XXX-XXX-XXXX" (e.g., 123-456-7890) and the zip codes are five-digit numbers. Any rows with phone numbers or zip codes that do not match these formats would be considered inconsistent and filtered out.
 
 
 ### Cross-Field validation
 Cross-Field Validation technique validates the relationship between multiple fields. It ensures that the values in one field or column of a dataset are consistent or meet certain criteria with values in another field or column. For instance, if we have a dataset with a column for start date and end date, we can validate that the end date is later than the start date.
+
+<aside> 
 
 ```python
 import pandas as pd
@@ -104,6 +116,8 @@ valid_dates = data[data['end_date'] > data['start_date']]
 # Print the valid data
 print(valid_dates)
 ```
+
+</aside>
 
 The code performs cross-field validation by comparing the 'end_date' column with the 'start_date' column. Rows where the end date is later than the start date are considered valid. The code filters out the rows that do not meet this condition, resulting in a dataframe with only the rows that have valid date relationships.
 
