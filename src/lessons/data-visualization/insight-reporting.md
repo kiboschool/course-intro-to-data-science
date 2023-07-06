@@ -11,6 +11,8 @@ An **_interactive dashboard_** is like a digital control panel that allows you t
 
 </aside>
 
+![sales-analysis-dashboard.png](./data-viz/sales-analysis-dashboard.png)
+
 For example, let's say you have an interactive dashboard for the sales data of an online store. You can choose to view the sales performance for specific months, compare sales across different product categories, or filter data to see sales from a particular region or customer segment. With a simple click, the dashboard will update and show you the results, making it easier for you to analyze the data and make important business decisions.
 
 Some popular tools used for creating interactive dashboards are:
