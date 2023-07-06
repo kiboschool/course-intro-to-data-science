@@ -38,9 +38,10 @@
 
 - [Exploratory Data Analysis](lessons/exploratory-analysis.md)
     - [Intro to EDA](./lessons/eda/what-is-eda.md)
+    - [Fundamentals of statistics](./lessons/eda/fundamentals-of-statistics.md)
     - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
-    - [Univariate and bivariate]()
-    - [Multivariate analysis]()
+    - [Measure of dispersion]()
+    - [Univariate & Multivariate]()
     - [Correlation and covariance]()
     - [Visualization for EDA]()
     - [Practice]()
