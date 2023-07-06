@@ -1,5 +1,5 @@
 # Insight and reporting
-Data insight and reporting in data science refer to the process of analyzing and interpreting data to gain valuable information and knowledge that can be used to make informed decisions. By using `interactive dashboards` and `summary statistics`, we can gain insights and present them effectively to help decision-makers understand the data's implications and make well-informed choices.
+Data insight and reporting in data science refer to the process of analyzing and interpreting data to gain valuable information and knowledge that can be used to make informed decisions. By using `interactive dashboards` with summary statistics, we can gain insights and present them effectively to help decision-makers understand the data's implications and make well-informed choices.
 
 ## Interactive dashboards
 
