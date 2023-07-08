@@ -18,8 +18,8 @@
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools](lessons/intro-to-data/ds-tools.md)
-    - [Practices](lessons/intro-to-data/practice.md)
-    - [Assignment](lessons/intro-to-data/assignment.md)
+    - [Practices]()
+    - [Assignment]()
 
 
 ### Week 2
@@ -31,8 +31,8 @@
     - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
     - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
-    - [Practices](./lessons/data-cleaning/practice.md)
-    - [Assignment](./lessons/data-cleaning/assignment.md)
+    - [Practices]()
+    - [Assignment]()
 
 
 ### Week 3
@@ -43,7 +43,7 @@
     - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
     - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
     - [Correlation analysis](./lessons/eda/correlation-covariance.md)
-    - [Visualization for EDA]()
+    - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
     - [Practice]()
     - [Assignment]()
 
