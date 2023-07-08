@@ -12,7 +12,7 @@ _Data visualization_ is the graphical representation of data to convey informati
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EC7EBJ1Bn-c?start=4 title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hEWY6kkBdpo" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 Data visualization is a vital component of the data science workflow, enabling data scientists to explore and communicate insights effectively. By transforming data into visual representations, it'll help us facilitates understanding, aids decision-making, and helps uncover meaningful patterns and relationships in the data. At a high level, data visualization is crucial in data science for two main reasons - _exploration_ and _communication_.
 
