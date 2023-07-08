@@ -77,11 +77,12 @@ In its raw form, _data_ can be categorized into **qualitative** and **quantitati
 - Qualitative data, on the other hand, refers to non-numerical data that cannot be expressed in terms of numbers, such as opinions, attitudes, and beliefs.
  -->
 
-## 👩🏾‍🎨 Practice: Check your understanding
+## 👩🏾‍🎨 Practice: Data type taxonomies
 With your knowledge of data and different data types, check your understanding by attempting the foling questions: 
 1. Group the following sample data into their suitable data types.
     - age
-    - incomeGPS coordinates or 
+    - income
+    - GPS coordinates
     - maps
     - product type
     - stock prices
