@@ -19,7 +19,7 @@
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools](lessons/intro-to-data/ds-tools.md)
     - [Practices]()
-    - [Assignment]()
+    - [Assignment](lessons/intro-to-data/assignment.md)
 
 
 ### Week 2
@@ -32,7 +32,7 @@
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
     - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
     - [Practices]()
-    - [Assignment]()
+    - [Assignment](./lessons/data-cleaning/assignment.md)
 
 
 ### Week 3
