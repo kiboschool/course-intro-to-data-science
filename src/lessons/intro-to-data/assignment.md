@@ -1,4 +1,6 @@
-# Assignment
+# Assignment - Student Performance Analysis
+
+![student-performance.png](./intro-to-data/student-performance.png)
 
 ## Student Performance Analysis
 This assignment is all about data cleaning and visualization using _Microsoft Excel_. The dataset for this assignment are student data from a hypothetical school, which consists of 7 Columns and contains information about gender, race, scores of students in different subjects, and more.
