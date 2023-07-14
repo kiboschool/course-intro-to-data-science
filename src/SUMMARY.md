@@ -45,7 +45,7 @@
     - [Correlation analysis](./lessons/eda/correlation-covariance.md)
     - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
     - [Practice]()
-    - [Assignment]()
+    - [Assignment](./lessons/eda/assignment.md)
 
 
 ### Week 4
