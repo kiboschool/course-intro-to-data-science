@@ -9,7 +9,7 @@ This assignment is all about data cleaning and visualization using _Microsoft Ex
 
 ### TODOs
 - Clone the assignment repository using the link above
-- Look through the data - `student_performance_data.csv`
+- Look through the data - `student_performance_data.csv`.
 - Read the questions below to have an idea of what is required to do with the data.
 - Put all your charts/graphs in a single file as this will be submitted as part of the assignment on gradescope.
 - Once you have the answers to the questions below, goto assignment on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
