@@ -73,7 +73,7 @@ Your task for this project is to perform data cleaning and visualization on the 
 
 ## 🎯 Submission
 - Commit and push your project to Github.
-- Submit your project in Gradescope **as a team**.
+- Submit your project in **[Gradescope](https://www.gradescope.com/courses/544001/assignments) as a team**.
 - Upload your work to Woolf (each team member should upload the files to Woolf).
 
 

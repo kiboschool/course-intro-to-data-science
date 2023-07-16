@@ -1,10 +1,10 @@
 # Intro to Machine Learning
 
-<img src="./intro-to-ml/ml/ml.jpeg" width="100%" height="300px">
+<img src="./intro-to-ml/ml/Intro-to-ml.jpeg" width="96%" height="300px">
 
 **Welcome to week 4 of the Intro to data science course!** In the third week, we looked at data visualization and different tools we can use for visual representation our data. We went further to understand different ways we can create basic plots and communicate data insight effectively. 
 
-This week, we'll begin our journey of machine learning 😍 by looking at what it is, and why it is so important for individual and businesses. Next, we'll look at different machine learning techniques - supervised and unsupervised learning. Also, we'll learn about classification and regresion, and explore some practical applications of machine learning. Finally, we'll build our own machine learning model.
+This week, we'll begin our journey of machine learning 😍 by looking at what it is, and why it is so important for individual and businesses. Next, we'll look at different machine learning techniques - `supervised` and `unsupervised` learning. Also, we'll learn about classification and regresion, and explore some practical applications of machine learning. Finally, we'll build our own machine learning model 😍.
 
 
 ## Learning Outcomes

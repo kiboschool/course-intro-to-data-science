@@ -1,20 +1,20 @@
 # Feature Engineering 📶
 
-<img src="./data-visualization/data-viz/Data-Visualization.jpeg" width="100%" height="300px">
+<img src="./feature-engineering/feature-engineering/feature-engineering.png" width="100%" height="300px">
 
-**Welcome to week 3 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to validate and document our data. Finally, we briefly explore data privacy and GDPR.
+**Welcome to week 5 of the Intro to data science course!** Last week, we looked at EDA and its techniques. We started with the fundamentals of EDA and statistics. We went further to explore descriptive statistics and correlation analysis. Finally, we investigated how how to use visualization for EDA.
 
-This week, we'll begin our journey of data visulization 😍 by looking at what it is, and different ways of visualizing data. Next, we'll look at methods of creating different visualization plots and graphs. Finally, we'll explore different techniques of generating insight from data, and how to communicate insight to stakeholders.
+This week, we'll be looking into **Feature Engineering** by understanding its meaning and importance in data science. Next, we'll look at feature encoding and transformation. Finally, we'll explore different techniques and methods used in feature selection and extraction.
 
 
 ## Learning Outcomes
 
 After this week, you will be able to:
 
-- Understand the basics and importance of data visualization.
-- Learn how to create basic plots.
-- Learn how to generate insights from data.
-- Understand how to communicate insight to stakeholders.
+- 
+- 
+- 
+- 
 
 
 
