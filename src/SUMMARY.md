@@ -37,19 +37,6 @@
 
 ### Week 3
 
-- [Exploratory Data Analysis](lessons/exploratory-analysis.md)
-    - [Intro to EDA](./lessons/eda/what-is-eda.md)
-    - [Fundamentals of statistics](./lessons/eda/fundamentals-of-statistics.md)
-    - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
-    - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
-    - [Correlation analysis](./lessons/eda/correlation-covariance.md)
-    - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
-    - [Practice]()
-    - [Assignment](./lessons/eda/assignment.md)
-
-
-### Week 4
-
 - [Data Visualization & Insight](lessons/data-visualization.md)
     - [Data visualization](./lessons/data-visualization/what-is-visualization.md)
     - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
@@ -58,38 +45,46 @@
     - [Data distribution](./lessons/data-visualization/data-distribution.md)
     - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
     - [Practices]()
-    - [Assignment]()
+    - [Assignment](./lessons/data-visualization/assignment.md)
    
 
-<!-- 
+### Week 4
+
+- [Exploratory Data Analysis](lessons/exploratory-analysis.md)
+    - [Intro to EDA](./lessons/eda/what-is-eda.md)
+    - [Fundamentals of statistics](./lessons/eda/fundamentals-of-statistics.md)
+    - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
+    - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
+    - [Correlation analysis](./lessons/eda/correlation-covariance.md)
+    - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
+    - [Practice]()
+
+
 ### Week 5
 
-- [Feature Engineering](lessons/data-visualization.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+- [Feature Engineering](lessons/feature-engineering.md)
+    - [Intro to Feature engineering](./lessons/feature-engineering/intro-to-feature-engineering.md)
+    - [Feature encoding]()
+    - [Feature transformation]()
+    - [Feature selection methods]()
+    - [Feature extraction techniques]()
     - [Practice]()
-    - [Assignment]()
+
 
 ### Week 6
 
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML]()
-    - [Supervised and unsupervised]()
-    - [classification and regression]()
+    - [Supervised learning]()
+    - [Unsupervised learning]()
+    - [Classification in ML]()
+    - [Prediction in ML]()
     - [Applications of ML]()
-    - [Build your model]()
-    - []()
-    - []()
-    - []()
+    - [Build your first ML model]()
     - [Practices]()
     - [Assignment]()
 
+<!-- 
 
 ### Week 7
 

@@ -33,8 +33,8 @@ At the end of the course, student will
 ### Weekly Topics
 - Intro to Data Science      
 - Data Collection and Cleaning
-- Exploratory Data Analysis
 - Data Visualization and Insight
+- Exploratory Data Analysis
 - Feature Engineering
 - Intro to Machine Learning
 - Model Evaluation Techniques
