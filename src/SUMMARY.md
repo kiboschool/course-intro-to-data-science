@@ -64,8 +64,8 @@
 
 - [Feature Engineering](lessons/feature-engineering.md)
     - [Intro to Feature engineering](./lessons/feature-engineering/intro-to-feature-engineering.md)
-    - [Feature encoding]()
-    - [Feature transformation]()
+    - [Feature transformation](./lessons/feature-engineering/feature-transformation.md)
+    - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
     - [Feature selection methods]()
     - [Feature extraction techniques]()
     - [Practice]()
