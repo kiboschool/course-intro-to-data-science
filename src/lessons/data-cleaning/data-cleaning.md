@@ -78,7 +78,10 @@ Pandas supports different interpolation methods to estimate (i.e., predict) miss
     df['Serious cases'].interpolate(inplace=True)
 ![filling-with-interpolation](./data-cleaning/filling-with-interpolation.png)
 
-These are just a few examples of how Pandas can handle missing data. The choice of approach depends on the specific dataset, the nature of the missing values, and the analysis goals.
+These are just a few examples of how Pandas can handle missing data. The choice of approach depends on the specific dataset, the nature of the missing values, and the analysis goals. As a recap, watch the video below to summarize what has been discussed.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/v0HItX1xhNg" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
 
 ### 2. Removing duplicates
 Duplicate data are rows or records within a dataset with similar or nearly identical values across all or most of their attributes.

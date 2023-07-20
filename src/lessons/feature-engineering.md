@@ -14,7 +14,6 @@ After this week, you will be able to:
 - 
 - 
 - 
-- 
 
 
 

@@ -1,5 +1,8 @@
 # Intro to Feature Engineering
+
 Imagine a retail business has a dataset that includes customer information such as _age, gender, income_, and the _number of products_ purchased. Their goal is to build a model that can accurately predict whether a customer will make a high-value purchase.
+
+<img src="./feature-engineering/feature_engineering.gif" width="100%" height="350px" alt="Feature Engineering">
 
 At first glance, the dataset may seem straightforward, but feature engineering can help improve the accuracy of the predictive model by creating new features such as `total spending`, `income category`, and `age group`. But what exactly do we mean by _features_?
 
