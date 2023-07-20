@@ -67,8 +67,9 @@
     - [Feature transformation](./lessons/feature-engineering/feature-transformation.md)
     - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
     - [Feature selection methods](./lessons/feature-engineering/feature-selection-methods.md)
-    - [Feature extraction techniques](./lessons/feature-engineering/feature-extraction.md)
     - [Practice]()
+
+    <!-- - [Feature extraction techniques](./lessons/feature-engineering/feature-extraction.md) -->
 
 
 ### Week 6
