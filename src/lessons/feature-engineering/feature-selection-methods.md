@@ -67,7 +67,7 @@ As a guide, the code first splits the dataset into features `(X)` and the target
 
 The table below gives a summary of the two feature selection methods explored in this lesson, and also include the embedded method.
 
-| Feature Selection       | Description |
+| Methods                 | Description |
 |-------------------------|-------------|
 | Filter                  | Evaluates the relevance of each feature independently of the model's performance. Uses statistical techniques to rank features based on their correlation with the target variable or other statistical measures. |
 | Wrapper                 | Uses a specific machine learning model to evaluate the importance of features. Creates subsets of features and evaluates their performance using the chosen model. The best subset of features is selected based on the model's performance. |
