@@ -67,20 +67,19 @@
     - [Feature transformation](./lessons/feature-engineering/feature-transformation.md)
     - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
     - [Feature selection methods](./lessons/feature-engineering/feature-selection-methods.md)
+    - [Feature extraction](./lessons/feature-engineering/feature-extraction.md)
     - [Practice]()
 
-    <!-- - [Feature extraction techniques](./lessons/feature-engineering/feature-extraction.md) -->
 
 
 ### Week 6
 
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
-    - [Getting to know ML]()
-    - [Supervised learning]()
+    - [Getting to know ML](./lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](./lessons/intro-to-ml/supervised-learning.md)
     - [Unsupervised learning]()
     - [Classification in ML]()
     - [Prediction in ML]()
-    - [Applications of ML]()
     - [Build your first ML model]()
     - [Practices]()
     - [Assignment]()
