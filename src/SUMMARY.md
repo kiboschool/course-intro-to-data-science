@@ -84,21 +84,21 @@
     - [Practices]()
     - [Assignment]()
 
-<!-- 
+
 
 ### Week 7
 
 - [Model Evaluation Techniques](lessons/intro-to-ml.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+    - [Intro to model evaluation]()
+    - [Confusion matrix]()
+    - [Cross validation]()
+    - [overfitting and underfitting]()
+    - [Regression evaluation]()
+    - [Model selection]()
     - [Practice]()
     - [Assignment]()
 
+<!-- 
 
 ### Week 8
 
