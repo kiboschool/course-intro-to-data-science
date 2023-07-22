@@ -77,9 +77,9 @@
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML](./lessons/intro-to-ml/getting-to-know-ml.md)
     - [Supervised learning](./lessons/intro-to-ml/supervised-learning.md)
+    - [Classification and prediction]()
     - [Unsupervised learning]()
-    - [Classification in ML]()
-    - [Prediction in ML]()
+    - [Reinforcement learning]()
     - [Build your first ML model]()
     - [Practices]()
     - [Assignment]()
@@ -88,7 +88,7 @@
 
 ### Week 7
 
-- [Model Evaluation Techniques](lessons/intro-to-ml.md)
+- [Model Evaluation Techniques](lessons/model-evaluation.md)
     - [Intro to model evaluation]()
     - [Confusion matrix]()
     - [Cross validation]()
@@ -98,7 +98,7 @@
     - [Practice]()
     - [Assignment]()
 
-<!-- 
+<!--
 
 ### Week 8
 
@@ -114,7 +114,8 @@
     - [Assignment]()
 
 
-### Week 9
+
+### Week 8
 
 - [Deep Learning Fundamentals](lessons/intro-to-ml.md)
     - []()
@@ -126,6 +127,21 @@
     - []()
     - [Practice]()
     - [Assignment]()
+
+
+### Week 9
+
+- [Model deployment](lessons/model-deployment.md)
+    - [ML model deploy deployment]()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - [Practice]()
+    - [Assignment]()
+
 
 ### Week 10
 
