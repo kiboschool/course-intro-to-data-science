@@ -77,7 +77,7 @@
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML](./lessons/intro-to-ml/getting-to-know-ml.md)
     - [Supervised learning](./lessons/intro-to-ml/supervised-learning.md)
-    - [Classification and prediction]()
+    - [Classification and regression](./lessons/intro-to-ml/classification-and-regression.md)
     - [Unsupervised learning]()
     - [Reinforcement learning]()
     - [Build your first ML model]()
