@@ -14,7 +14,7 @@ _Regression_ consists of models that predict a continuous outcome _(y)_ (depende
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XA3OaoW86R8" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
-However, unlike classification, the categories in regression are _continuous values_, such as height, weight, or price. Imagine you want to estimate how much time it will take for you to reach a friend's house based on the distance you have to travel and the average speed at which you walk.
+However, unlike classification, the categories in regression are _continuous values_, such as height, weight, or price. Imagine you want to estimate how much time it will take for you to reach a friend's house based on the distance you have to travel and the average speed at which you drive.
 
 <img src="./ml/car_road.gif" style="display: block;
   margin-left: auto;
@@ -48,7 +48,9 @@ In the code snippet, we used the `house_size`, `number_of_bedrooms`, and  `year_
 
 **_Lesson summary..._**
 
-The goal of **supervised learning** is to teach the computer to make accurate predictions on new, unseen data based on what it learned from the labeled examples. It's like your friend guiding you in the guessing game by giving you the correct answers during training. Supervised learning is used in various real-world applications, such as recognizing objects in images, predicting prices of houses, and even diagnosing diseases from medical data. Just like your smart friend helped you become better at guessing animals, supervised learning helps computers become smarter at making predictions!
+**_Regression_** in ML is like teaching a computer to predict numbers. Imagine you have data on houses, including information like the number of bedrooms, the size of the house, and the location. You want the computer to estimate the price of a house based on these features.
+
+Linear regression is commonly used for predicting numerical outcomes, such as predicting house prices based on features like size, number of bedrooms, and location. It is a simple yet powerful technique that forms the basis for more complex machine learning algorithms.
 </aside>
 
 ### 👩🏾‍🎨 Practice: Regression in ML... 🎯

@@ -41,6 +41,14 @@ Binary classification is a task where the model is only trained to predict one o
 
 The main difference between binary classification and multi-class classification is the number of categories that the model is trained to predict. In binary classification, the model is only trained to predict one of two categories, while in multi-class classification, the model is trained to predict one of more than two categories.
 
+Here is a code snippet of a binary classification model that classifies whether a student will pass or fail. Play around with the `new_student_df` to test and see the changes.
+
+<iframe src="https://trinket.io/embed/python3/8617dc97c2?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+In this code snippet, we use the `RandomForestClassifier` algorithm to build the classification model. It trains on the features such as 'hours_studied', 'previous_grade', 'attendance_percentage', 'test_score', 'homework_score', 'extracurricular_activities', and 'class_participation' to predict whether a student will `pass` or `fail`. The model is then evaluated using accuracy.
+
+Finally, we created a new student data who studied for 6 hours, had a previous grade of 80, an attendance percentage of 92, test score of 85, homework score of 88, and participates in class discussions (1). This is simply to test the model.
+
 <aside>
 
 **_Lesson summary..._**
