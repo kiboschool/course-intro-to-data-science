@@ -80,8 +80,7 @@
     - [ML Classification](./lessons/intro-to-ml/classification.md)
     - [Regression in ML](./lessons/intro-to-ml/regression.md)
     - [Unsupervised learning](./lessons/intro-to-ml/unsupervised-learning.md)
-    - [Reinforcement learning](./lessons/intro-to-ml/reinforcement-learning.md)
-    - [Build your first ML model]()
+    - [Build your first ML model](./lessons/intro-to-ml/build-your-first-ml.md)
     - [Practices]()
     - [Assignment]()
 

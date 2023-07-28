@@ -32,12 +32,11 @@ At the high level, we have 3 broad categories of ML.
 
 **_<span style="color: red;"> NOTE! </span>_**
 
-More on these categories will be discussed in subsequent lessons.
+This week, we are only focusing on supervised and unsupervised learning. More on these 2 categories will be discussed in subsequent lessons.
 
 </aside>
 
-## ML Algorithms
-### Applications of ML
+## Applications of ML
 ML is a powerful tool that can be used to solve a wide variety of problems. As machine learning technology continues to develop, we can expect to see even more innovative applications of machine learning in the future. Here are some other examples of machine learning:
 
 - Spam filtering
