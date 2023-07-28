@@ -82,7 +82,7 @@
     - [Unsupervised learning](./lessons/intro-to-ml/unsupervised-learning.md)
     - [Build your first ML model](./lessons/intro-to-ml/build-your-first-ml.md)
     - [Practices]()
-    - [Assignment]()
+    - [Assignment](./lessons/intro-to-ml/ml-assignment.md)
 
 
 

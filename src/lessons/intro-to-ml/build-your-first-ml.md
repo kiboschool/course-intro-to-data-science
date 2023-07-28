@@ -10,5 +10,8 @@ In this lesson, we will take the first step into the realm of Machine Learning b
 
 Throughout this lesson, we will follow a step-by-step approach to understand the core concepts of Machine Learning that has been discussed so far. We'll be using a google colab for this practice exercise.
 
-### Google colab
+## Google colab
+
+To get started, click on the colab link below.
+
 [![Click to open the exercise](https://img.shields.io/static/v1?label=Open%20Exercise&message=House%20Price%20Prediction&color=blue)](https://colab.research.google.com/drive/1fG_d2nTM1x2G0uHhZsPAIIyMj_wKPiIn?usp=sharing)
