@@ -35,7 +35,7 @@ Using the labelled data, the model learns to map the input data to the correct c
 
 
 ### Binary vs Multi-class classification
-Binary classification is a task where the model is only trained to predict one of two categories, for example, a binary classification model could be used to predict whether an email is _spam_ or _ham_, or whether a student will _pass_ or _fail_ In multi-class classification, the model is trained to predict one of more than two categories. For example, to predict the species of a flower (setosa, versicolor, or virginica), or the final grade of a student in a course - A, B, C, D, E or F.
+Binary classification is a task where the model is only trained to predict one of two categories, for example, a binary classification model could be used to predict whether an email is _spam_ or _ham_, or whether a student will _pass_ or _fail_. In multi-class classification, the model is trained to predict one of more than two categories. For example, to predict the species of a flower (setosa, versicolor, or virginica), or the final grade of a student in a course - A, B, C, D, E or F.
 
 ![](./ml/binary-classification.png)
 
