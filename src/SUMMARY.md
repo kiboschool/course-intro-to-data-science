@@ -89,10 +89,10 @@
 ### Week 7
 
 - [Model Evaluation Techniques](lessons/model-evaluation.md)
-    - [Intro to model evaluation](./lessons/model-evaluation/intro-to-model-evaluation.md)
+    - [Evaluating a model](./lessons/model-evaluation/intro-to-model-evaluation.md)
     - [Confusion matrix](./lessons/model-evaluation/confusion-matrix.md)
     - [Cross validation](./lessons/model-evaluation/cross-validation.md)
-    - [overfitting and underfitting]()
+    - [overfitting and underfitting](./lessons/model-evaluation/overfitting-underfitting.md)
     - [Regression evaluation]()
     - [Model selection]()
     - [Practice]()
