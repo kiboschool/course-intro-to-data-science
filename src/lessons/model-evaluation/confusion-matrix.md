@@ -85,4 +85,4 @@ In this example, we load the Breast Cancer dataset and split it into training an
 
 <br>
 
-> ➡️ Next, we'll look at `Cross validation`... 🎯
+> ➡️ Next, we'll look at `Overfitting and underfitting`... 🎯

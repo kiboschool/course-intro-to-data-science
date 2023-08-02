@@ -91,10 +91,10 @@
 - [Model Evaluation Techniques](lessons/model-evaluation.md)
     - [Evaluating a model](./lessons/model-evaluation/intro-to-model-evaluation.md)
     - [Confusion matrix](./lessons/model-evaluation/confusion-matrix.md)
+    - [Overfitting and underfitting](./lessons/model-evaluation/overfitting-underfitting.md)
     - [Cross validation](./lessons/model-evaluation/cross-validation.md)
-    - [overfitting and underfitting](./lessons/model-evaluation/overfitting-underfitting.md)
-    - [Regression evaluation]()
-    - [Model selection]()
+    - [Regression evaluation](./lessons/model-evaluation/regression-evaluation.md)
+    - [Model selection](./lessons/model-evaluation/model-selection.md)
     - [Practice]()
     - [Assignment]()
 
