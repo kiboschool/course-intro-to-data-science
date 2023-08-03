@@ -34,6 +34,16 @@ Overfitting occurs when a model becomes too complex and captures noise or random
 - **Data Imbalance**: In classification tasks, when one class dominates the dataset and is significantly more frequent than the others, the model may favor the dominant class and struggle to correctly predict the less frequent classes.
 - **High variance**: High variance means that the model is sensitive to small changes in the training data. This can lead to overfitting, as the model will learn the noise in the training data instead of the underlying patterns.
 
+## Implementing overfitting
+To demonstrate overfitting due to a small data sample and imbalanced data, let's use a simple example of classifying flowers into two categories: `rose` and `tulip`. We'll create a synthetic dataset with a small number of samples and an imbalance between the two classes. Play around with the new test data `new_data` and observe the changes in the model predictions.
+
+<br>
+<iframe src="https://trinket.io/embed/python3/efe7824ef0?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+In the code snippet, we have only 12 samples, with 10 samples of `rose` and 2 samples of `tulip`. This dataset is small and imbalanced, as `rose` has more data than `tulip`. When we train the `Decision Tree Classifier` on this dataset, it may create a very complex decision boundary to perfectly fit the small number of training samples. 
+
+As a result, the model may perform very well on the training data (high training accuracy) but poorly on new, unseen data (low testing accuracy). In real-world scenarios, overfitting due to a small dataset or imbalanced classes can lead to poor generalization and unreliable model performance.
+
 
 ## Underfitting
 Using same example of a student preparing for a math exam, suppose this time the student is not putting enough effort into studying and is only glancing briefly at the textbook without really understanding the concepts.

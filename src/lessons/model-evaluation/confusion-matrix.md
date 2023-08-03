@@ -69,7 +69,7 @@ Precision, recall, and F1 score are another se of important evaluation metrics i
 ## Implemeting the evaluation metrics
 Now, let's look at how we can build a classification model and evaluate it using the metrics. Let's use the `Breast Cancer` dataset from scikit-learn, which is a popular dataset for binary classification tasks. The goal is to predict whether a breast cancer tumor is malignant `(1)` or benign `(0)` based on features like mean radius, mean texture, mean smoothness, etc.
 
-<iframe src="https://trinket.io/embed/python3/c3443c6f58?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/188b4e846e?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 In this example, we load the Breast Cancer dataset and split it into training and testing sets. We then create and train a `Logistic Regression` model to predict whether a tumor is malignant or benign. After making predictions on the test set, we calculate the precision, recall, and F1 score using the corresponding functions from sklearn.metrics.
 
