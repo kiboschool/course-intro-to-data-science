@@ -73,6 +73,7 @@ data = {
 ```
 
 ➡️ Give this a try before revealing the answer
+</aside>
 
 <details>
 <summary><b> Reveal answer - K-fold cross-validation </b></summary>
@@ -105,7 +106,6 @@ After applying K-fold cross-validation with k=5, we would have 5 different split
 - Test set: Rows 12, 13, 14
 </details>
 
-</aside>
 
 ## 2. Leave-One-Out cross-validation
 Leave-One-Out Cross-Validation (LOOCV) is a type of k-fold cross-validation where k is equal to the number of data points in the dataset. In LOOCV, each data point is treated as a separate test set, and the model is trained on all the other data points. This process is repeated for each data point, and the model's performance is evaluated based on how well it predicts the left-out data point.
@@ -140,7 +140,15 @@ The total number of data points (`n`) is used to separate a set of data points t
 
 **_Lesson Summary..._**
 
-**_Feature extraction_** is about creating new, more meaningful features by combining or transforming the original ones, making it easier to understand and work with the data. **_Feature selection_**, on the other hand, is about picking the most relevant and informative features from the existing ones, so that you can focus on the most important aspects of your data and improve the accuracy and efficiency of your analysis or machine learning models.
+**_Cross validation_** is a technique used in machine learning to ensure that our model performs well on new, unseen data and to avoid both overfitting and underfitting. Cross-validation is like giving the model a variety of practice exams, and it helps us build a more reliable and robust machine learning model that performs well in real-world situations. 
+
+It ensures that the model truly understands the underlying patterns in the data, just like the student gains a better understanding of the material by taking different practice exams. Here are some of the techniques use in cross validation.
+
+- K-fold cross-validation.
+- Hold-out cross-validation.
+- Leave-One-Out cross-validation.
+- Leave-_P_-Out cross-validation.
+- Stratified k-fold cross-validation.
 </aside>
 
 
