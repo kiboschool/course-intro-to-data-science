@@ -96,7 +96,7 @@
     - [Regression evaluation](./lessons/model-evaluation/regression-evaluation.md)
     - [Model selection](./lessons/model-evaluation/model-selection.md)
     - [Practice]()
-    - [Assignment]()
+    - [Assignment](./lessons/model-evaluation/model-selection-assignment.md)
 
 <!--
 
