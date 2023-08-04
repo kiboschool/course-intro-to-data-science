@@ -121,7 +121,7 @@ In this exercise, our model shows relatively low `MAE` and `RMSE` and a reasonab
 
 </details>
 
-## Implementation of metrics
+## Implementation of evaluation metrics
 Now, let's look at developing a pollution prediction model and evaluating it using the metrics above. To develop this model, we'll use a simple example where we have actual pollution levels and their corresponding predicted values from the model. Let's assume we have the following data:
 
 - Actual pollution levels: `[30, 40, 50, 60, 70, 80, 90, 100]`
