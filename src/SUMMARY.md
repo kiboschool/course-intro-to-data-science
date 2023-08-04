@@ -98,22 +98,21 @@
     - [Practice]()
     - [Assignment](./lessons/model-evaluation/model-selection-assignment.md)
 
-<!--
 
 ### Week 8
 
-- [Natural Language Processing](lessons/intro-to-ml.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+- [Natural Language Processing](lessons/intro-to-nlp.md)
+    - [Overview of NLP](./lessons/nlp/overview-of-nlp.md)
+    - [Text preprocessing]()
+    - [Text representations]()
+    - [NLP for text classification]()
+    - [Sentiment analysis]()
+    - [Named entity recognition]()
     - [Practice]()
     - [Assignment]()
 
 
+<!--
 
 ### Week 8
 
