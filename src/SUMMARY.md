@@ -103,7 +103,7 @@
 
 - [Natural Language Processing](lessons/intro-to-nlp.md)
     - [Overview of NLP](./lessons/nlp/overview-of-nlp.md)
-    - [Text preprocessing]()
+    - [Text preprocessing](./lessons/nlp/text-preprocessing.md)
     - [Text representations]()
     - [NLP for text classification]()
     - [Sentiment analysis]()

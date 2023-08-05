@@ -17,6 +17,33 @@ In essence, NLP is like giving superpowers to computers so they can understand, 
 ## NLP Pipeline
 NLP pipeline is like a series of steps that a computer follows to process and understand human language. Just like a pipeline in any industry, each step in the NLP pipeline contributes to refining and enhancing the final output, making it a powerful tool for extracting valuable information and insights from textual data.
 
+The idea behind NLP is to take an unstructured data (text) and convert it to something with a structure and make a sense out of it. Let's look at the techniques we need ti achieve this.
+
 <br>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/fLvJ8VdHLA0" title="Cross Validation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
+text preprocessing
+tokenization
+stemming and lemmatization
+feature extraction
+Part of speech tagging
+
+## Application of NLP
+NLP is indispensable in today's data-driven world due to its ability to harness the vast amount of textual data that humans generate daily. The need for NLP arises from several applications, such as:
+
+- Information retrieval
+- Sentiment analysis
+- Language translation
+- Chatbots
+- Text summarization 
+- Enhanced search engines 
+- Healthcare insights 
+- Legal and compliance
+- Social media analysis 
+- Personalized content 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/zJn_fPOX6lw?start=58" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br>
+
+> ➡️ Next, we'll look at `Text preprocessing`... 🎯.
