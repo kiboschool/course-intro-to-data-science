@@ -1,5 +1,5 @@
 # Data Science Tools
-As previously stated, data scientist use different combination of tools on a daily basis to capture, organize, manipulate, analyze, visualize,a and communicate their findings. In this section, we are going to explore the most popular popular tools used by data scienctist. In this lesson, we'll be focus on 3 tools as listed below, however, other tools will be explore as we progress with the course.
+As previously stated, data scientist use different combination of tools on a daily basis to capture, organize, manipulate, analyze, visualize,a and communicate their findings. In this section, we are going to explore the most popular popular tools used by data scienctist. In this lesson, we'll be focus on some tools as listed below, however, other tools will be explored as we progress with the course.
 
 <aside>
 
@@ -18,7 +18,7 @@ Just the same way we use natural languages like swahili, english, french, arabic
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://futurecoder.io/course/#IntroducingTheShell" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div> 
 </details>
 
-In subsequent weeks, we'll be using Python and its libraries to gather, explore, clean, and manipulate our data. But before then, let us look at some popular libraries in Python which is common among data scientists.
+In subsequent weeks, we'll be using Python and its libraries to gather, explore, clean, and manipulate our data. But before then, let us look at some popular tools and python libraries which is common among data scientists.
 
 <!-- <aside>
 
@@ -26,7 +26,7 @@ In subsequent weeks, we'll be using Python and its libraries to gather, explore,
 
 </aside> -->
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Y8Tkoikj2YC5hA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/pAXeCpwKgYg" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 > **❓ How can i work with data using Python?**
@@ -46,7 +46,7 @@ _Jupyter Notebook_ is a user-friendly web application that allows you to create 
 
 The unique feature of Jupyter Notebook is that it allows you to write code in small, manageable chunks called `cells`, which can be executed independently. This interactive nature makes it easy to experiment with code, test different ideas, and see immediate results. You can write code in languages like Python or R, and with the click of a button, execute the cell to see the output.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Y8Tkoikj2YC5hA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2eCHD6f_phE" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Jupyter Notebook also supports the inclusion of visualizations, images, and formatted text, making it an excellent tool for data analysis, data visualization, and presenting your findings.
 
