@@ -46,4 +46,4 @@ NLP is indispensable in today's data-driven world due to its ability to harness 
 
 <br>
 
-> ➡️ Next, we'll look at `Text preprocessing`... 🎯.
+> ➡️ Next, we'll look at `NLP tools and libraries`... 🎯.
