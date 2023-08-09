@@ -1,6 +1,6 @@
 # Text preprocessing
 
-Lowercasing: Converting all text to lowercase to ensure uniformity and consistency.
+<!-- Lowercasing: Converting all text to lowercase to ensure uniformity and consistency.
 
 Tokenization: Breaking text into smaller units, such as words or phrases (tokens), to facilitate analysis.
 
@@ -27,4 +27,4 @@ Contraction Expansion: Expanding contractions like "don't" to "do not" for consi
 Removing HTML Tags: When dealing with web data, removing HTML tags is essential to extract clean text.
 
 Handling Emojis and Special Symbols: Dealing with emojis, special symbols, and non-ASCII characters appropriately.
-
+ -->
