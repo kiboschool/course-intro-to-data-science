@@ -1,0 +1,70 @@
+
+<!-- saved from url=(0085)https://develop.bcs.org/pluginfile.php/512/mod_scorm/content/2/scormdriver/blank.html -->
+<html><!--/* Copyright � 2003-2013 Rustici Software, LLC  All Rights Reserved. www.scorm.com - See LICENSE.txt for usage restrictions */--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script>
+	window.document.onkeypress = CheckForDebugCommand;
+
+	var intQuestionCounter = 0;
+	var ASCII_QUESTION = 63;
+	
+	function CheckForDebugCommand(e){
+
+
+		var intKeyCode = 0;			
+		if (window.event) {
+			e = window.event;
+			intKeyCode = e.keyCode;
+		}
+		else  {
+			intKeyCode = e.which;
+		}
+
+		if (intKeyCode == ASCII_QUESTION){
+			intQuestionCounter++;
+			if (intQuestionCounter == 3){
+				intQuestionCounter = 0;
+				
+				parent.ShowDebugWindow();
+			}
+		}
+		else if (intKeyCode !=0){		//in FireFox, the shift key comes through as a keypress with code of 0...we want to ignore this
+			intQuestionCounter = 0;
+		}
+	}		
+	
+	
+
+	</script>
+	</head>
+	<body data-new-gr-c-s-check-loaded="14.1119.0" data-gr-ext-installed="">
+		&nbsp;
+<!--
+If the course does not load and is stuck on this page:
+ -Click in the middle of the page
+ -Press the question mark key (?) three times
+ -A window should pop up containing debug information, send this information to technical support for further assistance
+ -If no information appears, try again 1 or 2 more times, sometimes that just does the trick
+ -->
+	
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+  div.grammarly-desktop-integration {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select:none;
+    user-select:none;
+  }
+
+  div.grammarly-desktop-integration:before {
+    content: attr(data-content);
+  }
+</style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
