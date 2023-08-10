@@ -27,7 +27,7 @@ The dataset contains information about houses and their prices. The features inc
 - **Price**: The price of the house.
 - **Area**: The total area of the house in square feet.
 - **Bedrooms**: The number of bedrooms in the house.
-- **athrooms**: The number of bathrooms in the house.
+- **Bathrooms**: The number of bathrooms in the house.
 - **Stories**: The number of stories in the house.
 - **Mainroad**: Whether the house is connected to the main road (Yes/No).
 - **Guestroom**: Whether the house has a guest room (Yes/No).

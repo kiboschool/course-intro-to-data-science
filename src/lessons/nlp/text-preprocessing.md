@@ -1,4 +1,5 @@
-# Text preprocessing
+# <u> Text Preprocessing </u>
+
 Text preprocessing in NLP is like getting the text ready for the computer to understand. It's like tidying up a messy room before guests come over. You remove any extra stuff that doesn't matter, like soccer ball, empty bottles or old newspapers. 
 
 
@@ -192,7 +193,6 @@ Stemming involves reducing words to their base or root form. It removes suffixes
 Lemmatization also reduces words to their base form, However it does so in a more intelligent way by considering the context and part of speech of the word, so that the resulting base form (called a `lemma`) is a valid word that makes sense. For example, the stem of the words `interchanger` and `interchanging`  would be `interchange`.
 
 Stemming might produce words that are not actual words, while lemmatization aims to produce meaningful and valid words. 
-
 
 
 <aside>

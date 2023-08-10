@@ -1,4 +1,4 @@
-# NLP tools and libraries
+# <u> NLP Tools and Libraries </u>
 Text are unstructured data that needs to be structured while carrying out any processing or analysis on them. To achieve this, there are varieties of tools, both libraries and cloud-based applications, that are available for different tasks in the NLP pipeline. Since we can't go throuh all these tools, we'll focus on 2 popular libraries - `NLTK` and `Spacy`, and a cloud-based solution - `Amazon comprehend`. 
 
 <aside>

@@ -1,4 +1,4 @@
-# Data Science Tools
+# <u> Data Science Tools </u>
 As previously stated, data scientist use different combination of tools on a daily basis to capture, organize, manipulate, analyze, visualize,a and communicate their findings. In this section, we are going to explore the most popular popular tools used by data scienctist. In this lesson, we'll be focus on some tools as listed below, however, other tools will be explored as we progress with the course.
 
 <aside>
