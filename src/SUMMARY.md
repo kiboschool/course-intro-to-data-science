@@ -106,11 +106,10 @@
     - [Libraries for nlp](./lessons/nlp/nlp-tools.md)
     - [Text preprocessing](./lessons/nlp/text-preprocessing.md)
     - [Text representations](./lessons/nlp/text-representations.md)
-    - [Part of speech tagging](./lessons/nlp/pos-tagging.md)
-    - [Sentiment analysis]()
-    - [Named entity recognition]()
+    - [Sentiment analysis](./lessons/nlp/sentiment-analysis.md)
+    - [Named entity recognition](./lessons/nlp/named-entity-recognition.md)
     - [Practice]()
-    - [Assignment]()
+    - [Assignment](./lessons/nlp/nlp-assignment.md)
 
 
 <!--
