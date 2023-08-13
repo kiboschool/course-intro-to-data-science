@@ -108,44 +108,24 @@
     - [Text representations](./lessons/nlp/text-representations.md)
     - [Sentiment analysis](./lessons/nlp/sentiment-analysis.md)
     - [Named entity recognition](./lessons/nlp/named-entity-recognition.md)
-    - [Practice]()
+    - [Practice](./lessons/nlp/nlp-practice.md)
     - [Assignment](./lessons/nlp/nlp-assignment.md)
 
 
-<!--
-
 ### Week 8
 
-- [Deep Learning Fundamentals](lessons/intro-to-ml.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - [Practice]()
-    - [Assignment]()
-
-
-### Week 9
-
-- [Model deployment](lessons/model-deployment.md)
-    - [ML model deploy deployment]()
-    - []()
+- [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
     - []()
     - []()
     - []()
     - []()
     - []()
     - [Practice]()
-    - [Assignment]()
-
 
 ### Week 10
 
 - [Final Project]()
 
--->
+
 
 ...
