@@ -2,11 +2,11 @@
 
 Text preprocessing in NLP is like getting the text ready for the computer to understand. It's like tidying up a messy room before guests come over. You remove any extra stuff that doesn't matter, like soccer ball, empty bottles or old newspapers. 
 
-
-<img src="./nlp/house-cleaning.gif" alt="Leave-One-Out-Cross-Validation.png" style="display: block;
+<img src="./nlp/house-cleaning.avif" alt="Leave-One-Out-Cross-Validation.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 300px">
+  height: 300px;
+  width: 80%">
 
 Similarly, in text, we might get rid of things like punctuation marks and extra words that don't add much meaning. When computers read and understand human language (like articles, reviews, or tweets), they also need to clean up and organize the words.
 

@@ -39,11 +39,10 @@ Let's see how we can perform sentiment analysis on a movie review dataset. The d
 
 **_NOTE_**
 
-- You'll need to copy this code snippet to a `colab` to run it.
-- Check the `instructions.py` file for more info.
+- To run this, you'll need to open it in `colab`.
 </aside>
 
-<iframe src="https://trinket.io/embed/python3/ec64a9a9d6?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<script src="https://gist.github.com/wasiu-yusuf/bfcd2537d3ec890552c682944c068260.js"></script>
 
 In this code snippet, we're using the `NLTK` library to perform sentiment analysis on the _movie reviews_ dataset. We load positive and negative reviews, split the data into training and testing sets, and then use the `Naive Bayes` classifier to train the model. The `extract_features` function is used to extract relevant features from the words in the reviews. Next, we evaluated the model's accuracy on the testing data.
 
