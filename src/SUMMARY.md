@@ -112,20 +112,15 @@
     - [Assignment](./lessons/nlp/nlp-assignment.md)
 
 
-### Week 8
+### Week 9
 
 - [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - [Practice]()
-
-### Week 10
-
-- [Final Project]()
-
+    - [Intro to deep learning](./lessons/deep-learning/intro-to-deep-learning.md)
+    - [Computer vision](./lessons/deep-learning/computer-vision.md)
+    - [Large language models](./lessons/deep-learning/large-language-models.md)
+    - [Build a deep learning model](./lessons/deep-learning/build-deep-learning.md)
+    - [Model deployment](./lessons/deep-learning/model-deployment.md)
+    - [Practice](./lessons/deep-learning/dl-practice.md)
 
 
 ...
