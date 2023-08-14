@@ -1,6 +1,10 @@
 # Deep Learning Fundamentals
 
-![Deep_Learning.avif](./deep-learning/dl/Deep_Learning.avif)
+<img src="./deep-learning/dl/Deep_Learning.avif" alt="sentiment-analysis.gif" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 100%">
 
 **Welcome to week 9 of the Intro to Data Science course!** Last week, we looked at NLP by exploring different tools and techniques therein. We started with what text data is and how we can preprocess them. We went further to understand different ways we can represent text to prepare them for further analysis. Finally, we delved into sentiment analysis and Named Entity Recognition (NER). 
 
