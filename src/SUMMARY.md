@@ -116,9 +116,10 @@
 
 - [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
     - [Intro to deep learning](./lessons/deep-learning/intro-to-deep-learning.md)
+    - [Deep learning tools](./lessons/deep-learning/deep-learning-tools.md)
     - [Computer vision](./lessons/deep-learning/computer-vision.md)
     - [Large language models](./lessons/deep-learning/large-language-models.md)
-    - [Build a deep learning model](./lessons/deep-learning/build-deep-learning.md)
+    - [Building deep learning models](./lessons/deep-learning/build-deep-learning.md)
     - [Model deployment](./lessons/deep-learning/model-deployment.md)
     - [Practice](./lessons/deep-learning/dl-practice.md)
 

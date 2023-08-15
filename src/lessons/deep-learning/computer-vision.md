@@ -46,7 +46,7 @@ Subsequently, the CNN flattens the feature maps into a 1D vector and feeds them 
 *Classification*, *Detection*, and *Segmentation* are three different tasks that can be performed on images. There choice depends on the type of problem we are trying to solve. Let's take a closer look at what each task means for the computer.
 
 ### Classification
-Imagine you have a picture of a pet, and you want the computer to tell you if it's a cat or a dog. Classification would involve showing the computer this picture and having it say "This is a cat" or "This is a dog." So, if you show the computer a picture of a cat, it will recognize it as a cat. This task is used when you want to answer questions like `What is this?` or `Is this object present?`
+Imagine you have a picture of a pet, and you want the computer to tell you if it's a cat or a dog. Classification would involve showing the computer this picture and having it say `This is a cat` or `This is a dog`. So, if you show the computer a picture of a cat, it will recognize it as a cat. This task is used when you want to answer questions like `What is this?` or `Is this object present?`
 
 ### Detection
 Now, let's say you have a picture with multiple pets, including both cats and dogs. Detection comes into play when you want the computer to locate and outline each cat and dog in the picture. It would draw boxes around the cats and dogs to show where they are in the image. Detection helps answer questions like `Where are the objects in this image?`
@@ -66,4 +66,3 @@ Classification, detection, and segmentation are all important tasks in computer 
 - Virtual reality
 - Medical imaging
 - Industrial automation
-
