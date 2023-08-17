@@ -66,3 +66,24 @@ Classification, detection, and segmentation are all important tasks in computer 
 - Virtual reality
 - Medical imaging
 - Industrial automation
+
+
+<aside>
+
+**_Lesson summary..._**
+
+**_Computer vision_** is a field of AI that gives computers the ability to *see* things like humans. It is used to process and analyze digital images and videos to extract meaningful information. 
+
+At the core of computer vision is a popular deep learning algorithm known as *Convolutional Neural Network* (CNN). Let's think of a CNN as a special kind of brain that computers use to understand pictures, just like we do.
+
+There are 3 different computer vision tasks that can be performed on images and videos.
+- Classification
+- Detection
+- Segmentation
+</aside>
+
+### 👩🏾‍🎨 Practice: Computer vision... 🎯
+
+<br>
+
+> ➡️ Next, we'll look at `Large language models`... 🎯
