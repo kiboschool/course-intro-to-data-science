@@ -116,7 +116,6 @@
 
 - [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
     - [Intro to deep learning](./lessons/deep-learning/intro-to-deep-learning.md)
-    - [Deep learning tools](./lessons/deep-learning/deep-learning-tools.md)
     - [Computer vision](./lessons/deep-learning/computer-vision.md)
     - [Generative AI](./lessons/deep-learning/large-language-models.md)
     - [Building DL models](./lessons/deep-learning/build-deep-learning.md)

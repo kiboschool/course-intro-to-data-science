@@ -21,7 +21,7 @@ The text we sent to an LLM is a called a `prompt`. The LLM takes the prompt as i
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/iR2O2GPbB0E" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In recent times, we've seen different LLM tools like <a href="https://chat.openai.com/" target="_blank"> **ChatGPT** </a> from _OpenAI_ and <a href="https://bard.google.com/" target="_blank"> **Bard** </a> from _Google_. These tools and many others have taken the world by storm in their applications, which are not limited to the following:
+A core algorithm used in LLMs is referred to as `Transformers`, a type of neural network that works very well with text. In recent times, we've seen different LLM tools like <a href="https://chat.openai.com/" target="_blank"> **ChatGPT** </a> from _OpenAI_ and <a href="https://bard.google.com/" target="_blank"> **Bard** </a> from _Google_. These tools and many others have taken the world by storm in their applications, which are not limited to the following:
 
 - Chat
 - Text generation
