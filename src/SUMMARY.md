@@ -117,8 +117,8 @@
 - [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
     - [Intro to deep learning](./lessons/deep-learning/intro-to-deep-learning.md)
     - [Computer vision](./lessons/deep-learning/computer-vision.md)
+    - [Building DL model](./lessons/deep-learning/build-deep-learning.md)
     - [Generative AI](./lessons/deep-learning/large-language-models.md)
-    - [Building DL models](./lessons/deep-learning/build-deep-learning.md)
     - [Model deployment](./lessons/deep-learning/model-deployment.md)
     - [Practice](./lessons/deep-learning/dl-practice.md)
 

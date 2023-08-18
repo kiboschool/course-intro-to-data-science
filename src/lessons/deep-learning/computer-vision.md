@@ -60,6 +60,12 @@ Segmentation goes further by coloring or labeling every single pixel in the imag
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/taC5pMCm70U" title="Computer Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<details>
+<summary><b> Further reading - ImageNet </b></summary>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/SfqN-Hc5two" title="Computer Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</details>
+
 Classification, detection, and segmentation are all important tasks in computer vision. They can be used to solve a wide variety of problems, such as:
 
 - Self-driving cars
@@ -86,4 +92,4 @@ There are 3 different computer vision tasks that can be performed on images and 
 
 <br>
 
-> ➡️ Next, we'll look at `Large language models`... 🎯
+> ➡️ Next, we'll look at `How to build a classification model`... 🎯
