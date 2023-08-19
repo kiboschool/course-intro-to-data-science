@@ -1,23 +1,19 @@
-# Weekly Project
+# Weekly Assignments
 
-Each week, you'll have a project to complete, either as an individual, or with 
-teammates. The projects will bring together the skills you learn that week.
+Each week, you'll have a assignment to complete, usually as an individual. The assignment will bring together the skills you learn that week.
 
-This page will list all of the projects, so you have a convenient place to find them.
+This page will list all of the assignments, so you have a convenient place to find them.
 
-* [Week 1: Student Performance Report]()
-* [Week 2: COVID-19 Analysis]()
-* [Week 3: Presidential Election]()
-* [Week 4: Global Internet Usage]()
-* [Week 5: N/A]()
-* [Week 6: N/A]()
-* [Week 7: N/A]()
-* [Week 8: N/A]()
-* [Week 9: No Project]()
+* [Week 1: Student Performance Report](lessons/intro-to-data/assignment.md)
+* [Week 2: FIFA '21 Player Ratings](./lessons/data-cleaning/assignment.md)
+* [Week 3: World GDP Exploration](./lessons/data-visualization/assignment.md)
+* [Week 6: Bank Customer Retention Prediction](./lessons/intro-to-ml/ml-assignment.md)
+* [Week 7: House Price Prediction Model](./lessons/model-evaluation/model-selection-assignment.md)
+* [Week 8: Sentiment Analysis of Jumia Product Reviews](./lessons/nlp/nlp-assignment.md)
 * [Final Project](final-project.md)
 
-Note that there are no Weekly Projects in weeks 4 or 5, so that you have time to
-work on your Final Project.
+Note that there are no Weekly Projects in weeks 4, 5, 9, and 10 so that you have time to
+work on your **Midterm** and **Final** Projects.
 
 ## Practice Exercises
 
@@ -26,7 +22,3 @@ of the lesson. Learning Data Science takes lots of practice, so you should
 try to complete as many of these activities as possible. They will not be
 graded, and you will not get feedback on your work unless you reach out on
 Discord or to the instructor directly for feedback.
-
-You are encouraged to work with teammates on the practice problems. 
-
-
