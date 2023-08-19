@@ -16,11 +16,13 @@ This task will guide you through the process of setting up the deployment enviro
 
 - Save our pre-trained sentiment analysis model
 - Create a `Flask API` with a single endpoint.
-- Load the saved model.
-- Run the model
-- Deploy model locally with `ngrok`.
+    - Load the saved model.
+    - Make sentiment predictions
+- Run the model.
+- Deploy model locally with `Ngrok`.
+    - Alternatively, you can use **Render** or **Speedrun**.
 
-### Save pre-trained model
+### 1. Save pre-trained model
 In week 8 (NLP), we built a sentiment analysis model as the assignment. This model is what we'll be using for this lesson. First, we need to rerun the model and save it. To do that, we add the following code to the last part of our code and run it.
 
 ```python
@@ -32,14 +34,58 @@ joblib.dump(model, 'sentiment_model.pkl')
 
 Here, `joblib` is a library we can use to save the final model. Make sure you note the location where the model is saved, as the file will be needed for deployment.
 
-### Create Flask application
+### Create Flask Application
+In this lesson, we'll be using `Flask` as our prefered framework. As you've seen in the web application development course, Flask can serve different purpose depending on the use case. The goal here is to build an endpoint that we can use to _interact_ with the model, which can be broken down into:
 
-### Load the saved model
+- Create a Flask app that listens to incoming `POST` requests on a specific route.
+- Define a function that processes incoming data and returns predictions from the model.
+- Load the save _model_.
+- Set up the necessary routes to handle user inputs and predictions.
+
+To achieve this, we'll create all these using the code snippet below:
+
+```python
+from flask import Flask, request, jsonify
+import joblib
+
+app = Flask(__name__)
+
+# Load the saved model
+model = joblib.load('sentiment_model.pkl')
+
+# create a route that manages user request and does sentiment prediction
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.get_json()
+    text = data['text']
+    vectorized_text = vectorizer.transform([text])
+    prediction = model.predict(vectorized_text)[0]
+    return jsonify({'sentiment': prediction})
+```
+
+Save the code above in a file named `app.py`.
 
 ### Run the model
+The goal here is to test the Flask app by:
+- Running the Flask app locally and testing it by sending sample inputs.
+- Ensuring that the web app can predicts sentiment based on the user's input.
+
+```python
+if __name__ == '__main__':
+    app.run()
+```
 
 ### Deploy the model
+The goal here is to make our model accessible to everyone online. Here, we'll use `Ngrok` to deploy it locally and generate a URL that is accessible online. To achieve this, we can do the following:
 
+- install _Ngrok_ using `pip install ngrok`.
+- Run the Flask app using `python app.py`.
+- While app is running, open a new _terminal_ in the same directory Ngrok is installed.
+- Use the command: `ngrok http 5000` (assuming your Flask app is running on port _5000_).
+    - ngrok will then generate a public URL, e.g., `http://kibo1234.ngrok.io`
+- To access your model, send a POST request to `http://kibo1234.ngrok.io/predict`.
+
+With these, your model is now live......`Hurray!!!`
 
 > Putting everything together - model deployment
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/IC0o_FRiX-sw" title="Computer Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

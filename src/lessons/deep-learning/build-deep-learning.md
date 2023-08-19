@@ -1,10 +1,10 @@
 # Build a Deep Learning Model
-In previous lessons, we've seen different techniques used in deep learning. Here, we'll delve in on how to build a deep learning model, specifically, a computer vision model. But before doing this, let's briefly look at some tools we need to achieve this task. Also, these tools will be very important moving forward if you decide to further explore deep learning.
+In previous lessons, we've seen different techniques used in deep learning. Here, we'll delve in on how to build a deep learning model, specifically, a computer vision model. This will give you a hands-on experience of building a vision model.
 
 
 ## Building a vision model
 
-In this hands-on walkthrough practice, we'll be building an image classification model using an algorithm called `YOLOv5`. To get started with this, there couple of steps we need to take.
+In this hands-on walkthrough practice, we'll be building an image classification model using an algorithm called `YOLOv5`. To get started with this, there are couple of steps we need to take.
 - Create an account on **[Roboflow](https://roboflow.com/)**.
     - Note your `API KEY` after account creation.
 - Open this <a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov5-classification-on-custom-data.ipynb" target="_blank"><b> colab notebook </b></a> and make a copy to work with.
@@ -17,7 +17,7 @@ In this hands-on walkthrough practice, we'll be building an image classification
 **_NOTE!_**
 
 - You don't need to understand everything.
-- The goal here is to have a feel of how to build a classification model.
+- The goal here is to have a feel of how to build a deep learning model.
 - After completing the walkthrough on `colab`, watch the solution video below.
 </aside>
 
