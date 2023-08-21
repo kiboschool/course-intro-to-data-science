@@ -3,7 +3,7 @@
 
 **Welcome to week 4 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to handle outlier in our data. Finally, we went through data validation and privacy concerns.
 
-This week, we'll begin our journey of exploration and statistics 😍 by looking at what it is, and different ways of exploratory analysis. Next, we'll look at exploratory analysis from visualization point of view. Then, we'll explore different descriptive statistics and analysis.
+This week, we'll begin our journey of data exploration and statistics 😍 by looking at what it is, and different ways of exploratory analysis. Next, we'll look at exploratory analysis from visualization point of view. Then, we'll explore different descriptive statistics and analysis.
 
 
 ## Learning Outcomes
