@@ -12,10 +12,10 @@ Whatever your prior expereince, this week you'll touch on basics of data science
 
 After this week, you will be able to:
 
-- Understand the basics of data science
-- Understand different data types
-- Learn the techniques of data cleaning 
-- Explore, clean, and visualize data with Excel.
+- Explain the basics and building blocks of data science.
+- Describe different data types used in data science.
+- Apply different data cleaning techniques on messy dataset.
+- Generate and visualize data with Microsoft Excel.
 
 
 ### An overview of this week's lesson

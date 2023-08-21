@@ -11,9 +11,10 @@ This week, we'll be looking into **Model Evaluation Techniques** by understandin
 
 After this week, you will be able to:
 
-- 
-- 
-- 
+- Explain model evaluation and why we need it.
+- Describe different model evaluation techniques.
+- Distinguish between overfitting and underfitting.
+- Highlight the factors to consider in selecting the best model.
 
 
 

@@ -17,8 +17,4 @@ work on your **Midterm** and **Final** Projects.
 
 ## Practice Exercises
 
-Each week, there are activities in the lessons and practice exercises at the end
-of the lesson. Learning Data Science takes lots of practice, so you should
-try to complete as many of these activities as possible. They will not be
-graded, and you will not get feedback on your work unless you reach out on
-Discord or to the instructor directly for feedback.
+Each week, there are activities in the lessons and practice exercises at the end of the lesson. Learning Data Science takes lots of practice, so you should try to complete as many of these activities as possible. They will not be graded, and you will not get feedback on your work unless you reach out on **Discord** or to the instructor directly for feedback.

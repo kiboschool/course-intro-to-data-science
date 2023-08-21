@@ -10,9 +10,10 @@ This week, we'll be looking into **Natural Language Processing (NLP)** by unders
 
 After this week, you will be able to:
 
-- 
-- 
-- 
+- Explain NLP and its application in today's world.
+- Describe the NLP pipelines individually or as a collection of processes.
+- Classify some techniques as part of text preprocessing or representation.
+- Build a sentiment analyzer or entity recognizer models.
 
 
 ### An overview of this week's lesson

@@ -11,10 +11,10 @@ This week, we'll begin our journey of data visulization 😍 by looking at what 
 
 After this week, you will be able to:
 
-- Understand the basics and importance of data visualization.
-- Learn how to create basic plots.
-- Learn how to generate insights from data.
-- Understand how to communicate insight to stakeholders.
+- Explain the basics and importance of data visualization.
+- Describe how to create basic plots.
+- Demonstrate how to generate insights from data.
+- Outline how to communicate insight to stakeholders.
 
 
 

@@ -15,10 +15,11 @@ This week, and probably the last lesson week, we'll be focusing on Deep Learning
 
 After this week, you will be able to:
 
-- 
-- 
-- 
-- 
+- Explain deep learning, including its tools and applications.
+- Describe how computers can reconize different objects.
+- Build a computer vision model.
+- Break down generative AI into sub-component
+- Deploy ML model to cloud to provide accessibility (BONUS).
 
 
 ### An overview of this week's lesson

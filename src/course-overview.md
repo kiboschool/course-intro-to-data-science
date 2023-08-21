@@ -24,11 +24,11 @@ Data analysis requires acquiring and cleaning data from various sources includin
 Throughout the course, you will work with real datasets and attempt to answer questions relevant to real-life problems.
 
 ### Course Objectives
-At the end of the course, student will
-- Understand the basics of data science, its relevance in the current business environment and its applications in solving real-world problems.
-- Learn various data collection and cleaning techniques, and tools.
-- Learn how to visualize and analyze data to generate insights that drive business decisions.
-- Understand machine learning concepts and NLP, and how to apply them to real-world problems.
+At the end of the course, student should be able to:
+- Explain the basics of data science, its relevance, and applications in 21st century.
+- Describe various data collection and cleaning techniques, using neccessary tools.
+- Apply different visualization tools to generate insights that drive business decisions.
+- Demonstrate understanding of machine learning concepts, and its application to real-world problems.
 
 ### Weekly Topics
 - Intro to Data Science      

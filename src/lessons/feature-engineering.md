@@ -11,10 +11,10 @@ This week, we'll be looking into **Feature Engineering** by understanding its me
 
 After this week, you will be able to:
 
-- 
-- 
-- 
-
+- Explain the basics and importance of feature engineering.
+- Describe feature encoding and transformation.
+- List and compare feature selection methods.
+- Different feature selection from feature extraction.
 
 
 ### An overview of this week's lesson
