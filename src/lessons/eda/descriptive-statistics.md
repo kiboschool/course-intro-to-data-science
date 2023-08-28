@@ -52,44 +52,31 @@ Imagine you have a spreadsheet with a list of numbers representing student heigh
 
 Here's a sample code using Pandas to calculate the _mean, median_, and _mode_ of student heights:
 
-<aside>
+<iframe src="https://trinket.io/embed/python3/0d65f97032?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+In the code above, we first create a pandas Series called heights that contains the student heights. We then use the `.mean()` method to calculate the mean height, the `.median()` method to calculate the median height, and the `.mode()` method to calculate the mode height. 
+
+<details>
+<summary> <b>👩🏾‍🎨 Check your understanding: Measures of central tendency... 🎯 </b></summary>
+
+Consider the following dataset representing the ages of a group of students in a class:
 
 ```python
-import pandas as pd
-
-# Create a pandas Series with student heights
-heights = pd.Series([150, 160, 165, 170, 175])
-
-# Calculate the mean
-mean_height = heights.mean()
-print("Mean Height:", mean_height)
-
-# Calculate the median
-median_height = heights.median()
-print("Median Height:", median_height)
-
-# Calculate the mode
-mode_height = heights.mode()
-print("Mode Height:", mode_height)
+[18, 20, 19, 21, 22, 18, 20, 21, 19, 20]
 ```
 
-</aside>
-
-In the code above, we first create a pandas Series called heights that contains the student heights. We then use the `.mean()` method to calculate the mean height, the `.median()` method to calculate the median height, and the `.mode()` method to calculate the mode height. After running the code snippet above, here is the output of the measure of central tendency:
-
-    Mean Height: 164.0
-    Median Height: 165.0
-    Mode Height: 0    150
+- Calculate the **mean** , **median**, and **mode** of the students age in the class.
+- Explain in simple terms what each of these measures represents and how they help us understand the distribution of ages in the class.
+</details>
 
 ## Visualization in Descriptive statistics
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/txNvZ3Zndak" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 Visualizing data in descriptive statistics enhances our understanding by providing a visual representation of the information. It helps us identify patterns, trends, and potential outliers in the data. 
 
 Additionally, it makes it easier to communicate findings to others who may not be familiar with statistical concepts, allowing for a more engaging and intuitive interpretation of the data. 
 
-By leveraging visualizations, we can better explore, interpret, and communicate the main characteristics of the data in descriptive statistics.
+By leveraging visualizations, we can better explore, interpret, and communicate the main characteristics of the data in descriptive statistics. We'll see more of this towards the end of the week.
 
 <aside>
 
@@ -99,12 +86,8 @@ By leveraging visualizations, we can better explore, interpret, and communicate 
 
 </aside>
 
-> **👩🏾‍🎨 Practice: Measures of central tendency... 🎯**
 
-
- <br><br>
-
-> ➡️ Next, we'll be exploring more on descriptive statistics - `measures of dispersion` 🎯.
+> ➡️ Next, we'll explore more on descriptive statistics - `measures of dispersion` 🎯.
 
 
 

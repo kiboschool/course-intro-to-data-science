@@ -73,14 +73,12 @@ These engineered features help identify customers more likely to renew their sub
 
 **_Lesson summary..._**
 
-**_Feature engineering_** is vital for individual and businesses as it allows us to uncover valuable insights hidden within our data. By creating new features or modifying existing ones, businesses can gain a deeper understanding of customer behaviors, preferences, and engagement levels. This, in turn, enables us to make informed decisions, personalize marketing efforts, and enhance customer satisfaction, ultimately leading to improved business outcomes.
+**_Feature engineering_** is vital for individual and businesses as it allows us to uncover valuable insights hidden within our data. By creating new features or modifying existing ones, businesses can gain a deeper understanding of customer behaviors, preferences, and engagement levels. 
+
+This, in turn, enables us to make informed decisions, personalize marketing efforts, and enhance customer satisfaction, ultimately leading to improved business outcomes.
 
 </aside>
 
-
-### 👩🏾‍🎨 Practice: Feature engineering... 🎯
-
-<br>
 
 > ➡️ In the next section, we'll be looking at `Feature transformation` 🎯.
 

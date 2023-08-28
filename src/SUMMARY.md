@@ -44,7 +44,7 @@
     - [Data size and Bubble chart](./lessons/data-visualization/bubble-chart.md)
     - [Data distribution](./lessons/data-visualization/data-distribution.md)
     - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
-    - [Practices]()
+    - [Practices](./lessons/data-visualization/practice.md)
     - [Assignment](./lessons/data-visualization/assignment.md)
    
 
@@ -57,7 +57,7 @@
     - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
     - [Correlation analysis](./lessons/eda/correlation-covariance.md)
     - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
-    - [Practice]()
+    - [Practice](./lessons/eda/practice.md)
 
 
 ### Week 5

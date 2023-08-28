@@ -47,36 +47,9 @@ Overall, these measures of dispersion help us understand how the weights of stud
 ## Measure of dispersion using Python
 Python provides various libraries, such as NumPy and Pandas, that make it easy to calculate measures of dispersion. Here's an example using the `Numpy` library to calculate the range, variance, and standard deviation of the weight dataset.
 
-<aside>
+<iframe src="https://trinket.io/embed/python3/27ffe23790?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-```python
-import numpy as np
-
-# Create a list of numbers
-data = [50, 55, 60, 65, 70]
-
-# Calculate the range
-data_range = np.max(data) - np.min(data)
-
-# Calculate the variance
-variance = np.var(data)
-
-# Calculate the standard deviation
-std_deviation = np.std(data)
-
-# Print the results
-print("Range:", data_range)
-print("Variance:", variance)
-print("Standard Deviation:", std_deviation)
-```
-</aside>
-
-In the code snippet above, the `np.max()` and `np.min()` functions find the maximum and minimum values in the dataset, allowing us to calculate the range. The `np.var()` function calculates the variance, and the `np.std()` function calculates the standard deviation. When you run this code, it will output the range, variance, and standard deviation of the weight data as follows:
-
-    Range: 20
-    Variance: 50.0
-    Standard Deviation: 7.0710678118654755
-
+In the code snippet above, the `np.max()` and `np.min()` functions find the maximum and minimum values in the dataset, allowing us to calculate the range. The `np.var()` function calculates the variance, and the `np.std()` function calculates the standard deviation. 
 
 <aside>
 
@@ -85,9 +58,19 @@ In the code snippet above, the `np.max()` and `np.min()` functions find the maxi
 By considering _measures of dispersion_, we can better understand the variability of data and how individual values deviate from the central value. This information is useful in comparing datasets, identifying outliers, and making informed decisions based on the spread of the data.
 </aside>
 
-> **👩🏾‍🎨 Practice: Measures of central dispersion... 🎯**
+### 👩🏾‍🎨 Practice: Measures of central tendency... 🎯 
 
 
- <br><br>
+Consider the following dataset representing the test scores of a group of students in a class:
 
-> ➡️ Next, we'll be looking at `univariate` and `multivariate` analysis 🎯.
+```python
+[85, 90, 75, 80, 95, 70, 85, 88, 82, 78]
+```
+
+1. Calculate the **range** of the test scores.
+2. Calculate the **variance** of the test scores.
+3. Calculate the **standard deviation** of the test scores.
+4. Explain in simple terms what each of these measures of dispersion tells us about the spread or variability of the test scores.
+
+
+> ➡️ Next, we'll be looking at `Correlation analysis` analysis 🎯.

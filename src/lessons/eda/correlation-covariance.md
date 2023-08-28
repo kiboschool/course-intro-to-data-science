@@ -50,35 +50,11 @@ Here's a code snippet using `Numpy` and `Seaborn` to calculate and plot the corr
 
 > **Note**: Seaborn library will be explored in subsequent lessons. Hence, don't stress much about it right now.
 
-<aside>
-
-```python
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Number of hours studied
-hours_studied = np.array([3, 5, 2, 6, 4, 7])
-
-# Test scores
-test_scores = np.array([70, 90, 65, 95, 80, 85])
-
-# Calculate the correlation coefficient
-correlation_coefficient = np.corrcoef(hours_studied, test_scores)[0, 1]
-
-# Plot the correlation using seaborn
-sns.regplot(x=hours_studied, y=test_scores)
-plt.xlabel('Number of Hours Studied')
-plt.ylabel('Test Scores')
-plt.title(f'Correlation: {correlation_coefficient:.2f}')
-plt.show()
-```
-</aside>
+<iframe src="https://trinket.io/embed/python3/e2016739fe?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 We use the `np.corrcoef()` function from Numpy to calculate the correlation coefficient between the number of hours studied and test scores. Next, we use Seaborn's `regplot()` function to create a scatter plot with a linear regression line, showing the relationship between the two variables. If we run the above code snippet, then we can see the plot below.
 
 ![correlation-seaborn.png](./eda/correlation-seaborn.png)
-
 
 By calculating the correlation coefficient, we can quantify the strength of the relationship between hours studied and test scores. This information can help us understand how changes in study hours may impact test performance and guide decision-making regarding study strategies or resource allocation for improving academic performance.
 
@@ -92,6 +68,16 @@ Correlation analysis is a valuable tool in data science and can help us understa
 
 ### 👩🏾‍🎨 Practice: Correlation analysis... 📝
 
-<br><br>
+Imagine you have collected data about movie ratings from a group of people. Here's a simplified dataset representing the number of hours spent watching movies per week and the corresponding average rating given by each person:
+
+```python
+Hours Watched: [6, 8, 5, 4, 9, 7, 3, 2, 7, 5]
+Ratings:       [4.5, 3.8, 4.0, 3.2, 4.7, 4.3, 2.9, 3.1, 4.2, 3.8]
+```
+
+1. Calculate the **correlation coefficient** between the hours watched and the ratings.
+2. Interpret the correlation coefficient value. What does it suggest about the relationship between hours watched and movie ratings?
+
+
 
 > ➡️ In the next lesson, we'll be looking into `visualization` in EDA 🎯.

@@ -11,7 +11,14 @@ For example, imagine we have a dataset containing information about the sales of
 
 > **👩🏾‍🎨 Practice: Visualization for EDA 🎯**
 
+Imagine you have collected data about movie ratings from a group of people. Here's a simplified dataset representing the number of hours spent watching movies per week and the corresponding average rating given by each person:
 
+```python
+Hours Watched: [6, 8, 5, 4, 9, 7, 3, 2, 7, 5]
+Ratings:       [4.5, 3.8, 4.0, 3.2, 4.7, 4.3, 2.9, 3.1, 4.2, 3.8]
+```
+1. Create a **scatter plot** of hours watched vs. ratings. Label the axes appropriately.
+2. Based on the scatter plot and correlation coefficient, describe the strength and direction of the relationship between hours watched and movie ratings.
 <br>
 
 > ➡️ In the next section, you'll practice what you've learnt so far this week 🏙️.
