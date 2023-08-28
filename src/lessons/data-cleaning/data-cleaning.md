@@ -125,19 +125,77 @@ We can also specify specific columns to determine duplicates. Only rows with ide
 
 In conclusion, addressing duplicate data is crucial to ensuring accurate analysis, maintain data integrity, derive reliable insights, and support consistent decision-making. By effectively handling duplicate data, we can work with clean and reliable datasets, leading to more robust and trustworthy analysis outcomes.
 
+### 👩🏾‍🎨 Check your understanding 🎯
+
+Consider a dataset containing information about students' test scores and their demographic details. The dataset has missing values that need to be addressed before performing any analysis. Use the provided dataset to answer the following questions:
+
+**Dataset:**
+
+| Student_ID | Age | Gender | Test_Score | Study_Hours |
+|------------|-----|--------|------------|-------------|
+| 1          | 18  | Male   | 85         | 6           |
+| 2          | 20  | Female | NaN        | 7           |
+| 3          | 19  | Male   | 78         | NaN         |
+| 4          | NaN | Female | 92         | 5           |
+| 5          | 22  | Male   | NaN        | NaN         |
+
+**Questions:**
+
+1. What is missing data in a dataset?
+2. Why is it important to handle missing data before performing analysis?
+3. In the given dataset, how many missing values are in the "Test_Score" column?
+4. How many missing values are in the "Study_Hours" column?
+5. What are some common strategies to handle missing data? Briefly explain each.
+6. For the `Test_Score` column, which strategy would you recommend to handle missing values? Why?
+7. For the `Study_Hours` column, which strategy would you recommend to handle missing values? Why?
+8. Can you suggest any Python libraries or functions that can help you handle missing data in a dataset?
+9. Calculate the mean value of the `Test_Score` column and fill the missing values with it.
+10. Fill the missing values in `Study_Hours` with the median value of the column.
+
+> **🎯 Make sure you first attempt the questions before revealing the answers**
+
+<details>
+<summary><b> 👩🏾‍🎨 Reveal the Answer </b></summary>
 
 
+1. What is missing data in a dataset?
+   - Missing data refers to the absence of values in certain cells of a dataset.
 
->  **👩🏾‍🎨 Practice: COVID-19 Dataset 🎯**
+2. Why is it important to handle missing data before performing analysis?
+   - Handling missing data is important because it can lead to inaccurate analysis and modeling. Missing data can introduce biases and affect the reliability of results.
 
-In this exercise, you'll practice the techniques you've learnt so far. Using the COVID-19 dataset, try the following... 
-1. Identify a column with missing data, and try the above techniques for handling missing data.
-2. Are there duplicate rows in the dataset? If yes, remove the duplicates by specifying the column with duplicates.
-3. Insert a snippet of your cleaned dataset in the padlet below.
-    
-    **[https://padlet.com/curriculumpad/clean-covid19-dataset](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
+3. In the given dataset, how many missing values are in the "Test_Score" column?
+   - There are 2 missing values in the "Test_Score" column.
 
+4. How many missing values are in the "Study_Hours" column?
+   - There are 3 missing values in the "Study_Hours" column.
+
+5. What are some common strategies to handle missing data? Briefly explain each.
+   - **Imputation/Filling**: Replacing missing values with estimated values, such as the mean, median, or mode of the column.
+   - **Deletion**: Removing rows or columns with missing values.
+   - **Interpolation**: Using machine learning algorithms to predict missing values based on other variables.
+
+6. For the "Test_Score" column, which strategy would you recommend to handle missing values? Why?
+   - Imputation with the mean value is a reasonable strategy because it provides a representative estimate of missing values without drastically affecting the distribution.
+
+7. For the "Study_Hours" column, which strategy would you recommend to handle missing values? Why?
+   - Imputation with the median value might be a suitable strategy as well, but you can still use interpolation.
+
+8. Can you suggest any Python libraries or functions that can help you handle missing data in a dataset?
+   - Python libraries like _Pandas_ provide functions such as `.isna()`, `.fillna()`, and `.dropna()` for handling missing data.
+
+9. In the `Test_Score`, calculate the mean value of the column and fill the missing values with it.
+   ```python
+   test_score_mean = df['Test_Score'].mean()
+   df['Test_Score'].fillna(test_score_mean, inplace=True)
+   ```
+
+10. In the `Study_Hours`, fill the missing values with the median value of the column.
+   ```python
+   study_hours_median = df['Study_Hours'].median()
+   df['Study_Hours'].fillna(study_hours_median, inplace=True)
+   ```
+</details>
 <br>
 
 > ➡️ In the next section, you'll be introduced to  `Data inconsistencies` and `Outliers`.
-

@@ -58,6 +58,7 @@ A smaller sample of the global COVID-19 dataset is provided **[here](https://doc
     - Handle blank space
     - Convert the column from text to number
     - Implement other cleaning techniques of your choice
+4. Submit this exercise using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSe6D2X-nK8KpDzRUqq5-aci-sbFQTXrFv1wtZBqaLFrYu8pjg/viewform?usp=sharing)**.
 
 </aside>
 

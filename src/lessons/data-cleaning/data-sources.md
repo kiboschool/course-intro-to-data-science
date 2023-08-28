@@ -189,7 +189,7 @@ In this exercise, you'll access data from sample APIs using your browser. With t
     - **[http://restapi.adequateshop.com/api/Traveler?page=1](http://restapi.adequateshop.com/api/Traveler?page=1)**
 
 3. Describe what each data from the APIs is all about in the padlett below
-    - **[https://padlet.com/curriculumpad/api-data](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
+    - **[https://padlet.com/curriculumpad/api-data](https://padlet.com/curriculumpad/explore-pandas-function-d8iw6xw44j7xz79s)**
 
 <br>
 

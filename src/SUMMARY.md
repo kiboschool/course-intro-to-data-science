@@ -18,7 +18,7 @@
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools](lessons/intro-to-data/ds-tools.md)
-    - [Practices]()
+    - [Practices](lessons/intro-to-data/practice.md)
     - [Assignment](lessons/intro-to-data/assignment.md)
 
 
@@ -31,7 +31,7 @@
     - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
     - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
-    - [Practices]()
+    - [Practices](./lessons/data-cleaning/practice.md)
     - [Assignment](./lessons/data-cleaning/assignment.md)
 
 

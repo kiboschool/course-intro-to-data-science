@@ -164,11 +164,95 @@ The upper and lower thresholds are defined using quantiles, such as `0.95` for t
 
 > By applying the winsorization technique, extreme outlier values are capped, bringing them closer to the rest of the data distribution. This helps in reducing the impact of outliers while retaining valuable information from the dataset.
 
-> **👩🏾‍🎨 Practice: Comparing Outlier 🎯**
+### 👩🏾‍🎨 Check your understanding: Handling Outliers 🎯
 
-In this lesson, we've seen how to identify and handle outliers using different techniques. Now let's gauge our understanding of these techniques.
-1. Goto to your [Gradescope quiz]()
-2. Attempt the quizes in `Comparing Outlier`.
+Consider the following dataset representing the test scores of students:
+
+| Student ID | Test Score |
+|------------|------------|
+| 1          | 75         |
+| 2          | 82         |
+| 3          | 90         |
+| 4          | 85         |
+| 5          | 95         |
+| 6          | 105        |
+| 7          | 78         |
+| 8          | 92         |
+| 9          | 88         |
+| 10         | 120        |
+
+**Questions:**
+
+1. What are outliers in a dataset?
+2. Why is it important to handle outliers in a dataset before analysis?
+3. What is data trimming?
+4. Which value(s) would you consider as an outlier in the given dataset? Why?
+5. What is data replacement?
+6. Perform data replacement by capping the outlier values at 100.
+7. What is winsorization?
+8. Perform winsorization by replacing the outlier values with the 95th percentile value.
+9. Compare and discuss the effects of trimming, replacement, and winsorization on the dataset.
+
+
+> **🎯 Make sure you first attempt the questions before revealing the answers**
+
+<details>
+<summary><b> 👩🏾‍🎨 Reveal the Answer </b></summary>
+
+**Check Your Understanding: Handling Outliers - Practice Exercise**
+
+**Dataset:**
+Consider the following dataset representing the test scores of students:
+
+| Student ID | Test Score |
+|------------|------------|
+| 1          | 75         |
+| 2          | 82         |
+| 3          | 90         |
+| 4          | 85         |
+| 5          | 95         |
+| 6          | 105        |
+| 7          | 78         |
+| 8          | 92         |
+| 9          | 88         |
+| 10         | 120        |
+
+**Questions:**
+
+1. What are outliers in a dataset?
+   - Outliers are data points that significantly differ from the rest of the data points in a dataset.
+
+2. Why is it important to handle outliers in a dataset before analysis?
+   - Handling outliers is important because they can skew statistical analysis and modeling results, leading to inaccurate insights and conclusions.
+
+3. What is data trimming?
+   - Data trimming involves removing extreme values (outliers) from the dataset beyond a certain threshold.
+
+4. Which value(s) would you consider as an outlier in the given dataset? Why?
+   - The test score of 105 and 120 can be considered outliers because they are significantly higher than the other scores.
+
+5. What is data replacement?
+   - Data replacement involves replacing outlier values with more reasonable or plausible values that are still within the range of the dataset.
+
+6. Perform data replacement by capping the outlier values at 100.
+   ```python
+   df['Test Score'] = df['Test Score'].apply(lambda x: min(x, 100))
+   ```
+
+7. What is winsorization?
+   - Winsorization involves replacing outlier values with values at a specified percentile to mitigate their impact.
+
+8. Perform winsorization by replacing the outlier values with the 95th percentile value.
+   ```python
+   percentile_95 = df['Test Score'].quantile(0.95)
+   df['Test Score'] = df['Test Score'].apply(lambda x: min(x, percentile_95))
+   ```
+
+9. Compare and discuss the effects of trimming, replacement, and winsorization on the dataset.
+
+**Note:** Solutions provided are based on general recommendations. The choice of handling outliers may vary depending on the context and goals of the analysis.
+
+</details>
 
 <br>
 

@@ -30,14 +30,18 @@ By presenting information visually, Excel makes it easier for us to grasp and in
 
 **_In summary...✍🏾_**
 
-_Data visualization_ is the practice of representing data in a visual format, such as charts, graphs, and maps, to communicate information and insights effectively. It helps us understand complex data by presenting it in a visually appealing and intuitive way. By using colors, shapes, and patterns, data visualization allows us to identify patterns, trends, and relationships that may not be apparent in raw data. tools such as Excel, Power BI, and Tableau makes it possible for anyone, even with limited technical expertise, to transform data into visual representations that reveal insights and tell compelling stories.
+_Data visualization_ is the practice of representing data in a visual format, such as charts, graphs, and maps, to communicate information and insights effectively. It helps us understand complex data by presenting it in a visually appealing and intuitive way. 
+
+By using colors, shapes, and patterns, data visualization allows us to identify patterns, trends, and relationships that may not be apparent in raw data. tools such as Excel, Power BI, and Tableau makes it possible for anyone, even with limited technical expertise, to transform data into visual representations that reveal insights and tell compelling stories.
 
 </aside>
 
 ### 👩🏾‍🎨 Practice: The Pandemic 🎯
 Using the COVID-19 dataset you cleaned in the last practice exercise, create visualizations that provides information about the COVID-19 pandemic.
-1. Explore the dataset to have a sense of what the it represent.
-2. Create visuals as you you deemed fit. No answer is wrong!
+1. Explore the dataset to have a sense of what it represent.
+2. Create visuals as you deemed fit. No answer is wrong!
+3. Share your visualization using **[this padlet](https://padlet.com/curriculumpad/covid-19-visualization-khrajjuimxmd7ynx)**.
+    - You can like other cool visuals on the padlet as well.
 
 </aside>
 

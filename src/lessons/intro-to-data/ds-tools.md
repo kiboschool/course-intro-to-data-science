@@ -78,7 +78,7 @@ Overall, Google Colab is a powerful tool for data scientists, providing access t
 
 </aside>
 
-From the list of Python libraries below, group each library as one of the following - `visualization`, `machine learning`, and `data manipulation`.
+- From the list of Python libraries below, group each library as one of the following - `visualization`, `machine learning`, `data manipulation`, and `Utilities`.
 1. Pandas
 2. Bokeh
 3. Numpy
@@ -89,6 +89,9 @@ From the list of Python libraries below, group each library as one of the follow
 8. Polar
 9. Tensorflow
 10. OpenCV
+
+- Share your answers using **[this padlet](https://padlet.com/curriculumpad/group-the-libraries-k4kfn3gsarud687e)**.
+    - You can like other cool answers on the padlet as well.
 
 </aside>
 
