@@ -68,7 +68,7 @@
     - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
     - [Feature selection methods](./lessons/feature-engineering/feature-selection-methods.md)
     - [Feature extraction](./lessons/feature-engineering/feature-extraction.md)
-    - [Practice]()
+    - [Practice](./lessons/feature-engineering/practice.md)
 
 
 

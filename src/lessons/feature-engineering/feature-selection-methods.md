@@ -81,10 +81,10 @@ The table below gives a summary of the two feature selection methods explored in
 _Feature selection_ helps data scientists remove unnecessary noise from the data and extract the most valuable insights, just like picking the right ingredients for a delicious dish! By choosing the right features, we can make data analysis more efficient, gain meaningful information, and make better decisions for various business and real-life challenges.
 </aside>
 
-
+<!-- 
 ### 👩🏾‍🎨 Practice: Feature selection... 🎯
 
-<br>
+<br> -->
 
 > ➡️ In the next section, we'll be looking at `Feature extraction techniques` 🎯.
 

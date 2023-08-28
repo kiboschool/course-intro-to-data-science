@@ -29,6 +29,27 @@ For example, using a sample dataFrame,  suppose we have a dataset of fruits, and
 
 In the code snippet, _Apple_ is represented as `0`, _Banana_ as `1`, and _Orange_ as `2`. Now, we can use these encoded numbers for further analysis or modeling tasks. Here's the output of the code snippet.
 
+<details>
+<summary><b> Check your understanding: Label encoding </b></summary>
+
+
+You are working with a dataset that contains information about different houses for sale. Here's a simplified version of the dataset:
+
+```python
+House ID:       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Square Feet:    [1200, 1500, 1800, 900, 2200, 1000, 1600, 1300, 1100, 1700]
+Bedrooms:       [2, 3, 4, 2, 4, 2, 3, 2, 2, 3]
+Bathrooms:      [1, 2, 2, 1, 3, 1, 2, 1, 1, 2]
+Year Built:     [1995, 2000, 1985, 2005, 2010, 1998, 2002, 1990, 2008, 2015]
+Price ($):      [150000, 200000, 230000, 120000, 280000, 140000, 210000, 180000, 160000, 220000]
+```
+
+**Task**: 
+
+Use label encoding to encode the `Bedrooms` feature into numerical values (e.g., 2 bedrooms as 0, 3 bedrooms as 1, etc.)
+</details>
+
+
 
 ### 2. One-hot encoding
 One-hot encoding is another technique used to handle categorical or non-numeric features. This is done by creating a new binary feature for each category. Each column represents a specific category, and it contains a value of `1` if the data point belongs to that category, and `0` if it does not. 
@@ -46,6 +67,28 @@ Now, let's use the same example of the fruit dataset and perform one-hot encodin
 The output of the sample code is a DataFrame with three additional columns: `Fruit_Apple`, `Fruit_Banana`, and `Fruit_Orange`. Each column represents a fruit type, and a value of `1` indicates that the row corresponds to that particular fruit, while a value of `0` indicates that it doesn't.
 
 With one-hot encoding, we have converted the `Fruit_Type` categorical feature into binary columns, making it easier for machine learning algorithms to process and analyze the data. 
+
+
+<details>
+<summary><b> Check your understanding: One-Hot encoding </b></summary>
+
+
+You are working with a dataset that contains information about different houses for sale. Here's a simplified version of the dataset:
+
+```python
+House ID:       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Square Feet:    [1200, 1500, 1800, 900, 2200, 1000, 1600, 1300, 1100, 1700]
+Bedrooms:       [2, 3, 4, 2, 4, 2, 3, 2, 2, 3]
+Bathrooms:      [1, 2, 2, 1, 3, 1, 2, 1, 1, 2]
+Year Built:     [1995, 2000, 1985, 2005, 2010, 1998, 2002, 1990, 2008, 2015]
+Price ($):      [150000, 200000, 230000, 120000, 280000, 140000, 210000, 180000, 160000, 220000]
+```
+
+**Task**: 
+
+Apply _One-Hot_ encoding to the `Bathrooms` feature. Create new binary columns for each unique value in the `Bathrooms` feature.
+</details>
+
 
 <!-- ### 3. Target encoding
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/N9fDIAfylCMY" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
@@ -73,9 +116,9 @@ It is important to use feature encoding carefully to avoid...
 - making the data less interpretable due to numerical representations.
 </aside>
 
-
+<!-- 
 ### 👩🏾‍🎨 Practice: Feature encoding... 🎯
 
-<br>
+<br> -->
 
 > ➡️ In the next section, we'll be looking at `Feature selection methods`🎯

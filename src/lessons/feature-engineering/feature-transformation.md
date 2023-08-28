@@ -32,7 +32,23 @@ We used `Min-Max (or Normalization)` scaling technique to scale the numeric feat
 - Rank 
 - Unit Vector Scaling
 
-#### Practice
+<details>
+<summary><b> Check your understanding: Scaling </b></summary>
+
+
+You are working with a dataset that contains information about different houses for sale. Here's a simplified version of the dataset:
+
+```python
+House ID:       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Square Feet:    [1200, 1500, 1800, 900, 2200, 1000, 1600, 1300, 1100, 1700]
+Bedrooms:       [2, 3, 4, 2, 4, 2, 3, 2, 2, 3]
+Bathrooms:      [1, 2, 2, 1, 3, 1, 2, 1, 1, 2]
+Year Built:     [1995, 2000, 1985, 2005, 2010, 1998, 2002, 1990, 2008, 2015]
+Price ($):      [150000, 200000, 230000, 120000, 280000, 140000, 210000, 180000, 160000, 220000]
+```
+
+**Task**: Perform _min-max scaling_ on the `Square Feet` feature to bring it into the range [0, 1]. 
+</details>
 
 ### 2. Binning
 Binning is the process of dividing a continuous feature (e.g., age) into discrete intervals or `bins`. It's like creating age groups to make it easier to understand and analyze the data. For example, let's say we have a dataset of customer ages, and we want to bin the ages into 5 bins, the we have
@@ -56,12 +72,36 @@ Different binning techniques can be used depending on the data and analysis goal
 - **Equal Frequency**: Dividing the data into bins with an equal number of data points. This can help handle `skewed` data.
 - **Custom**: Defining specific bins based on domain knowledge or specific requirements.
 
+
+<details>
+<summary><b> Check your understanding: Binning </b></summary>
+
+
+You are working with a dataset that contains information about different houses for sale. Here's a simplified version of the dataset:
+
+```python
+House ID:       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Square Feet:    [1200, 1500, 1800, 900, 2200, 1000, 1600, 1300, 1100, 1700]
+Bedrooms:       [2, 3, 4, 2, 4, 2, 3, 2, 2, 3]
+Bathrooms:      [1, 2, 2, 1, 3, 1, 2, 1, 1, 2]
+Year Built:     [1995, 2000, 1985, 2005, 2010, 1998, 2002, 1990, 2008, 2015]
+Price ($):      [150000, 200000, 230000, 120000, 280000, 140000, 210000, 180000, 160000, 220000]
+```
+
+**Task**: 
+
+Apply binning on the `Year Built` feature to categorize houses into decades (e.g., 1980s, 1990s, etc.)
+</details>
+
 <aside>
 
 **_Lesson Summary..._**
 
-**_Feature transformation_** is the process of changing the way data is represented or organized to make it more suitable for analysis and modeling. There are several popular techniques used in feature transformation and each technique has its purpose and can be applied depending on the characteristics of the data and the specific analysis goals. A summary of the techniques covered and more is given in the table below.
-</aside>
+**_Feature transformation_** is the process of changing the way data is represented or organized to make it more suitable for analysis and modeling. 
+
+There are several popular techniques used in feature transformation and each technique has its purpose and can be applied depending on the characteristics of the data and the specific analysis goals. 
+
+A summary of the techniques covered and more is given in the table below.
 
 ```
 | Technique                  | What it does                                                                            |
@@ -73,10 +113,13 @@ Different binning techniques can be used depending on the data and analysis goal
 | Reciprocal transformation  | Takes the reciprocal of the data, which can help to make the distribution more uniform. |
 | Square root transformation | Takes the square root of the data, which can help to make the distribution more normal. |
 ```
+</aside>
 
 
+
+<!-- 
 ### 👩🏾‍🎨 Practice: Feature transformation... 🎯
 
-<br>
+<br> -->
 
 > ➡️ In the next section, we'll be looking at `Feature encoding` 🎯.

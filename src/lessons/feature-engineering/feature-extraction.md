@@ -37,9 +37,9 @@ On the other hand, feature selection is like picking out the best fruits from th
 </aside>
 
 
-### 👩🏾‍🎨 Practice: Feature extraction... 🎯
+<!-- ### 👩🏾‍🎨 Practice: Feature extraction... 🎯
 
-<br>
+<br> -->
 
 > ➡️ Next, we'll look at some practice exercises... 🎯.
 
