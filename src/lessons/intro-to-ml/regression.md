@@ -54,7 +54,17 @@ Linear regression is commonly used for predicting numerical outcomes, such as pr
 </aside>
 
 ### 👩🏾‍🎨 Practice: Regression in ML... 🎯
+- Which of the following statements best describes supervised learning in the context of regression?
+  - Supervised learning involves training a model with labeled data and then making predictions on unlabeled data.
+  - Supervised learning is a technique to train models only on numerical data.
+  - Supervised learning does not involve the use of any training data.
+  - Supervised learning is only used for classification problems.
 
+- Which of the following statements is true about linear regression?
+  - Linear regression is suitable only for categorical data.
+  - Linear regression assumes a linear relationship between dependent and independent variables.
+  - Linear regression does not involve any assumptions about the data.
+  - Linear regression can only predict binary outcomes.
 <br>
 
 > ➡️ Next, we'll look at `Unsupervised learning`... 🎯

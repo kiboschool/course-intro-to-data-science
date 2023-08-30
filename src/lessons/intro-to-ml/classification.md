@@ -53,14 +53,21 @@ Finally, we created a new student data who studied for 6 hours, had a previous g
 
 **_Lesson summary..._**
 
-Classification is a technique used in finding the right model or pattern that can separate a data into predefined categories or classes. This is done by deriving a mapping function between the dependent and independent features. Just like you might look at the shape, color, and texture of an item to determine its type, the classification model uses patterns and features from the data  to make predictions.
+Classification is a technique used in finding the right model or pattern that can separate a data into predefined categories or classes. This is done by deriving a mapping function between the dependent and independent features. 
+
+Just like you might look at the shape, color, and texture of an item to determine its type, the classification model uses patterns and features from the data  to make predictions.
 
 In binary classification, the model is only trained to predict one of two categories, while in multi-class classification, the model is trained to predict one of more than two categories
 </aside>
 
 ### 👩🏾‍🎨 Practice: Classification in ML... 🎯
 
-<br>
+1. Suppose an online shoe store wants to create a supervised ML model that will provide personalized shoe recommendations to users. That is, the model will recommend certain pairs of shoes to Marty and different pairs of shoes to Janet. The system will use past user behavior data to generate training data. Which of the following statements are true?
+
+    - `Shoe size` is a useful feature.
+    - `The user clicked on the shoe's description` is a useful label.
+    - `Shoe beauty` is a useful feature.
+    - `Shoes that a user adores` is a useful label.
 
 > ➡️ Next, we'll look at `regression in ML`... 🎯
 

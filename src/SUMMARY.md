@@ -81,7 +81,7 @@
     - [Regression in ML](./lessons/intro-to-ml/regression.md)
     - [Unsupervised learning](./lessons/intro-to-ml/unsupervised-learning.md)
     - [Build your first ML model](./lessons/intro-to-ml/build-your-first-ml.md)
-    - [Practices]()
+    - [Practices](./lessons/intro-to-ml/practice.md)
     - [Assignment](./lessons/intro-to-ml/ml-assignment.md)
 
 
@@ -95,7 +95,7 @@
     - [Cross validation](./lessons/model-evaluation/cross-validation.md)
     - [Regression evaluation](./lessons/model-evaluation/regression-evaluation.md)
     - [Model selection](./lessons/model-evaluation/model-selection.md)
-    - [Practice]()
+    - [Practice](./lessons/model-evaluation/practice.md)
     - [Assignment](./lessons/model-evaluation/model-selection-assignment.md)
 
 

@@ -67,6 +67,15 @@ It like having a smart assistant that learns and improves over time by observing
 
 ### 👩🏾‍🎨 Practice: Categories of machine learning... 🎯
 
+There are 3 problem set provided below. Based on your understanding of ML and its categories, classify each of the problem set into one of `supervised`, `unsupervised`, and `reinforcement` learning.
+
+1. You're given a dataset of patient medical records, including symptoms, test results, and final diagnoses. Your task is to develop an ML model to predict whether a patient has a certain medical condition based on their symptoms and test results. What type of ML problem is this?
+
+2. Imagine you're building an autonomous car that needs to navigate through a simulated city. The car learns to drive safely and efficiently by receiving rewards for following traffic rules and penalties for collisions. What suitable ML problem type is this?
+
+3. You have a dataset of patient medical records, including symptoms, test results, and final diagnoses. Your task is to develop an ML model to predict whether a patient has a certain medical condition based on their symptoms and test results. What suitable ML problem type is this?
+
+
 <br>
 
 > ➡️ Next, we'll look at `supervised learning`... 🎯

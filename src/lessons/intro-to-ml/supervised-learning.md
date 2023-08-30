@@ -77,6 +77,12 @@ The goal of **supervised learning** is to teach the computer to make accurate pr
 
 ### 👩🏾‍🎨 Practice: Supervised learning... 🎯
 
+Suppose you want to develop a supervised machine learning model to predict whether a given email is "spam" or "not spam." Which of the following statements are true?
+- Emails not marked as "spam" or "not spam" are unlabeled examples.
+- We'll use unlabeled examples to train the model.
+- Words in the subject header will make good labels.
+- The labels applied to some examples might be unreliable.
+
 <br>
 
 > ➡️ Next, we'll look at `classification and regression`... 🎯

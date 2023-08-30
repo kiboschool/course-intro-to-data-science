@@ -39,6 +39,17 @@ This way, unsupervised learning can be great for discovering hidden insights in 
 
 ### 👩🏾‍🎨 Practice: Unsupervised learning... 🎯
 
+- Which of the following statements best describes clustering in the context of machine learning?
+    - Clustering is a technique used to train models on labeled data.
+    - Clustering involves grouping similar data points together based on certain criteria.
+    - Clustering is only applicable to classification problems.
+    - Clustering is primarily used to predict numerical outcomes.
+
+- Which of the following statements is true about K-Means clustering?
+    - K-Means clustering is used for text analysis only.
+    - K-Means clustering aims to minimize the number of clusters.
+    - K-Means clustering requires the number of clusters (k) to be specified in advance.
+    - K-Means clustering is not suitable for datasets with a large number of features.
 <br>
 
 > ➡️ Next, we'll look at `Reinforcement learning`... 🎯
