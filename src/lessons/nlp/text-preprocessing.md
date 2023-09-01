@@ -209,6 +209,40 @@ There are different text preprocessing techniques in NLP, however, 5 dof these t
 - Stemming and lemmatization.
 </aside>
 
+### 👩🏾‍🎨 Practice: Text preprocessing... 🎯
+
+
+Imagine you have a dataset of customer reviews from an online store. Each row in the dataset represents a customer review. Here's a snippet of the dataset:
+
+**Dataset: Customer Reviews**
+
+| Review_ID | Customer_Name | Review_Text                                     |
+|-----------|---------------|-------------------------------------------------|
+| 1         | John          | Great product! I love it.                      |
+| 2         | Emily         | The product was okay, not very impressed.      |
+| 3         | Michael       | This is the worst thing I've ever bought.      |
+| 4         | Sarah         | Product is good.                                |
+| 5         | David         | I have mixed feelings about this purchase.     |
+
+**Questions:**
+
+1. **Casing**: Convert the text in the "Review_Text" column to lowercase.
+2. **Tokenization**: Tokenize the "Review_Text" column to break it into individual words or tokens.
+3. **Stopword Removal**: Remove common stopwords (e.g., "the," "is," "I") from the tokenized text in the "Review_Text" column.
+4. **Stemming**: Apply stemming to the tokenized text in the "Review_Text" column. Use the Porter Stemmer algorithm.
+5. **Lemmatization**: Apply lemmatization to the tokenized text in the "Review_Text" column.
+6. What is the purpose of converting text to lowercase in text preprocessing?
+   - A. To remove stopwords
+   - B. To make the text more readable
+   - C. To standardize text for analysis
+   - D. To perform stemming
+
+7. What is the result of tokenizing the sentence "Great product! I love it."?
+   - A. ["Great", "product!", "I", "love", "it."]
+   - B. ["great", "product", "i", "love", "it"]
+   - C. ["Great product!", "I love it."]
+   - D. ["great", "product", "i", "love", "it."]
+
 
 <br>
 

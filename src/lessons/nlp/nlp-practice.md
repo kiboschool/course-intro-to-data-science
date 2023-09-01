@@ -1,40 +1,39 @@
 # Practice
-These practice exercises are designed to give you an opportunity to apply and practice what you've learned in the NLP module. They will help reinforce your understanding of concepts like sentiment analysis, named entity recognition, tokenization, text preprocessing, and text representations. 
 
-> Feel free to explore, experiment, and ask questions if you encounter any challenges. 
+<aside>
+
+💡 This is your chance to put what you’ve learned into action.
+
+- Try solving this practice challenge to check that you understand the concepts.
+
+- Be ready to do additional googling to complete this exercise
+
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
+
+</aside
 
 
-## 1. Sentiment Analysis
+### Named Entity Recognition (NER)
 
-You have been given a dataset of movie reviews. Your task is to perform sentiment analysis on each review and classify it as positive, negative, or neutral. Use tokenization, text preprocessing techniques, and Bag of Words (BoW) representation to build your sentiment analysis model.
-
-**Task**: Perform sentiment analysis on a dataset of movie reviews.
-
-### Dataset
-Use the same movie review dataset we used in the lesson. This dataset comes with the `NLTK` library.
-
-### TODO
-- Load the movie review dataset.
-- Preprocess the text by converting to lowercase, removing punctuation, and trimming white spaces.
-- Tokenize the preprocessed text.
-- Use BoW representation to transform the tokenized text.
-- Build a sentiment analysis model using a classification algorithm (e.g., `Naive Bayes`, `Logistic Regression`).
-- Train and test your model.
-- Evaluate the model's performance using accuracy, precision, recall, and F1-score.
-- Interpret and discuss the results.
-
-### Submission
-Submission for this exercise should be done using the link below.
-
-> **[Submission Link]()**
-
-## 2. Named Entity Recognition (NER)
 You are provided with a set of news articles. Your task is to perform _NER_ on the text and identify different named entities such as people's names, locations, organizations, and dates. Use _tokenization_, _text preprocessing_ techniques, and NER to complete this task.
 
 **Task**: Perform Named Entity Recognition on a set of news articles.
 
-### Dataset
-...
+**Dataset**:
+
+| SentenceID | Sentence                                          |
+|------------|--------------------------------------------------|
+| 1          | Kibo is headquartered in New York.               |
+| 2          | J.K. Rowling is the author of Harry Potter.      |
+| 3          | The Eiffel Tower is located in Paris, France.    |
+| 4          | Google's CEO, Sundar Pichai, addressed the audience. |
+| 5          | The river Nile flows through Egypt.              |
+| 6          | Microsoft Corporation is based in Redmond, WA.   |
+| 7          | William Shakespeare wrote Romeo and Juliet.       |
+| 8          | The Great Wall of China is a famous landmark.    |
+| 9          | Angela Merkel is the Chancellor of Germany.      |
+| 10         | The Amazon River flows through South America.     |
+
 
 ### TODO:
 - Load the news article dataset.
@@ -43,12 +42,14 @@ You are provided with a set of news articles. Your task is to perform _NER_ on t
 - Use a pre-trained NER model (e.g., `spaCy`) to identify named entities.
 - Extract and categorize the identified named entities (e.g., people, locations, organizations).
 - Analyze the frequency of different named entities in the dataset.
-- Discuss the importance and applications of Named Entity Recognition.
-- Present your findings and insights from the analysis.
 
-### Submission
-Submission for this exercise should be done using the link below.
 
-> **[Submission Link]()**
+## Submission
+You are required to submit documentation for practice exercises over the course of the term. Each one will count for 1/10 of your practice grade, or 2% of your overall grade.
+
+- Practice exercises will be graded for completion not perfect correctness. 
+- You have to document that you did the work, but we **won't** be checking if you got it right.
+- You **MUST** upload your analysis/visuals as a single file to `Practice: Natural Language Processing` on **Gradescope** after the exercise to get the grade for this exercise.
+
 
 ## `Happy practicing!`

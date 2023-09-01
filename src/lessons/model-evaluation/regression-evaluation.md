@@ -146,8 +146,32 @@ These evaluation techniques helps us determine how well our regression models ar
 </aside>
 
 
-### 👩🏾‍🎨 Practice: House price evaluation... 🎯
+### 👩🏾‍🎨 Practice: Regression evaluation... 🎯
 
-<!-- [https://developers.google.com/machine-learning/crash-course/descending-into-ml/check-your-understanding]() -->
+![./model-evaluation/mser.png](./model-evaluation/mser.png)
+
+- Which of the two data sets shown in the preceding plots has the higher Mean Squared Error (MSE)?    
+    - The data on the right
+    - The data on the left
+
+- You are given a dataset containing information about houses, including their area, number of bedrooms, and the actual price. Your task is to evaluate a regression model that predicts house prices based on these features.
+
+
+| Area (sq. ft.) | Bedrooms | Actual Price ($) | Predicted Price ($) |
+|----------------|----------|------------------|---------------------|
+| 1500           | 2        | 250000           | 240000              |
+| 1800           | 3        | 300000           | 310000              |
+| 1200           | 2        | 180000           | 175000              |
+| 2200           | 4        | 400000           | 390000              |
+| 1600           | 3        | 280000           | 265000              |
+| 1400           | 2        | 220000           | 225000              |
+| 2000           | 3        | 320000           | 330000              |
+| 1700           | 3        | 270000           | 260000              |
+| 1300           | 2        | 200000           | 205000              |
+| 1900           | 3        | 310000           | 300000              |
+
+- Calculate the MAE, MSE, and RMSE for the given dataset.
+
+<br>
 
 > ➡️ Next, we'll look at `Model selection`... 🎯.

@@ -60,11 +60,29 @@ This technique makes it easier for computers to work with words in more complex 
 
 **_Text representation_** refers to the process of converting raw text into a structured format that machine learning algorithms can understand and process. It involves encoding text data into numerical vectors or matrices..
 
-There are different text representation techniques in NLP, however, 3 dof these techniques was discussed in the lesson.
+There are different text representation techniques in NLP, however, 3 of these techniques was discussed in the lesson.
 - Bag of Word (BoW)
 - TF-IDF
 - Word embeddings
 </aside>
+
+### 👩🏾‍🎨 Practice: Text representation... 🎯
+
+Consider the following dataset of customer reviews for a product:
+
+**Dataset: Customer Reviews**
+
+| ReviewID | CustomerName | ReviewText                                           |
+|----------|--------------|-----------------------------------------------------|
+| 1        | Alice        | This product is amazing. I highly recommend it.    |
+| 2        | Bob          | It's good, but could be better.                    |
+| 3        | Carol        | I didn't like it at all.                           |
+| 4        | Dave         | Excellent product! I'll buy it again.              |
+| 5        | Emily        | It's okay, not great.                              |
+
+Answer the following question:
+
+- Perform Bag of Words (BoW) representation on the given reviews. Create a list of unique words (vocabulary) and indicate the frequency of each word in each review.
 
 
 <br>

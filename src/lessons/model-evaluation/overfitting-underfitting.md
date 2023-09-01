@@ -72,8 +72,4 @@ In the next lesson, we'll look at how we can prevent these problem from happenin
 </aside>
 
 
-### 👩🏾‍🎨 Practice: Overfitting and underfitting... 🎯
-
-<br>
-
 > ➡️ Next, we'll look at `Cross validation`... 🎯

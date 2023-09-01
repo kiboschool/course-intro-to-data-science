@@ -123,7 +123,7 @@ Leave-One-Out Cross-Validation (LOOCV) is a type of k-fold cross-validation wher
 
 LOOCV is an exhaustive and computationally expensive technique, especially for large datasets, as it requires training the model multiple times. However, it provides an unbiased estimate of the model's performance since it evaluates the model on all available data points, leaving out one at a time. LOOCV is particularly useful when the dataset is small, and there is a need for a thorough evaluation of the model's ability to generalize to unseen data.
 
-Now, try to guess how **Leave-_P_-Out cross-validation** cross validation techniques works. You can take a cue from LOOCV.
+Now, try to guess how **Leave-_P_-Out cross-validation** cross validation techniques works. You can take a cue from the name.
 
 <details>
 <summary><b> Reveal answer - Leave-P-Out cross-validation </b></summary>

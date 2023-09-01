@@ -26,8 +26,5 @@ In this intro video, various evaluation metrics used for ML models was highlight
 
 Each of these techniques will be discussed in subsequent lessons, where we'll be see how we can use them in evaluating ML models.
 
-### 👩🏾‍🎨 Practice: Intro to model evaluation... 🎯
-
-<br>
 
 > ➡️ Next, we'll look at `Confusion matrix`... 🎯

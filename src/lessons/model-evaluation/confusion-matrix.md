@@ -81,7 +81,48 @@ In this example, we load the Breast Cancer dataset and split it into training an
 - The key is to understand the dataset, choose an appropriate model, and use suitable evaluation metrics to measure the model's performance accurately.
 </aside>
 
-### 👩🏾‍🎨 Practice: Confusion practice... 🎯
+### 👩🏾‍🎨 Practice: Confusion matrix... 🎯
+
+**Confusion Matrix Practice Exercise**
+
+You are given a dataset containing the results of a medical test for a certain disease. The test provides two possible outcomes: `Positive` and `Negative`. Your task is to understand and analyze the results using a confusion matrix.
+
+**Dataset: Medical Test Results**
+
+| Actual Outcome | Predicted Outcome |
+|----------------|-------------------|
+| Positive       | Positive          |
+| Negative       | Negative          |
+| Positive       | Negative          |
+| Negative       | Positive          |
+| Positive       | Positive          |
+| Negative       | Negative          |
+| Negative       | Negative          |
+| Positive       | Positive          |
+| Negative       | Negative          |
+| Negative       | Negative          |
+
+**Questions...**
+
+- What does the "Actual Outcome" column represent in the dataset?
+  - The actual test results
+  - The predicted test results
+  - The true health status
+- What does the "Predicted Outcome" column represent in the dataset?
+  - The actual test results
+  - The predicted test results
+  - The true health status
+- What is the purpose of a confusion matrix?
+  - To analyze medical test results
+  - To visualize data
+  - To summarize a machine learning model's performance
+
+- Calculate the True Positive (TP) value from the given dataset.
+- Calculate the False Positive (FP) value from the given dataset.
+- Calculate the True Negative (TN) value from the given dataset.
+- Calculate the False Negative (FN) value from the given dataset.
+- Using the calculated values, construct the confusion matrix.
+
 
 <br>
 
