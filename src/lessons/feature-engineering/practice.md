@@ -5,7 +5,7 @@
 
 - Try solving this practice challenge to check that you understand the concepts.
 
-- Be ready to do additional googling to complete this exercise
+- Be ready to do additional googling to complete this exercise, if neccessary.
 
 </aside>
 

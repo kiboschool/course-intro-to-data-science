@@ -8,8 +8,9 @@ Retention prediction, also known as _customer churn prediction_, is a process in
 
 **NOTE!** 
 
-- This is a group assignment with maximum of 3 people in a group.
-- Explore as much as you can with this data. Hence, don't limit yourself to just the hints.
+- This is an individual assignment.
+- Be ready to do additional googling to complete this exercise, if necessary.
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
 </aside>
 
 ##  Bank Customer Retention Prediction

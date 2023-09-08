@@ -9,12 +9,13 @@ Product reviews provide insights into customers' experiences, satisfaction level
 
 **NOTE!** 
 
-- This is a group assignment with maximum of 3 people in a group.
-- Explore as much as you can with this data. Hence, don't limit yourself to just the hints.
+- This is an individual assignment.
+- Be ready to do additional googling to complete this exercise, if necessary.
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
 </aside>
 
 ## Sentiment Analysis of Jumia Product Reviews
-In this group assignment, you will apply your knowledge of sentiment analysis to analyze the sentiments expressed in product reviews by Jumia customers. You will work together as a group to preprocess the text data, build a sentiment analysis model, and interpret the results.
+In this assignment, you will apply your knowledge of sentiment analysis to analyze the sentiments expressed in product reviews by Jumia customers. You will work alone to preprocess the text data, build a sentiment analysis model, and interpret the results.
 
 ### Dataset
 You are provided with a dataset containing customer reviews. The dataset includes the following columns:

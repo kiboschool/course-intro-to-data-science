@@ -88,8 +88,4 @@ There are 3 different computer vision tasks that can be performed on images and 
 - Segmentation
 </aside>
 
-### 👩🏾‍🎨 Practice: Computer vision... 🎯
-
-<br>
-
 > ➡️ Next, we'll look at `How to build a classification model`... 🎯

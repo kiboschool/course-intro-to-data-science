@@ -87,4 +87,4 @@ Answer the following question:
 
 <br>
 
-> ➡️ Next, we'll look at `PoS tagging...` 🎯.
+> ➡️ Next, we'll look at `Sentiment analysis...` 🎯.

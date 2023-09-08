@@ -2,8 +2,18 @@
 
 ![student-performance.png](./intro-to-data/student-performance.png)
 
+<aside>
+
+**NOTE!** 
+
+- This is an individual assignment.
+- Be ready to do additional googling to complete this exercise, if necessary.
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
+</aside>
+
 ## Student Performance Analysis
 This assignment is all about data cleaning and visualization using _Microsoft Excel_. The dataset for this assignment are student data from a hypothetical school, which consists of 7 Columns and contains information about gender, race, scores of students in different subjects, and more.
+
 
 [![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=Student%20Performance%20Analysis&color=blue)](https://github.com/kiboschool/student-performance.git)
 

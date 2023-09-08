@@ -4,6 +4,15 @@ The World GDP dataset provides information about the Gross Domestic Product (GDP
 
 ![world-gdp](./eda/word-gdp.jpeg)
 
+<aside>
+
+**NOTE!** 
+
+- This is an individual assignment.
+- Be ready to do additional googling to complete this exercise, if necessary.
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
+</aside>
+
 ##  World GDP Exploration
 Your task is to summarize and visualize this dataset using the techniques you've learnt during the week. Analyzing the World GDP dataset through Exploratory Data Analysis (EDA) can yield valuable insights, such as helping us understand global economic trends, identify countries with significant GDP growth or decline, and explore patterns over time.
 

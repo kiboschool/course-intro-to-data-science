@@ -99,8 +99,5 @@ DL has achieved state-of-the-art results in in many application, such as:
 In essence, **ML** is about teaching computers to learn from examples using general rules, while **DL** is a more advanced version that dives deep into the intricate details to make even more accurate predictions and classifications.
 </aside>
 
-### 👩🏾‍🎨 Practice: Deep Learning Fundamentals... 🎯
-
-<br>
 
 > ➡️ Next, we'll look at `Computer vision`... 🎯

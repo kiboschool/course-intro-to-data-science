@@ -2,12 +2,19 @@
 
 ![fifa-assignment](./data-cleaning/fifa-assignment.jpeg)
 
+<aside>
+
+**NOTE!** 
+
+- This is an individual assignment.
+- Be ready to do additional googling to complete this exercise, if necessary.
+- Feel free to explore, experiment, and ask questions if you encounter any challenges. 
+</aside>
+
 ## FIFA '21 Player Ratings
 The FIFA 21 player rating dataset contains information about the ratings of football players in the FIFA 21 video game. Each player is assigned a rating that reflects their overall skill level in the game. The dataset includes various attributes such as player name, nationality, club, position, and individual attributes like pace, shooting, passing, dribbling, defending, and physicality. These ratings are used to determine player performance and abilities within the game.
 
 Here, you have a very messy and raw dataset of EA Sports' installment of their hit FIFA series - FIFA21, which was scraped from [sofifa.com](https://sofifa.com).
-
-> **NOTE: This is a group assignment with maximum of 3 people in a group**.
 
 ### Challenges
 One of the challenges of web scraping is unclean data. Different front-end developers and data scientist write the HTML their own way, and that makes the incoming data unpredictable. Your task in this assignment is to clean up this dataset

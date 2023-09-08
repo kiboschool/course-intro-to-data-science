@@ -120,7 +120,7 @@
     - [Computer vision](./lessons/deep-learning/computer-vision.md)
     - [Build DL models](./lessons/deep-learning/build-deep-learning.md)
     - [Generative AI](./lessons/deep-learning/large-language-models.md)
-    - [Model deployment](./lessons/deep-learning/model-deployment.md.md)
+    - [Practice: Model deployment](./lessons/deep-learning/model-deployment.md.md)
 
 
 ...

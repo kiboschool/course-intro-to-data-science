@@ -49,12 +49,7 @@ Whether we like it or not, LLMs are here to stay for a long time as individuals 
 **_Generative AI_** is a type of AI that is used to create new content, such as images, text, and music. Gen AI is based on the idea that computers can be programmed to generate new content by learning from existing content.
 
 LLMs is like a computer version of a language expert that can read, write, and understand sentences just like a person. It is usually trained on a huge amount of text from books, articles, websites, databases, and many other sources
-
-
 </aside>
 
-### 👩🏾‍🎨 Practice: Generative AI... 🎯
-
-<br>
 
 > ➡️ Next, we'll look at `Building a DL model`... 🎯
