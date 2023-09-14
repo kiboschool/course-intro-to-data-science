@@ -10,7 +10,7 @@
 
 ### Week 1
 
-- [Intro to data science](lessons/intro-to-data-science.md)
+- [Intro to Data Science](lessons/intro-to-data-science.md)
     - [What is data science](lessons/intro-to-data/what-is-data-science.md)
     - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
@@ -18,21 +18,21 @@
     - [Data cleaning in excel](lessons/intro-to-data/data-cleaning-excel.md)
     - [Data visualization](lessons/intro-to-data/data-viz-excel.md)
     - [Data science tools](lessons/intro-to-data/ds-tools.md)
-    - [Practices](lessons/intro-to-data/practice.md)
-    - [Assignment](lessons/intro-to-data/assignment.md)
+    - [Practices - Intro to DS](lessons/intro-to-data/practice.md)
+    - [Assignment - Intro to DS](lessons/intro-to-data/assignment.md)
 
 
 ### Week 2
 
-- [Data collection and cleaning](lessons/data-collection-cleaning.md)
+- [Data Collection and Cleaning](lessons/data-collection-cleaning.md)
     - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
     - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
     - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
     - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
     - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
     - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
-    - [Practices](./lessons/data-cleaning/practice.md)
-    - [Assignment](./lessons/data-cleaning/assignment.md)
+    - [Practices - Data Collection and Cleaning](./lessons/data-cleaning/practice.md)
+    - [Assignment - Data Collection and Cleaning](./lessons/data-cleaning/assignment.md)
 
 
 ### Week 3
@@ -44,8 +44,8 @@
     - [Data size and Bubble chart](./lessons/data-visualization/bubble-chart.md)
     - [Data distribution](./lessons/data-visualization/data-distribution.md)
     - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
-    - [Practices](./lessons/data-visualization/practice.md)
-    - [Assignment](./lessons/data-visualization/assignment.md)
+    - [Practices - Visualization](./lessons/data-visualization/practice.md)
+    - [Assignment - Visualization](./lessons/data-visualization/assignment.md)
    
 
 ### Week 4
@@ -57,7 +57,7 @@
     - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
     - [Correlation analysis](./lessons/eda/correlation-covariance.md)
     - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
-    - [Practice](./lessons/eda/practice.md)
+    - [Practice - EDA](./lessons/eda/practice.md)
 
 
 ### Week 5
@@ -68,7 +68,7 @@
     - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
     - [Feature selection methods](./lessons/feature-engineering/feature-selection-methods.md)
     - [Feature extraction](./lessons/feature-engineering/feature-extraction.md)
-    - [Practice](./lessons/feature-engineering/practice.md)
+    - [Practice - Feature Engineering](./lessons/feature-engineering/practice.md)
 
 
 
@@ -81,8 +81,8 @@
     - [Regression in ML](./lessons/intro-to-ml/regression.md)
     - [Unsupervised learning](./lessons/intro-to-ml/unsupervised-learning.md)
     - [Build your first ML model](./lessons/intro-to-ml/build-your-first-ml.md)
-    - [Practices](./lessons/intro-to-ml/practice.md)
-    - [Assignment](./lessons/intro-to-ml/ml-assignment.md)
+    - [Practices - ML](./lessons/intro-to-ml/practice.md)
+    - [Assignment - ML](./lessons/intro-to-ml/ml-assignment.md)
 
 
 
@@ -95,8 +95,8 @@
     - [Cross validation](./lessons/model-evaluation/cross-validation.md)
     - [Regression evaluation](./lessons/model-evaluation/regression-evaluation.md)
     - [Model selection](./lessons/model-evaluation/model-selection.md)
-    - [Practice](./lessons/model-evaluation/practice.md)
-    - [Assignment](./lessons/model-evaluation/model-selection-assignment.md)
+    - [Practice - Evaluation](./lessons/model-evaluation/practice.md)
+    - [Assignment - Evaluation](./lessons/model-evaluation/model-selection-assignment.md)
 
 
 ### Week 8
@@ -108,8 +108,8 @@
     - [Text representations](./lessons/nlp/text-representations.md)
     - [Sentiment analysis](./lessons/nlp/sentiment-analysis.md)
     - [Named entity recognition](./lessons/nlp/named-entity-recognition.md)
-    - [Practice](./lessons/nlp/nlp-practice.md)
-    - [Assignment](./lessons/nlp/nlp-assignment.md)
+    - [Practice - NLP](./lessons/nlp/nlp-practice.md)
+    - [Assignment - NLP](./lessons/nlp/nlp-assignment.md)
 
 
 ### Week 9
@@ -120,7 +120,6 @@
     - [Computer vision](./lessons/deep-learning/computer-vision.md)
     - [Build DL models](./lessons/deep-learning/build-deep-learning.md)
     - [Generative AI](./lessons/deep-learning/large-language-models.md)
-    - [Practice: Model deployment](./lessons/deep-learning/model-deployment.md.md)
+    - [Practice - Model Deployment](./lessons/deep-learning/model-deployment.md.md)
 
 
-...
