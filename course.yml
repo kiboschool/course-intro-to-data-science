@@ -49,8 +49,9 @@ units:
       - name: Assignment - Intro to DS
         path: src/lessons/intro-to-data/assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 100
   - name: Data Collection and Cleaning
     activities:
       - name: Introduction
@@ -93,8 +94,9 @@ units:
       - name: Assignment - Data Collection and Cleaning
         path: src/./lessons/data-cleaning/assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Data Visualization & Insight
     activities:
       - name: Introduction
@@ -137,8 +139,9 @@ units:
       - name: Assignment - Visualization
         path: src/./lessons/data-visualization/assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Exploratory Data Analysis
     activities:
       - name: Introduction
@@ -254,8 +257,9 @@ units:
       - name: Assignment - ML
         path: src/./lessons/intro-to-ml/ml-assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Model Evaluation Techniques
     activities:
       - name: Introduction
@@ -298,8 +302,9 @@ units:
       - name: Assignment - Evaluation
         path: src/./lessons/model-evaluation/model-selection-assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Natural Language Processing
     activities:
       - name: Introduction
@@ -342,8 +347,9 @@ units:
       - name: Assignment - NLP
         path: src/./lessons/nlp/nlp-assignment.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Deep Learning Fundamentals
     activities:
       - name: Introduction
