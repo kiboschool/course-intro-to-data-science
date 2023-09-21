@@ -57,42 +57,42 @@ units:
       - name: Introduction
         path: src/lessons/data-collection-cleaning.md
       - name: Data sources and collection
-        path: src/./lessons/data-cleaning/data-sources.md
+        path: src/lessons/data-cleaning/data-sources.md
         workload: 60
         type: lesson
         kind: general
       - name: Data loading & exploration
-        path: src/./lessons/data-cleaning/data-loading.md
+        path: src/lessons/data-cleaning/data-loading.md
         workload: 60
         type: lesson
         kind: general
       - name: Data cleaning techniques
-        path: src/./lessons/data-cleaning/data-cleaning.md
+        path: src/lessons/data-cleaning/data-cleaning.md
         workload: 60
         type: lesson
         kind: general
       - name: Handling data outliers
-        path: src/./lessons/data-cleaning/data-inconsistency.md
+        path: src/lessons/data-cleaning/data-inconsistency.md
         workload: 60
         type: lesson
         kind: general
       - name: Validation and documentation
-        path: src/./lessons/data-cleaning/data-validation.md
+        path: src/lessons/data-cleaning/data-validation.md
         workload: 60
         type: lesson
         kind: general
       - name: Data privacy and GDPR
-        path: src/./lessons/data-cleaning/data-privacy.md
+        path: src/lessons/data-cleaning/data-privacy.md
         workload: 60
         type: lesson
         kind: general
       - name: Practices - Data Collection and Cleaning
-        path: src/./lessons/data-cleaning/practice.md
+        path: src/lessons/data-cleaning/practice.md
         workload: 60
         type: lesson
         kind: general
       - name: Assignment - Data Collection and Cleaning
-        path: src/./lessons/data-cleaning/assignment.md
+        path: src/lessons/data-cleaning/assignment.md
         workload: 60
         type: assignment
         kind: assignment
@@ -102,42 +102,42 @@ units:
       - name: Introduction
         path: src/lessons/data-visualization.md
       - name: Data visualization
-        path: src/./lessons/data-visualization/what-is-visualization.md
+        path: src/lessons/data-visualization/what-is-visualization.md
         workload: 60
         type: lesson
         kind: general
       - name: Visualization tools
-        path: src/./lessons/data-visualization/visualization-tools.md
+        path: src/lessons/data-visualization/visualization-tools.md
         workload: 60
         type: lesson
         kind: general
       - name: Creating basic plots
-        path: src/./lessons/data-visualization/basic-plots.md
+        path: src/lessons/data-visualization/basic-plots.md
         workload: 60
         type: lesson
         kind: general
       - name: Data size and Bubble chart
-        path: src/./lessons/data-visualization/bubble-chart.md
+        path: src/lessons/data-visualization/bubble-chart.md
         workload: 60
         type: lesson
         kind: general
       - name: Data distribution
-        path: src/./lessons/data-visualization/data-distribution.md
+        path: src/lessons/data-visualization/data-distribution.md
         workload: 60
         type: lesson
         kind: general
       - name: Insight and reporting
-        path: src/./lessons/data-visualization/insight-reporting.md
+        path: src/lessons/data-visualization/insight-reporting.md
         workload: 60
         type: lesson
         kind: general
       - name: Practices - Visualization
-        path: src/./lessons/data-visualization/practice.md
+        path: src/lessons/data-visualization/practice.md
         workload: 60
         type: lesson
         kind: general
       - name: Assignment - Visualization
-        path: src/./lessons/data-visualization/assignment.md
+        path: src/lessons/data-visualization/assignment.md
         workload: 60
         type: assignment
         kind: assignment
@@ -147,37 +147,37 @@ units:
       - name: Introduction
         path: src/lessons/exploratory-analysis.md
       - name: Intro to EDA
-        path: src/./lessons/eda/what-is-eda.md
+        path: src/lessons/eda/what-is-eda.md
         workload: 60
         type: lesson
         kind: general
       - name: Fundamentals of statistics
-        path: src/./lessons/eda/fundamentals-of-statistics.md
+        path: src/lessons/eda/fundamentals-of-statistics.md
         workload: 60
         type: lesson
         kind: general
       - name: Descriptive statistics
-        path: src/./lessons/eda/descriptive-statistics.md
+        path: src/lessons/eda/descriptive-statistics.md
         workload: 60
         type: lesson
         kind: general
       - name: Measure of dispersion
-        path: src/./lessons/eda/measures-of-dispersion.md
+        path: src/lessons/eda/measures-of-dispersion.md
         workload: 60
         type: lesson
         kind: general
       - name: Correlation analysis
-        path: src/./lessons/eda/correlation-covariance.md
+        path: src/lessons/eda/correlation-covariance.md
         workload: 60
         type: lesson
         kind: general
       - name: Visualization for EDA
-        path: src/./lessons/eda/viz-for-eda.md
+        path: src/lessons/eda/viz-for-eda.md
         workload: 60
         type: lesson
         kind: general
       - name: Practice - EDA
-        path: src/./lessons/eda/practice.md
+        path: src/lessons/eda/practice.md
         workload: 60
         type: lesson
         kind: general
@@ -186,32 +186,32 @@ units:
       - name: Introduction
         path: src/lessons/feature-engineering.md
       - name: Intro to Feature engineering
-        path: src/./lessons/feature-engineering/intro-to-feature-engineering.md
+        path: src/lessons/feature-engineering/intro-to-feature-engineering.md
         workload: 60
         type: lesson
         kind: general
       - name: Feature transformation
-        path: src/./lessons/feature-engineering/feature-transformation.md
+        path: src/lessons/feature-engineering/feature-transformation.md
         workload: 60
         type: lesson
         kind: general
       - name: Feature encoding
-        path: src/./lessons/feature-engineering/feature-encoding.md
+        path: src/lessons/feature-engineering/feature-encoding.md
         workload: 60
         type: lesson
         kind: general
       - name: Feature selection methods
-        path: src/./lessons/feature-engineering/feature-selection-methods.md
+        path: src/lessons/feature-engineering/feature-selection-methods.md
         workload: 60
         type: lesson
         kind: general
       - name: Feature extraction
-        path: src/./lessons/feature-engineering/feature-extraction.md
+        path: src/lessons/feature-engineering/feature-extraction.md
         workload: 60
         type: lesson
         kind: general
       - name: Practice - Feature Engineering
-        path: src/./lessons/feature-engineering/practice.md
+        path: src/lessons/feature-engineering/practice.md
         workload: 60
         type: lesson
         kind: general
@@ -220,42 +220,42 @@ units:
       - name: Introduction
         path: src/lessons/intro-to-ml.md
       - name: Getting to know ML
-        path: src/./lessons/intro-to-ml/getting-to-know-ml.md
+        path: src/lessons/intro-to-ml/getting-to-know-ml.md
         workload: 60
         type: lesson
         kind: general
       - name: Supervised learning
-        path: src/./lessons/intro-to-ml/supervised-learning.md
+        path: src/lessons/intro-to-ml/supervised-learning.md
         workload: 60
         type: lesson
         kind: general
       - name: ML Classification
-        path: src/./lessons/intro-to-ml/classification.md
+        path: src/lessons/intro-to-ml/classification.md
         workload: 60
         type: lesson
         kind: general
       - name: Regression in ML
-        path: src/./lessons/intro-to-ml/regression.md
+        path: src/lessons/intro-to-ml/regression.md
         workload: 60
         type: lesson
         kind: general
       - name: Unsupervised learning
-        path: src/./lessons/intro-to-ml/unsupervised-learning.md
+        path: src/lessons/intro-to-ml/unsupervised-learning.md
         workload: 60
         type: lesson
         kind: general
       - name: Build your first ML model
-        path: src/./lessons/intro-to-ml/build-your-first-ml.md
+        path: src/lessons/intro-to-ml/build-your-first-ml.md
         workload: 60
         type: lesson
         kind: general
       - name: Practices - ML
-        path: src/./lessons/intro-to-ml/practice.md
+        path: src/lessons/intro-to-ml/practice.md
         workload: 60
         type: lesson
         kind: general
       - name: Assignment - ML
-        path: src/./lessons/intro-to-ml/ml-assignment.md
+        path: src/lessons/intro-to-ml/ml-assignment.md
         workload: 60
         type: assignment
         kind: assignment
@@ -265,42 +265,42 @@ units:
       - name: Introduction
         path: src/lessons/model-evaluation.md
       - name: Evaluating a model
-        path: src/./lessons/model-evaluation/intro-to-model-evaluation.md
+        path: src/lessons/model-evaluation/intro-to-model-evaluation.md
         workload: 60
         type: lesson
         kind: general
       - name: Confusion matrix
-        path: src/./lessons/model-evaluation/confusion-matrix.md
+        path: src/lessons/model-evaluation/confusion-matrix.md
         workload: 60
         type: lesson
         kind: general
       - name: Overfitting and underfitting
-        path: src/./lessons/model-evaluation/overfitting-underfitting.md
+        path: src/lessons/model-evaluation/overfitting-underfitting.md
         workload: 60
         type: lesson
         kind: general
       - name: Cross validation
-        path: src/./lessons/model-evaluation/cross-validation.md
+        path: src/lessons/model-evaluation/cross-validation.md
         workload: 60
         type: lesson
         kind: general
       - name: Regression evaluation
-        path: src/./lessons/model-evaluation/regression-evaluation.md
+        path: src/lessons/model-evaluation/regression-evaluation.md
         workload: 60
         type: lesson
         kind: general
       - name: Model selection
-        path: src/./lessons/model-evaluation/model-selection.md
+        path: src/lessons/model-evaluation/model-selection.md
         workload: 60
         type: lesson
         kind: general
       - name: Practice - Evaluation
-        path: src/./lessons/model-evaluation/practice.md
+        path: src/lessons/model-evaluation/practice.md
         workload: 60
         type: lesson
         kind: general
       - name: Assignment - Evaluation
-        path: src/./lessons/model-evaluation/model-selection-assignment.md
+        path: src/lessons/model-evaluation/model-selection-assignment.md
         workload: 60
         type: assignment
         kind: assignment
@@ -310,42 +310,42 @@ units:
       - name: Introduction
         path: src/lessons/intro-to-nlp.md
       - name: Overview of NLP
-        path: src/./lessons/nlp/overview-of-nlp.md
+        path: src/lessons/nlp/overview-of-nlp.md
         workload: 60
         type: lesson
         kind: general
       - name: Libraries for nlp
-        path: src/./lessons/nlp/nlp-tools.md
+        path: src/lessons/nlp/nlp-tools.md
         workload: 60
         type: lesson
         kind: general
       - name: Text preprocessing
-        path: src/./lessons/nlp/text-preprocessing.md
+        path: src/lessons/nlp/text-preprocessing.md
         workload: 60
         type: lesson
         kind: general
       - name: Text representations
-        path: src/./lessons/nlp/text-representations.md
+        path: src/lessons/nlp/text-representations.md
         workload: 60
         type: lesson
         kind: general
       - name: Sentiment analysis
-        path: src/./lessons/nlp/sentiment-analysis.md
+        path: src/lessons/nlp/sentiment-analysis.md
         workload: 60
         type: lesson
         kind: general
       - name: Named entity recognition
-        path: src/./lessons/nlp/named-entity-recognition.md
+        path: src/lessons/nlp/named-entity-recognition.md
         workload: 60
         type: lesson
         kind: general
       - name: Practice - NLP
-        path: src/./lessons/nlp/nlp-practice.md
+        path: src/lessons/nlp/nlp-practice.md
         workload: 60
         type: lesson
         kind: general
       - name: Assignment - NLP
-        path: src/./lessons/nlp/nlp-assignment.md
+        path: src/lessons/nlp/nlp-assignment.md
         workload: 60
         type: assignment
         kind: assignment
@@ -355,32 +355,32 @@ units:
       - name: Introduction
         path: src/lessons/deep-learning-fundamentals.md
       - name: Intro to deep learning
-        path: src/./lessons/deep-learning/intro-to-deep-learning.md
+        path: src/lessons/deep-learning/intro-to-deep-learning.md
         workload: 60
         type: lesson
         kind: general
       - name: Deep learning tools
-        path: src/./lessons/deep-learning/deep-learning-tools.md
+        path: src/lessons/deep-learning/deep-learning-tools.md
         workload: 60
         type: lesson
         kind: general
       - name: Computer vision
-        path: src/./lessons/deep-learning/computer-vision.md
+        path: src/lessons/deep-learning/computer-vision.md
         workload: 60
         type: lesson
         kind: general
       - name: Build DL models
-        path: src/./lessons/deep-learning/build-deep-learning.md
+        path: src/lessons/deep-learning/build-deep-learning.md
         workload: 60
         type: lesson
         kind: general
       - name: Generative AI
-        path: src/./lessons/deep-learning/large-language-models.md
+        path: src/lessons/deep-learning/large-language-models.md
         workload: 60
         type: lesson
         kind: general
       - name: Practice - Model Deployment
-        path: src/./lessons/deep-learning/model-deployment.md.md
+        path: src/lessons/deep-learning/model-deployment.md.md
         workload: 60
         type: lesson
         kind: general

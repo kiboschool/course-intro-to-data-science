@@ -25,101 +25,101 @@
 ### Week 2
 
 - [Data Collection and Cleaning](lessons/data-collection-cleaning.md)
-    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
-    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
-    - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
-    - [Handling data outliers](./lessons/data-cleaning/data-inconsistency.md)
-    - [Validation and documentation](./lessons/data-cleaning/data-validation.md)
-    - [Data privacy and GDPR](./lessons/data-cleaning/data-privacy.md) 
-    - [Practices - Data Collection and Cleaning](./lessons/data-cleaning/practice.md)
-    - [Assignment - Data Collection and Cleaning](./lessons/data-cleaning/assignment.md)
+    - [Data sources and collection](lessons/data-cleaning/data-sources.md)
+    - [Data loading & exploration](lessons/data-cleaning/data-loading.md)
+    - [Data cleaning techniques](lessons/data-cleaning/data-cleaning.md)
+    - [Handling data outliers](lessons/data-cleaning/data-inconsistency.md)
+    - [Validation and documentation](lessons/data-cleaning/data-validation.md)
+    - [Data privacy and GDPR](lessons/data-cleaning/data-privacy.md) 
+    - [Practices - Data Collection and Cleaning](lessons/data-cleaning/practice.md)
+    - [Assignment - Data Collection and Cleaning](lessons/data-cleaning/assignment.md)
 
 
 ### Week 3
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
-    - [Data visualization](./lessons/data-visualization/what-is-visualization.md)
-    - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
-    - [Creating basic plots](./lessons/data-visualization/basic-plots.md)
-    - [Data size and Bubble chart](./lessons/data-visualization/bubble-chart.md)
-    - [Data distribution](./lessons/data-visualization/data-distribution.md)
-    - [Insight and reporting](./lessons/data-visualization/insight-reporting.md)
-    - [Practices - Visualization](./lessons/data-visualization/practice.md)
-    - [Assignment - Visualization](./lessons/data-visualization/assignment.md)
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
+    - [Visualization tools](lessons/data-visualization/visualization-tools.md)
+    - [Creating basic plots](lessons/data-visualization/basic-plots.md)
+    - [Data size and Bubble chart](lessons/data-visualization/bubble-chart.md)
+    - [Data distribution](lessons/data-visualization/data-distribution.md)
+    - [Insight and reporting](lessons/data-visualization/insight-reporting.md)
+    - [Practices - Visualization](lessons/data-visualization/practice.md)
+    - [Assignment - Visualization](lessons/data-visualization/assignment.md)
    
 
 ### Week 4
 
 - [Exploratory Data Analysis](lessons/exploratory-analysis.md)
-    - [Intro to EDA](./lessons/eda/what-is-eda.md)
-    - [Fundamentals of statistics](./lessons/eda/fundamentals-of-statistics.md)
-    - [Descriptive statistics](./lessons/eda/descriptive-statistics.md)
-    - [Measure of dispersion](./lessons/eda/measures-of-dispersion.md)
-    - [Correlation analysis](./lessons/eda/correlation-covariance.md)
-    - [Visualization for EDA](./lessons/eda/viz-for-eda.md)
-    - [Practice - EDA](./lessons/eda/practice.md)
+    - [Intro to EDA](lessons/eda/what-is-eda.md)
+    - [Fundamentals of statistics](lessons/eda/fundamentals-of-statistics.md)
+    - [Descriptive statistics](lessons/eda/descriptive-statistics.md)
+    - [Measure of dispersion](lessons/eda/measures-of-dispersion.md)
+    - [Correlation analysis](lessons/eda/correlation-covariance.md)
+    - [Visualization for EDA](lessons/eda/viz-for-eda.md)
+    - [Practice - EDA](lessons/eda/practice.md)
 
 
 ### Week 5
 
 - [Feature Engineering](lessons/feature-engineering.md)
-    - [Intro to Feature engineering](./lessons/feature-engineering/intro-to-feature-engineering.md)
-    - [Feature transformation](./lessons/feature-engineering/feature-transformation.md)
-    - [Feature encoding](./lessons/feature-engineering/feature-encoding.md)
-    - [Feature selection methods](./lessons/feature-engineering/feature-selection-methods.md)
-    - [Feature extraction](./lessons/feature-engineering/feature-extraction.md)
-    - [Practice - Feature Engineering](./lessons/feature-engineering/practice.md)
+    - [Intro to Feature engineering](lessons/feature-engineering/intro-to-feature-engineering.md)
+    - [Feature transformation](lessons/feature-engineering/feature-transformation.md)
+    - [Feature encoding](lessons/feature-engineering/feature-encoding.md)
+    - [Feature selection methods](lessons/feature-engineering/feature-selection-methods.md)
+    - [Feature extraction](lessons/feature-engineering/feature-extraction.md)
+    - [Practice - Feature Engineering](lessons/feature-engineering/practice.md)
 
 
 
 ### Week 6
 
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
-    - [Getting to know ML](./lessons/intro-to-ml/getting-to-know-ml.md)
-    - [Supervised learning](./lessons/intro-to-ml/supervised-learning.md)
-    - [ML Classification](./lessons/intro-to-ml/classification.md)
-    - [Regression in ML](./lessons/intro-to-ml/regression.md)
-    - [Unsupervised learning](./lessons/intro-to-ml/unsupervised-learning.md)
-    - [Build your first ML model](./lessons/intro-to-ml/build-your-first-ml.md)
-    - [Practices - ML](./lessons/intro-to-ml/practice.md)
-    - [Assignment - ML](./lessons/intro-to-ml/ml-assignment.md)
+    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+    - [ML Classification](lessons/intro-to-ml/classification.md)
+    - [Regression in ML](lessons/intro-to-ml/regression.md)
+    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+    - [Build your first ML model](lessons/intro-to-ml/build-your-first-ml.md)
+    - [Practices - ML](lessons/intro-to-ml/practice.md)
+    - [Assignment - ML](lessons/intro-to-ml/ml-assignment.md)
 
 
 
 ### Week 7
 
 - [Model Evaluation Techniques](lessons/model-evaluation.md)
-    - [Evaluating a model](./lessons/model-evaluation/intro-to-model-evaluation.md)
-    - [Confusion matrix](./lessons/model-evaluation/confusion-matrix.md)
-    - [Overfitting and underfitting](./lessons/model-evaluation/overfitting-underfitting.md)
-    - [Cross validation](./lessons/model-evaluation/cross-validation.md)
-    - [Regression evaluation](./lessons/model-evaluation/regression-evaluation.md)
-    - [Model selection](./lessons/model-evaluation/model-selection.md)
-    - [Practice - Evaluation](./lessons/model-evaluation/practice.md)
-    - [Assignment - Evaluation](./lessons/model-evaluation/model-selection-assignment.md)
+    - [Evaluating a model](lessons/model-evaluation/intro-to-model-evaluation.md)
+    - [Confusion matrix](lessons/model-evaluation/confusion-matrix.md)
+    - [Overfitting and underfitting](lessons/model-evaluation/overfitting-underfitting.md)
+    - [Cross validation](lessons/model-evaluation/cross-validation.md)
+    - [Regression evaluation](lessons/model-evaluation/regression-evaluation.md)
+    - [Model selection](lessons/model-evaluation/model-selection.md)
+    - [Practice - Evaluation](lessons/model-evaluation/practice.md)
+    - [Assignment - Evaluation](lessons/model-evaluation/model-selection-assignment.md)
 
 
 ### Week 8
 
 - [Natural Language Processing](lessons/intro-to-nlp.md)
-    - [Overview of NLP](./lessons/nlp/overview-of-nlp.md)
-    - [Libraries for nlp](./lessons/nlp/nlp-tools.md)
-    - [Text preprocessing](./lessons/nlp/text-preprocessing.md)
-    - [Text representations](./lessons/nlp/text-representations.md)
-    - [Sentiment analysis](./lessons/nlp/sentiment-analysis.md)
-    - [Named entity recognition](./lessons/nlp/named-entity-recognition.md)
-    - [Practice - NLP](./lessons/nlp/nlp-practice.md)
-    - [Assignment - NLP](./lessons/nlp/nlp-assignment.md)
+    - [Overview of NLP](lessons/nlp/overview-of-nlp.md)
+    - [Libraries for nlp](lessons/nlp/nlp-tools.md)
+    - [Text preprocessing](lessons/nlp/text-preprocessing.md)
+    - [Text representations](lessons/nlp/text-representations.md)
+    - [Sentiment analysis](lessons/nlp/sentiment-analysis.md)
+    - [Named entity recognition](lessons/nlp/named-entity-recognition.md)
+    - [Practice - NLP](lessons/nlp/nlp-practice.md)
+    - [Assignment - NLP](lessons/nlp/nlp-assignment.md)
 
 
 ### Week 9
 
 - [Deep Learning Fundamentals](lessons/deep-learning-fundamentals.md)
-    - [Intro to deep learning](./lessons/deep-learning/intro-to-deep-learning.md)
-    - [Deep learning tools](./lessons/deep-learning/deep-learning-tools.md)
-    - [Computer vision](./lessons/deep-learning/computer-vision.md)
-    - [Build DL models](./lessons/deep-learning/build-deep-learning.md)
-    - [Generative AI](./lessons/deep-learning/large-language-models.md)
-    - [Practice - Model Deployment](./lessons/deep-learning/model-deployment.md.md)
+    - [Intro to deep learning](lessons/deep-learning/intro-to-deep-learning.md)
+    - [Deep learning tools](lessons/deep-learning/deep-learning-tools.md)
+    - [Computer vision](lessons/deep-learning/computer-vision.md)
+    - [Build DL models](lessons/deep-learning/build-deep-learning.md)
+    - [Generative AI](lessons/deep-learning/large-language-models.md)
+    - [Practice - Model Deployment](lessons/deep-learning/model-deployment.md.md)
 
 
