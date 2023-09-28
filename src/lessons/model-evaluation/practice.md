@@ -63,7 +63,7 @@ You are given a dataset containing information about air pollution levels in dif
 You are required to submit documentation for practice exercises over the course of the term. Each one will count for 1/10 of your practice grade, or 2% of your overall grade.
 
 - Practice exercises will be graded for completion not perfect correctness. 
-- You **MUST** supply the answers and upload your analysis as a single file to `Practice: Model Evaluation` on **Gradescope** after the exercise to get the grade for this exercise.
+- You **MUST** supply the answers and upload your analysis as a single file to `Practice - Evaluation` on **Gradescope** after the exercise to get the grade for this exercise.
 
 
 Your log will count for credit as long as:

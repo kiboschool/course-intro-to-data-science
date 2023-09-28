@@ -36,7 +36,7 @@ You are required to submit documentation for practice exercises over the course 
 
 - Practice exercises will be graded for completion not perfect correctness. 
 - You have to document that you did the work, but we **won't** be checking if you got it right.
-- You **MUST** upload your analysis/visuals as a single file to `Practice: Feature Engineering - Car specification` on **Gradescope** after the exercise to get the grade for this exercise.
+- You **MUST** upload your analysis/visuals as a single file to `Practice - Feature Engineering` on **Gradescope** after the exercise to get the grade for this exercise.
 
 
 Your log will count for credit as long as:

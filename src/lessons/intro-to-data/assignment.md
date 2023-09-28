@@ -23,7 +23,7 @@ This assignment is all about data cleaning and visualization using _Microsoft Ex
 - Read the questions below to have an idea of what is required to do with the data.
 - Put all your charts/graphs in a single file as this will be submitted as part of the assignment on gradescope.
 - Once you have the answers to the questions below, goto assignment on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 1 - Student Performance Analysis**
+    - Look for **Assignment - Intro to DS**
     - Attempt the questions
     - Submit once you're done
 

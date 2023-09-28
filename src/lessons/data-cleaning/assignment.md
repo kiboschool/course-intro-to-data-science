@@ -32,7 +32,7 @@ You'll definitely learn a lot about data cleaning with this dataset.
     - Push your solution back to Github once completed.
 - Put all your charts/graphs in a single file as this will be submitted as part of the assignment on gradescope.
 - Once you have covered the hints below, goto assignment on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 2 - FIFA '21 Player Ratings**
+    - Look for **Assignment - Data Collection and Cleaning**
     - Submit your assignment
 
 

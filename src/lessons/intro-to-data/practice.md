@@ -27,7 +27,7 @@ You are required to submit documentation for practice exercises over the course 
 
 - Practice exercises will be graded for completion not correctness. 
 - You have to document that you did the work, but we **won't** be checking if you got it right.
-- You **MUST** attempt the quiz `Practice: Football Player Data` on **Gradescope** after the exercise to get the grade for this exercise.
+- You **MUST** attempt the quiz `Practices - Intro to DS` on **Gradescope** after the exercise to get the grade for this exercise.
 
 
 Your log will count for credit as long as it:

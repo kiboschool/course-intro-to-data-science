@@ -38,7 +38,7 @@ For instance, we can create line plots to visualize the changes in GDP for diffe
 - Complete the assignment using the `notebook` in the repository.
     - Push your solution back to Github once completed.
 - Submit your notebook on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 3 - World GDP Exploration** under assignments
+    - Look for **Assignment - Visualization** under assignments
 
 ### HINTS
 - You'll need to clean up the dataset a bit.

@@ -48,7 +48,7 @@ In this assignment, you will build a Machine Learning model to predict whether a
 - Complete the assignment using the `notebook` in the repository.
     - Push your solution back to Github once completed.
 - Submit your notebook on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 6 - Bank Customer Retention Prediction** under assignments
+    - Look for **Assignment - ML** under assignments
 
 ### HINTS
 - Load the dataset into a DataFrame using Python's pandas library.

@@ -46,7 +46,7 @@ You are provided with a dataset containing customer reviews. The dataset include
 - Complete the assignment using the `notebook` in the repository.
     - Push your solution back to Github once completed.
 - Submit your notebook on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 8 - Sentiment Analysis of Jumia Product Reviews** under assignments
+    - Look for **Assignment - NLP** under assignments
 
 ### HINTS
 - Divide the tasks among group members and collaborate on GitHub or any suitable platform.
