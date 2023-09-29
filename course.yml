@@ -234,6 +234,13 @@ units:
         workload: 180
         grade_weight: 2.0
         publish: 2023-09-27
+      - name: Midterm Project
+        path: src/mid-term-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 420
+        grade_weight: 15.0
+        publish: 2023-09-27
   - name: Feature Engineering
     activities:
       - name: Introduction
@@ -278,13 +285,6 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
-        publish: 2023-09-27
-      - name: Mid-term Project
-        path: src/mid-term-project.md
-        type: assignment
-        kind: ASSIGNMENT_SUMMATIVE
-        workload: 420
-        grade_weight: 15.0
         publish: 2023-09-27
   - name: Intro to Machine Learning
     activities:

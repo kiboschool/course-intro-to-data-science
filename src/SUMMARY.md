@@ -51,6 +51,7 @@
   - [Correlation analysis](lessons/eda/correlation-covariance.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Visualization for EDA](lessons/eda/viz-for-eda.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Practice - EDA](lessons/eda/practice.md) <!-- w:180, k:assignment, g:2, p:2023-09-27 -->
+  - [Midterm Project](mid-term-project.md) <!-- w:420, k:assignmentSummative, g:15, p:2023-09-27 -->
 
 ## Week 5
 
@@ -61,7 +62,6 @@
   - [Feature selection methods](lessons/feature-engineering/feature-selection-methods.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Feature extraction](lessons/feature-engineering/feature-extraction.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Practice - Feature Engineering](lessons/feature-engineering/practice.md) <!-- w:180, k:assignment, g:2, p:2023-09-27 -->
-  - [Mid-term Project](mid-term-project.md) <!-- w:420, k:assignmentSummative, g:15, p:2023-09-27 -->
 
 ## Week 6
 
