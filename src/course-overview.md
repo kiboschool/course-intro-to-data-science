@@ -73,7 +73,7 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
 Your overall course grade is made up of the following:
 
 - Practice Exercises: 18%
-- Weekly assignments: 40%
+- Weekly assignments: 42%
 - Midterm Project: 15%
 - Final Project: 25%
 
@@ -100,17 +100,9 @@ In this course, we are using these tools to work on code. If you haven't set up 
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/_lvfgghhht5x4lXE" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Live Classes
 
-Each week, you will have a live class. Live classes are held at the following times:
-
-<aside>
-
-- **Class A**:
-- **Class B**:
-
-</aside>
+Each week, you will have a live class. Live classes are held at XX:XX PM GMT.
 
 Video recordings and resources for the class will be posted after the classes each week.
 
