@@ -3,6 +3,50 @@ code: CSA004
 term: Oct-2023
 about_path: src/course-overview.md
 units:
+  - name: Course Overview
+    activities:
+      - name: Introduction
+        path: src/course-overview.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Live Classes
+        path: src/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Assessments
+        path: src/assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Getting Help
+        path: src/getting-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Giving Help
+        path: src/giving-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Academic Integrity
+        path: src/academic-integrity.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
+      - name: Course Tools
+        path: src/course-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-09-27
   - name: Intro to Data Science
     activities:
       - name: Introduction
@@ -235,7 +279,7 @@ units:
         grade_weight: 2.0
         publish: 2023-09-27
       - name: Midterm Project
-        path: src/mid-term-project.md
+        path: src/midterm-project.md
         type: assignment
         kind: ASSIGNMENT_SUMMATIVE
         workload: 420

@@ -2,7 +2,13 @@
 
 # Lessons
 
-[About this class](course-overview.md)
+- [Course Overview](course-overview.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Live Classes](live-classes.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Assessments](assessments.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Getting Help](getting-help.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Giving Help](giving-help.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Academic Integrity](academic-integrity.md) <!-- w:15, k:general, p:2023-09-27 -->
+  - [Course Tools](course-tools.md) <!-- w:15, k:general, p:2023-09-27 -->
 
 ## Week 1
 
@@ -51,7 +57,7 @@
   - [Correlation analysis](lessons/eda/correlation-covariance.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Visualization for EDA](lessons/eda/viz-for-eda.md) <!-- w:120, k:general, p:2023-09-27 -->
   - [Practice - EDA](lessons/eda/practice.md) <!-- w:180, k:assignment, g:2, p:2023-09-27 -->
-  - [Midterm Project](mid-term-project.md) <!-- w:420, k:assignmentSummative, g:15, p:2023-09-27 -->
+  - [Midterm Project](midterm-project.md) <!-- w:420, k:assignmentSummative, g:15, p:2023-09-27 -->
 
 ## Week 5
 
