@@ -79,13 +79,13 @@ units:
         kind: GENERAL
         workload: 120
         publish: 2023-09-27
-      - name: Data cleaning in excel
+      - name: Data cleaning in Excel
         path: src/lessons/intro-to-data/data-cleaning-excel.md
         type: lesson
         kind: GENERAL
         workload: 120
         publish: 2023-09-27
-      - name: Data visualization
+      - name: Data visualization in Excel
         path: src/lessons/intro-to-data/data-viz-excel.md
         type: lesson
         kind: GENERAL
@@ -103,6 +103,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - Intro to DS
         path: src/lessons/intro-to-data/assignment.md
@@ -110,6 +111,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Data Collection and Cleaning
     activities:
@@ -161,6 +163,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - Data Collection and Cleaning
         path: src/lessons/data-cleaning/assignment.md
@@ -168,6 +171,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Data Visualization & Insight
     activities:
@@ -219,6 +223,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - Visualization
         path: src/lessons/data-visualization/assignment.md
@@ -226,6 +231,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Exploratory Data Analysis
     activities:
@@ -277,6 +283,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Midterm Project
         path: src/midterm-project.md
@@ -284,6 +291,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 420
         grade_weight: 15.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Feature Engineering
     activities:
@@ -329,6 +337,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Intro to Machine Learning
     activities:
@@ -380,6 +389,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - ML
         path: src/lessons/intro-to-ml/ml-assignment.md
@@ -387,6 +397,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Model Evaluation Techniques
     activities:
@@ -438,6 +449,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - Evaluation
         path: src/lessons/model-evaluation/model-selection-assignment.md
@@ -445,6 +457,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Natural Language Processing
     activities:
@@ -496,6 +509,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assignment - NLP
         path: src/lessons/nlp/nlp-assignment.md
@@ -503,6 +517,7 @@ units:
         kind: ASSIGNMENT
         workload: 240
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Deep Learning Fundamentals
     activities:
@@ -548,6 +563,7 @@ units:
         kind: ASSIGNMENT
         workload: 180
         grade_weight: 2.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Final Project
         path: src/final-project.md
@@ -555,6 +571,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 480
         grade_weight: 25.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Additional Reading
     activities:
