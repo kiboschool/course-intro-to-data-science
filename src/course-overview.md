@@ -33,15 +33,14 @@ At the end of the course, student should be able to:
 
 ## Instructor
 <!-- UPDATE EACH TERM -->
-- Name: John Doe
-- Email  [john.doe@kibo.school](mailto:john.doe@kibo.school)
+- Name: Wasiu Yusuf
+- Email:  [wasiu.yusuf@kibo.school]((wasiu.yusuf@kibo.school)
 
 ## Live Class Time
 <!-- UPDATE EACH TERM -->
 **Note: all times are shown in GMT.**
-
-- Day of Week at X:XX PM GMT to X:XX PM GMT
+- Wednesday at 3:00 PM - 4:30 PM GMT
 
 ## Office Hours
 <!-- UPDATE EACH TERM -->
-- Day of Week at X:XX PM GMT to X:XX PM GMT
+- Thursday at 2:00 PM GMT to 3:00 PM GMT

@@ -1,4 +1,4 @@
-# Providing Help
+# Giving Help
 
 Providing help to peers in a way that fosters learning and collaboration while maintaining academic integrity is crucial. Here are some guidelines that a computer science university student can follow:
 
