@@ -1,9 +1,5 @@
 # Final project
 
----
-
-**Due Date: TBD**
-
 <aside>
 
 👥 **This is a team project**. You can work with teammates you’ve worked with
