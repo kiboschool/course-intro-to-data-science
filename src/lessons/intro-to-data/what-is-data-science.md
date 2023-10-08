@@ -1,6 +1,6 @@
 # Intro to Data Science
 
-> **_"Data is the new electricity" - Satya Nadella_**
+> <b> _"Data is the new electricity" - Satya Nadella_ <b>
 
 We live in a time where huge amount of data are generated every second through website visit, social media likes and posts, online purchase, gaming, and online movie streaming among others. With an estimated 2.5 quintillion bytes of data generated each day, it is now inevitable for individuals and businesses to strategize on ways to derive valuable insight from this huge data lying around. 
 
