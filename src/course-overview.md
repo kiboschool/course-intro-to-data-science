@@ -34,7 +34,7 @@ At the end of the course, student should be able to:
 ## Instructor
 <!-- UPDATE EACH TERM -->
 - Name: Wasiu Yusuf
-- Email:  [wasiu.yusuf@kibo.school]((wasiu.yusuf@kibo.school)
+- Email:  [wasiu.yusuf@kibo.school](wasiu.yusuf@kibo.school)
 
 ## Live Class Time
 <!-- UPDATE EACH TERM -->
