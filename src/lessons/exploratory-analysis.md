@@ -21,7 +21,7 @@ After this week, you will be able to:
 
 <aside>
 
-Watch the video below to get an overview of the coming week.
+Watch the video below to get an overview of this week.
 
 </aside>
 
