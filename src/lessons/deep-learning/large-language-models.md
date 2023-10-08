@@ -52,4 +52,4 @@ LLMs is like a computer version of a language expert that can read, write, and u
 </aside>
 
 
-> ➡️ Next, we'll look at `Building a DL model`... 🎯
+> ➡️ Next, we'll look at `Model deployment`... 🎯
