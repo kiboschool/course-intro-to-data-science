@@ -1,6 +1,6 @@
 # Intro to Data Science
 
-> <b> _"Data is the new electricity" - Satya Nadella_ <b>
+> <b> <i><quote>Data is the new electricity</quote></i> - Satya Nadella </b>
 
 We live in a time where huge amount of data are generated every second through website visit, social media likes and posts, online purchase, gaming, and online movie streaming among others. With an estimated 2.5 quintillion bytes of data generated each day, it is now inevitable for individuals and businesses to strategize on ways to derive valuable insight from this huge data lying around. 
 
@@ -10,7 +10,7 @@ Now that you have an idea about the data boom, let’s look at what data science
 
 <aside>
 
-**_Definition_**
+**_Definition..._**
 
 _Data science_ is a multidisciplinary field that involves using statistical and computational methods to extract insights from complex dataset. 
 
