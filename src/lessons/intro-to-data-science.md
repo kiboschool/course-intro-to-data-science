@@ -8,7 +8,7 @@ This week, we will explore the fundamental concepts and techniques used in data 
 
 Whatever your prior expereince, this week you'll touch on basics of data science and the tools you'll be using. You'll also start practising learning and working together. The internet is social, and technologists build it together. So, that's what you'll learn to do too.
 
-## Learning Outcomes
+## Learning Outcomes.
 
 After this week, you will be able to:
 
