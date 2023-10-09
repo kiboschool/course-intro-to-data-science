@@ -10,9 +10,7 @@
 
 </aside>
 
-<div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/j4ilyAbjjkvsF4" title="Welcome to the web foundation course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/zbRTo_jy7xI?si=f2pgdgH0eQbMLfix" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Course Description
 
