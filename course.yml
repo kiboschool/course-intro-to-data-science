@@ -47,6 +47,18 @@ units:
         kind: GENERAL
         workload: 15
         publish: 2023-10-09
+      - name: Core Reading List
+        path: src/lessons/additional-reading/core-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-09
+      - name: Supplemental Reading List
+        path: src/lessons/additional-reading/supplemental-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-09
   - name: Intro to Data Science
     activities:
       - name: Introduction
@@ -573,24 +585,4 @@ units:
         grade_weight: 25.0
         due: 2023-12-15
         publish: 2023-12-04
-  - name: Additional Reading
-    activities:
-      - name: Introduction
-        path: src/lessons/additional-reading.md
-        type: lesson
-        kind: GENERAL
-        workload: 30
-        publish: 2023-10-09
-      - name: Core Reading List
-        path: src/lessons/additional-reading/core-reading.md
-        type: lesson
-        kind: PUBLICATION_REVIEWED
-        workload: 240
-        publish: 2023-10-09
-      - name: Supplemental Reading List
-        path: src/lessons/additional-reading/supplemental-reading.md
-        type: lesson
-        kind: PUBLICATION_REVIEWED
-        workload: 240
-        publish: 2023-10-09
 

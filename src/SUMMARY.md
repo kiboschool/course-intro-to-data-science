@@ -9,6 +9,8 @@
   - [Giving Help](giving-help.md) <!-- w:15, k:general, p:2023-10-09 -->
   - [Academic Integrity](academic-integrity.md) <!-- w:15, k:general, p:2023-10-09 -->
   - [Course Tools](course-tools.md) <!-- w:15, k:general, p:2023-10-09 -->
+  - [Core Reading List](lessons/additional-reading/core-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-09 -->
+  - [Supplemental Reading List](lessons/additional-reading/supplemental-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-09 -->
 
 ## Week 1
 
@@ -116,6 +118,3 @@
   - [Practice - Model Deployment](lessons/deep-learning/model-deployment.md.md) <!-- w:180, k:assignment, g:2, d:2023-12-09, p:2023-12-04 -->
   - [Final Project](final-project.md) <!-- w:480, k:assignmentSummative, g:25, d:2023-12-15, p:2023-12-04 -->
 
-- [Additional Reading](lessons/additional-reading.md) <!-- w:30, k:general, p:2023-10-09 -->
-  - [Core Reading List](lessons/additional-reading/core-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-09 -->
-  - [Supplemental Reading List](lessons/additional-reading/supplemental-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-09 -->
