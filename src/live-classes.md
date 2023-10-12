@@ -10,7 +10,7 @@ so that you do not fall behind.
 
 | Week | Topic                         |  Slides     | Live Class |
 |------|-------------------------------|-------------|------------|
-| 1    |                               |             |            |
+| 1    | Intro to Data Science         | [Slide_1]   | [Video_1] |
 | 2    |                               |             |            |
 | 3    |                               |             |            |
 | 4    |                               |             |            |
@@ -25,10 +25,10 @@ so that you do not fall behind.
 If you miss a class, review the slides and recording of the class and submit the activity or exercise as required.
 
 <!-- Week 1 -->
-[S1]:
-[V1]:
-[E1]:
-[L1]:
+[Slide_1]: https://docs.google.com/presentation/d/1vHJNzYnhypzNbqrZGFYPkkERV-tt2GrUu15WTC9lXcg/edit?usp=sharing
+[Video_1]: https://youtu.be/bJIXUi9dbV8?feature=shared
+[EExercise]:
+[Link]:
 
 <!-- Week 2 -->
 [S2]: https://docs.google.com/presentation/d/1CliR1sCVeqEFxRNuWDYTyYaEdLMgMwXIfF0A-mcH2is/edit?usp=sharing
