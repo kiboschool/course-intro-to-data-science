@@ -6,7 +6,7 @@ So far we've explored some tools used in data science, and now is the time to st
 In data science, one of the fundamental tasks is loading data into our analysis environment. We'll be work with diverse data sources, ranging from structured datasets stored in CSV files to real-time data obtained through APIs. In this section, we will explore how to load data from CSV files and APIs using Pandas.
 Before we get started with Pandas, let first look at how we can create a notebook (i.e., the file containing our codes and analysis) on <a href="https://colab.research.google.com/" target="_blank">google colab</a>, VSCode, and Jupyter Notebook.
 
-> 📺 **How to create a notebook on colab** 👨🏾‍💻
+> 📺 **How to create a notebook** 👨🏾‍💻
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4ciP_GZ4E7c?si=fHh0hEbj_qRKpZXx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div> 
 
