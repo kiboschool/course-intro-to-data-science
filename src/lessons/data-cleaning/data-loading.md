@@ -15,7 +15,7 @@ In summary...
 - In your browser, goto <a href="https://colab.research.google.com/" target="_blank">https://colab.research.google.com</a>
 - click on `file` and create a new notebook.
 
-Now that you understanding how to create a workbook, we'll begin by looking at how we can load data from a csv file using Pandas. For this, we'll be using the <a href="https://drive.google.com/file/d/1GzZqbDCVBdcVL6T3WQsKOyXmo32EaSU5/view?usp=sharing" target="_blank"> COVID-19 </a> dataset you explored in `section 1.4`.
+Now that you understanding how to create a notebook, we'll begin by looking at how we can load data from a csv file using Pandas. For this, we'll be using the <a href="https://drive.google.com/file/d/1GzZqbDCVBdcVL6T3WQsKOyXmo32EaSU5/view?usp=sharing" target="_blank"> COVID-19 </a> dataset you explored in `section 1.4`.
 
 ### Pandas
 <aside>
@@ -31,43 +31,35 @@ Pandas is a fast, powerful, flexible and easy to use data analysis tool built fo
 Loading data from CSV files using Pandas is a fundamental skill for every data scientist. It provides a convenient way to import data into a structured format for further analysis and exploration. To load a CSV file using Pandas, the first step is to import the Pandas library in your notebook.  
 
 ```
-
     import pandas as pd
-
 ```
 Using the alias `pd` allows you to refer to Pandas as `pd`. Next, we can use the `read_csv()` function provided by Pandas to read the CSV file into a Pandas DataFrame. The read_csv() function takes the file path (or file location) as input and returns a DataFrame object. To read a CSV file from google drive, you can either specify a file path to your google drive after mounting it or upload it to colab.
 
-<details>
+<!-- <details>
     <summary>How to link notebook to google drive</summary>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/VCllZKM7Njk" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div> 
-</details>
+</details> -->
 
 ```
-
     df = pd.read_csv('path/to/your/corona_virus.csv')
-
 ```
 
 By default, read_csv() assumes that the CSV file has a header row containing column names. If the CSV file does not have a header row, we can set the `header` parameter to `None`. 
 
 ```
-
     df = pd.read_csv('path/to/your/corona_virus.csv', header=None)
-
 ```
 
 Once the data is loaded into a DataFrame, Pandas offers a wide range of methods for data exploration and manipulation. You can examine the data using functions like head(), tail(), and describe() to get a glimpse of the dataset's structure and statistical summaries. Now that you've successfully loaded your dataset into Pandas DataFrame, let's see what the data looks like by viewing some rows using Pandas `.head()` function.
 
 ```
-
     df.head()
-
 ```
 
 ![data-head](./data-cleaning/read_csv.png)
 
-> ✨ Awesome! you've successfully read your first CSV file using Python and Pandas.
+> ✨ Awesome! you've successfully loaded your first CSV file using Python and Pandas.
 
 ### Loading data from API
 In addition to loading data from static files like CSV, data scientists often work with real-time data obtained through APIs. To load data from an API, we typically make HTTP requests and retrieve the data in a structured format, such as JSON (JavaScript Object Notation). Pandas provides convenient functions to handle JSON data and convert it into a DataFrame.
