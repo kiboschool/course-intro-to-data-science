@@ -66,7 +66,7 @@ When we pull or check our phone for weather data, a request will be sent to your
 > ![api-request](./data-cleaning/api-request.png)
 
 
-For more detailed information about API, refer back to your previous <a href="https://web-app-development.vercel.app/lessons/apis.html" target="_blank"> `web application development` </a> course.
+For more detailed information about API, refer back to your previous `Web Application Development` course.
 Now that we have an understanding of what API does, let us look at different format of data we can get while using an API. As a data scientist, the most common data format are `csv, json`, and `xml`. Below is a summary with example of how each of this data format looks like.
 
 #### JSON
