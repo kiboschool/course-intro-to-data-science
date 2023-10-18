@@ -44,7 +44,6 @@ One straightforward approach is to remove rows or columns with missing values us
 
     # Drop rows with any missing values
     df.dropna(axis=0, inplace=True)
-
 ```
 
 ![drop-column](./data-cleaning/drop_column.png)
