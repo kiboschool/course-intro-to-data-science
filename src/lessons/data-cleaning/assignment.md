@@ -21,7 +21,7 @@ One of the challenges of web scraping is unclean data. Different front-end devel
 
 You'll definitely learn a lot about data cleaning with this dataset.
 
-[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=FIFA-21%20Player%20Ratings&color=blue)](https://github.com/kiboschool/fifa-21-player-ratings.git)
+[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=FIFA-21%20Player%20Ratings&color=blue)](https://classroom.github.com/a/QOGw3bTY)
 
 
 ### TODOs
