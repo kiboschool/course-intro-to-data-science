@@ -27,7 +27,7 @@ Your task for this project is to perform data cleaning and visualization on the 
 
 **_Repository..._**
 
-[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=Netflix%20Movies%20and%20Shows&color=blue)](https://classroom.github.com/a/PdQq6I2p)
+[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=Netflix%20Movies%20and%20Shows&color=blue)](https://classroom.github.com/a/dItj3Zd6)
 
 </aside>
 
