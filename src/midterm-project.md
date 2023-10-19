@@ -27,7 +27,7 @@ Your task for this project is to perform data cleaning and visualization on the 
 
 **_Repository..._**
 
-[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=Netflix%20Movies%20and%20Shows&color=blue)](https://github.com/kiboschool/netflix-midterm-project.git)
+[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=Netflix%20Movies%20and%20Shows&color=blue)](https://classroom.github.com/a/PdQq6I2p)
 
 </aside>
 
@@ -38,6 +38,8 @@ Your task for this project is to perform data cleaning and visualization on the 
 
 **1. Data Cleaning**:
 
+- Create a `notebook` with the name netflix-midterm-project where you'll do all your work
+- Load and explore the data to have an understanding of what it represent.
 - Remove any duplicate entries in the dataset.
 - Handle missing values by either imputing or removing them.
 - Standardize and clean up the text data, such as titles or genres, to ensure consistency.
