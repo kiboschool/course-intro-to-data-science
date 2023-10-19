@@ -38,7 +38,7 @@ Your task for this project is to perform data cleaning and visualization on the 
 
 **1. Data Cleaning**:
 
-- Create a `notebook` with the name netflix-midterm-project where you'll do all your work
+- Create a **notebook** with the name `netflix-midterm-project.ipynb` where you'll do all your work
 - Load and explore the data to have an understanding of what it represent.
 - Remove any duplicate entries in the dataset.
 - Handle missing values by either imputing or removing them.
