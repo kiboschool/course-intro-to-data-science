@@ -28,7 +28,7 @@ For instance, we can create line plots to visualize the changes in GDP for diffe
 </aside>
 
 ### Repository
-[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=World%20GDP%20Exploration&color=blue)](https://github.com/kiboschool/world-gdp-exploration.git)
+[![Click to open the project](https://img.shields.io/static/v1?label=Open%20Project&message=World%20GDP%20Exploration&color=blue)](https://classroom.github.com/a/yIy6N6_S)
 
 
 ### TODOs
