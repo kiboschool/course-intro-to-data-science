@@ -17,11 +17,10 @@ Data visualization using Excel allows us to present data in a visual and easy-to
 To have a good understanding of how to visualize data using Microsoft Excel... 
 - Watch the next video 📺.  
 - Pause and practice along with the tutor.
-- Dataset available **[here](https://docs.google.com/spreadsheets/d/16qmik_M4iSwtM4i2Vkf6zom7BqoJtclG/edit?usp=sharing&ouid=106273662242741501748&rtpof=true&sd=true)**
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/TrhvO5-Jum8" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DAU0qqh_I-A?si=0YVDn6EmA6YnVMec" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
 
 
 By presenting information visually, Excel makes it easier for us to grasp and interpret the data, enabling better decision-making and communication. Visualizations also make it easier to share and communicate information with others, as it provides a clear and intuitive way to present complex data. Whether it's in business, science, or everyday life, data visualization helps us make better decisions and gain insights from the vast amounts of information around us.
