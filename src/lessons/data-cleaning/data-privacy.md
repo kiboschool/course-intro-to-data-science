@@ -1,6 +1,6 @@
 # GDPR and data privacy
 
-It is crucial to respect and uphold the privacy rights of individuals whose data is being collected and analyzed. As a data scientists, wee need to ensure that personal data is handled responsibly, protecting individuals' rights and fostering trust in data-driven practices. To achieve this, we need to understand data privacy and the regulation (i.e., GDPR) surrounding use of personal data.
+It is crucial to respect and uphold the privacy rights of individuals whose data is being collected and analyzed. As a data scientists, we need to ensure that personal data is handled responsibly, protecting individuals' rights and fostering trust in data-driven practices. To achieve this, we need to understand data privacy and the regulation (i.e., GDPR) surrounding use of personal data.
 
 > 📺 **Data privacy and GDPR** 👨🏾‍💻
 
