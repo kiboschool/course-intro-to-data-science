@@ -1,0 +1,589 @@
+name: Introduction to Data Science
+code: CSA004
+term: Oct-2023
+about_path: src/course-overview.md
+image_path: src/analysis.png
+units:
+  - name: Course Overview
+    activities:
+      - name: Introduction
+        path: src/course-overview.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Live Classes
+        path: src/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Assessments
+        path: src/assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Getting Help
+        path: src/getting-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Giving Help
+        path: src/giving-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Academic Integrity
+        path: src/academic-integrity.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Course Tools
+        path: src/course-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: 2023-10-09
+      - name: Core Reading List
+        path: src/lessons/additional-reading/core-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-09
+      - name: Supplemental Reading List
+        path: src/lessons/additional-reading/supplemental-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-09
+  - name: Intro to Data Science
+    activities:
+      - name: Introduction
+        path: src/lessons/intro-to-data-science.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-09
+      - name: What is data science
+        path: src/lessons/intro-to-data/what-is-data-science.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Building blocks and workflow
+        path: src/lessons/intro-to-data/ds-bulding-blocks.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Data type taxonomy
+        path: src/lessons/intro-to-data/data-and-data-categories.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Data and Spreadsheet
+        path: src/lessons/intro-to-data/data-spreadsheet.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Data cleaning in Excel
+        path: src/lessons/intro-to-data/data-cleaning-excel.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Data visualization in Excel
+        path: src/lessons/intro-to-data/data-viz-excel.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Data science tools
+        path: src/lessons/intro-to-data/ds-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-09
+      - name: Practice - Intro to DS
+        path: src/lessons/intro-to-data/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-10-17
+        publish: 2023-10-09
+      - name: Assignment - Intro to DS
+        path: src/lessons/intro-to-data/assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-10-17
+        publish: 2023-10-09
+  - name: Data Collection and Cleaning
+    activities:
+      - name: Introduction
+        path: src/lessons/data-collection-cleaning.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-16
+      - name: Data sources and collection
+        path: src/lessons/data-cleaning/data-sources.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Data loading & exploration
+        path: src/lessons/data-cleaning/data-loading.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Data cleaning techniques
+        path: src/lessons/data-cleaning/data-cleaning.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Handling data outliers
+        path: src/lessons/data-cleaning/data-inconsistency.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Validation and documentation
+        path: src/lessons/data-cleaning/data-validation.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Data privacy and GDPR
+        path: src/lessons/data-cleaning/data-privacy.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-16
+      - name: Practice - Data Collection and Cleaning
+        path: src/lessons/data-cleaning/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-10-23
+        publish: 2023-10-16
+      - name: Assignment - Data Collection and Cleaning
+        path: src/lessons/data-cleaning/assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-10-23
+        publish: 2023-10-16
+  - name: Data Visualization & Insight
+    activities:
+      - name: Introduction
+        path: src/lessons/data-visualization.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-23
+      - name: Data visualization
+        path: src/lessons/data-visualization/what-is-visualization.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Visualization tools
+        path: src/lessons/data-visualization/visualization-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Creating basic plots
+        path: src/lessons/data-visualization/basic-plots.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Data size and Bubble chart
+        path: src/lessons/data-visualization/bubble-chart.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Data distribution
+        path: src/lessons/data-visualization/data-distribution.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Insight and reporting
+        path: src/lessons/data-visualization/insight-reporting.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-23
+      - name: Practice - Visualization
+        path: src/lessons/data-visualization/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-10-30
+        publish: 2023-10-23
+      - name: Assignment - Visualization
+        path: src/lessons/data-visualization/assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-10-30
+        publish: 2023-10-23
+  - name: Exploratory Data Analysis
+    activities:
+      - name: Introduction
+        path: src/lessons/exploratory-analysis.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-30
+      - name: Intro to EDA
+        path: src/lessons/eda/what-is-eda.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Fundamentals of statistics
+        path: src/lessons/eda/fundamentals-of-statistics.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Descriptive statistics
+        path: src/lessons/eda/descriptive-statistics.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Measure of dispersion
+        path: src/lessons/eda/measures-of-dispersion.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Correlation analysis
+        path: src/lessons/eda/correlation-covariance.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Visualization for EDA
+        path: src/lessons/eda/viz-for-eda.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-30
+      - name: Practice - EDA
+        path: src/lessons/eda/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-11-06
+        publish: 2023-10-30
+      - name: Midterm Project
+        path: src/midterm-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 420
+        grade_weight: 15.0
+        due: 2023-11-14
+        publish: 2023-10-30
+  - name: Feature Engineering
+    activities:
+      - name: Introduction
+        path: src/lessons/feature-engineering.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-11-06
+      - name: Intro to Feature engineering
+        path: src/lessons/feature-engineering/intro-to-feature-engineering.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-06
+      - name: Feature transformation
+        path: src/lessons/feature-engineering/feature-transformation.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-06
+      - name: Feature encoding
+        path: src/lessons/feature-engineering/feature-encoding.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-06
+      - name: Feature selection methods
+        path: src/lessons/feature-engineering/feature-selection-methods.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-06
+      - name: Feature extraction
+        path: src/lessons/feature-engineering/feature-extraction.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-06
+      - name: Practice - Feature Engineering
+        path: src/lessons/feature-engineering/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-11-13
+        publish: 2023-11-06
+  - name: Intro to Machine Learning
+    activities:
+      - name: Introduction
+        path: src/lessons/intro-to-ml.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-11-13
+      - name: Getting to know ML
+        path: src/lessons/intro-to-ml/getting-to-know-ml.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: Supervised learning
+        path: src/lessons/intro-to-ml/supervised-learning.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: ML Classification
+        path: src/lessons/intro-to-ml/classification.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: Regression in ML
+        path: src/lessons/intro-to-ml/regression.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: Unsupervised learning
+        path: src/lessons/intro-to-ml/unsupervised-learning.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: Build your first ML model
+        path: src/lessons/intro-to-ml/build-your-first-ml.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-13
+      - name: Practice - ML
+        path: src/lessons/intro-to-ml/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-11-21
+        publish: 2023-11-13
+      - name: Assignment - ML
+        path: src/lessons/intro-to-ml/ml-assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-11-21
+        publish: 2023-11-13
+  - name: Model Evaluation Techniques
+    activities:
+      - name: Introduction
+        path: src/lessons/model-evaluation.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-11-20
+      - name: Evaluating a model
+        path: src/lessons/model-evaluation/intro-to-model-evaluation.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Confusion matrix
+        path: src/lessons/model-evaluation/confusion-matrix.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Overfitting and underfitting
+        path: src/lessons/model-evaluation/overfitting-underfitting.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Cross validation
+        path: src/lessons/model-evaluation/cross-validation.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Regression evaluation
+        path: src/lessons/model-evaluation/regression-evaluation.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Model selection
+        path: src/lessons/model-evaluation/model-selection.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-20
+      - name: Practice - Evaluation
+        path: src/lessons/model-evaluation/practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-11-28
+        publish: 2023-11-20
+      - name: Assignment - Evaluation
+        path: src/lessons/model-evaluation/model-selection-assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-11-28
+        publish: 2023-11-20
+  - name: Natural Language Processing
+    activities:
+      - name: Introduction
+        path: src/lessons/intro-to-nlp.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-11-27
+      - name: Overview of NLP
+        path: src/lessons/nlp/overview-of-nlp.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Libraries for nlp
+        path: src/lessons/nlp/nlp-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Text preprocessing
+        path: src/lessons/nlp/text-preprocessing.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Text representations
+        path: src/lessons/nlp/text-representations.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Sentiment analysis
+        path: src/lessons/nlp/sentiment-analysis.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Named entity recognition
+        path: src/lessons/nlp/named-entity-recognition.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-11-27
+      - name: Practice - NLP
+        path: src/lessons/nlp/nlp-practice.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-12-04
+        publish: 2023-11-27
+      - name: Assignment - NLP
+        path: src/lessons/nlp/nlp-assignment.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 240
+        grade_weight: 7.0
+        due: 2023-12-05
+        publish: 2023-11-27
+  - name: Deep Learning Fundamentals
+    activities:
+      - name: Introduction
+        path: src/lessons/deep-learning-fundamentals.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-12-04
+      - name: Intro to deep learning
+        path: src/lessons/deep-learning/intro-to-deep-learning.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-12-04
+      - name: Deep learning tools
+        path: src/lessons/deep-learning/deep-learning-tools.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-12-04
+      - name: Computer vision
+        path: src/lessons/deep-learning/computer-vision.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-12-04
+      - name: Build DL models
+        path: src/lessons/deep-learning/build-deep-learning.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-12-04
+      - name: Generative AI
+        path: src/lessons/deep-learning/large-language-models.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-12-04
+      - name: Practice - Model Deployment
+        path: src/lessons/deep-learning/model-deployment.md.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 2.0
+        due: 2023-12-09
+        publish: 2023-12-04
+      - name: Final Project
+        path: src/final-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 480
+        grade_weight: 25.0
+        due: 2023-12-16
+        publish: 2023-12-04
+

@@ -1,0 +1,167 @@
+{
+  "name": "Introduction to Data Science",
+  "id": "544001",
+  "code": "CSA004",
+  "assignments": [
+    {
+      "id": "2975480",
+      "name": "Assignment - Intro to DS",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/2975480",
+      "filename": "assignment_-_intro_to_ds.pdf"
+    },
+    {
+      "id": "3191050",
+      "name": "Practice - Data Collection and Cleaning",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3191050",
+      "filename": "practice_-_data_collection_and_cleaning.pdf"
+    },
+    {
+      "id": "3195237",
+      "name": "Practice - EDA",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3195237",
+      "filename": "practice_-_eda.pdf"
+    },
+    {
+      "id": "3234166",
+      "name": "Practice - Evaluation",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3234166",
+      "filename": "practice_-_evaluation.pdf"
+    },
+    {
+      "id": "3195824",
+      "name": "Practice - Feature Engineering",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3195824",
+      "filename": "practice_-_feature_engineering.pdf"
+    },
+    {
+      "id": "3171474",
+      "name": "Practice - Intro to DS",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3171474",
+      "filename": "practice_-_intro_to_ds.pdf"
+    },
+    {
+      "id": "3220388",
+      "name": "Practice - ML",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3220388",
+      "filename": "practice_-_ml.pdf"
+    },
+    {
+      "id": "3597931",
+      "name": "Practice - Model Deployment",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3597931",
+      "filename": "practice_-_model_deployment.pdf"
+    },
+    {
+      "id": "3234317",
+      "name": "Practice - NLP",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3234317",
+      "filename": "practice_-_nlp.pdf"
+    },
+    {
+      "id": "3192034",
+      "name": "Practice - Visualization",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3192034",
+      "filename": "practice_-_visualization.pdf"
+    },
+    {
+      "id": "2975480",
+      "name": "Assignment - Intro to DS",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/2975480",
+      "filename": "assignment_-_intro_to_ds.pdf"
+    },
+    {
+      "id": "3191050",
+      "name": "Practice - Data Collection and Cleaning",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3191050",
+      "filename": "practice_-_data_collection_and_cleaning.pdf"
+    },
+    {
+      "id": "3195237",
+      "name": "Practice - EDA",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3195237",
+      "filename": "practice_-_eda.pdf"
+    },
+    {
+      "id": "3234166",
+      "name": "Practice - Evaluation",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3234166",
+      "filename": "practice_-_evaluation.pdf"
+    },
+    {
+      "id": "3195824",
+      "name": "Practice - Feature Engineering",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3195824",
+      "filename": "practice_-_feature_engineering.pdf"
+    },
+    {
+      "id": "3171474",
+      "name": "Practice - Intro to DS",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3171474",
+      "filename": "practice_-_intro_to_ds.pdf"
+    },
+    {
+      "id": "3220388",
+      "name": "Practice - ML",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3220388",
+      "filename": "practice_-_ml.pdf"
+    },
+    {
+      "id": "3597931",
+      "name": "Practice - Model Deployment",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3597931",
+      "filename": "practice_-_model_deployment.pdf"
+    },
+    {
+      "id": "3234317",
+      "name": "Practice - NLP",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3234317",
+      "filename": "practice_-_nlp.pdf"
+    },
+    {
+      "id": "3192034",
+      "name": "Practice - Visualization",
+      "course_id": "544001",
+      "course_code": "CSA004",
+      "href": "https://gradescope.com/courses/544001/assignments/3192034",
+      "filename": "practice_-_visualization.pdf"
+    }
+  ]
+}
